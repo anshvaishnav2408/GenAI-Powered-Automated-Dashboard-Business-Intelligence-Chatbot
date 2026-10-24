@@ -1,0 +1,801 @@
+Customer_ID,Signup_Date,Plan_Tier,Contract_Type,Monthly_Charges,Total_Charges,Tenure_Months,Support_Tickets,Active_Users,NPS_Score,Churn_Status
+USER-5000,2023-01-01,Starter,Month-to-month,39.18,716.34,19,6,5,2,Yes
+USER-5001,2023-01-02,Starter,Month-to-month,35.34,735.72,21,3,3,1,Yes
+USER-5002,2023-01-03,Starter,Month-to-month,44.09,1359.01,31,1,3,3,No
+USER-5003,2023-01-04,Starter,Two year,40.44,565.87,14,1,7,5,No
+USER-5004,2023-01-06,Professional,One year,140.42,3859.1,27,3,4,4,No
+USER-5005,2023-01-07,Starter,Month-to-month,43.01,262.12,6,5,5,3,Yes
+USER-5006,2023-01-08,Starter,Month-to-month,36.71,228.12,6,3,7,6,Yes
+USER-5007,2023-01-09,Starter,Two year,31.79,1025.46,33,0,7,10,No
+USER-5008,2023-01-11,Professional,Month-to-month,133.29,2150.49,16,1,8,6,No
+USER-5009,2023-01-12,Starter,Month-to-month,41.27,1153.56,28,5,7,7,No
+USER-5010,2023-01-13,Professional,One year,127.62,1261.03,10,4,1,10,No
+USER-5011,2023-01-14,Starter,One year,36.61,1191.63,31,4,4,1,No
+USER-5012,2023-01-16,Professional,Month-to-month,132.67,3486.45,27,1,6,7,No
+USER-5013,2023-01-17,Starter,One year,36.29,75.38,2,2,9,6,No
+USER-5014,2023-01-18,Starter,One year,35.58,904.61,26,4,3,4,No
+USER-5015,2023-01-19,Starter,Two year,40.03,1400.53,35,1,2,4,No
+USER-5016,2023-01-21,Enterprise,Month-to-month,918.91,30931.47,35,2,33,9,No
+USER-5017,2023-01-22,Starter,One year,34.05,131.65,4,2,4,2,Yes
+USER-5018,2023-01-23,Enterprise,Month-to-month,1075.32,27950.84,27,1,20,5,No
+USER-5019,2023-01-24,Professional,Two year,179.52,2362.63,13,3,3,1,No
+USER-5020,2023-01-26,Starter,Two year,45.28,743.78,17,1,7,1,No
+USER-5021,2023-01-27,Professional,Two year,172.68,174.11,1,3,2,9,No
+USER-5022,2023-01-28,Professional,Month-to-month,180.66,1435.39,8,2,1,5,Yes
+USER-5023,2023-01-29,Professional,Two year,114.12,2273.92,19,1,5,10,No
+USER-5024,2023-01-31,Starter,Month-to-month,35.11,716.45,20,1,1,4,Yes
+USER-5025,2023-02-01,Professional,Month-to-month,163.16,2820.88,17,4,2,10,Yes
+USER-5026,2023-02-02,Enterprise,One year,702.69,16432.01,23,3,36,3,No
+USER-5027,2023-02-03,Starter,Two year,47.82,394.64,8,1,4,4,No
+USER-5028,2023-02-05,Starter,Month-to-month,40.73,907.67,23,2,7,6,No
+USER-5029,2023-02-06,Starter,Month-to-month,45.02,844.44,18,1,7,5,Yes
+USER-5030,2023-02-07,Professional,Month-to-month,116.27,940.91,8,3,3,4,Yes
+USER-5031,2023-02-08,Starter,Two year,47.49,371.9,8,4,8,6,No
+USER-5032,2023-02-10,Starter,One year,45.56,93.93,2,3,7,2,Yes
+USER-5033,2023-02-11,Professional,One year,144.44,3517.52,25,2,2,1,No
+USER-5034,2023-02-12,Starter,One year,29.12,110.66,4,1,1,4,No
+USER-5035,2023-02-13,Starter,One year,36.96,764.5,21,1,9,1,No
+USER-5036,2023-02-15,Starter,Month-to-month,38.61,1115.51,28,3,7,3,Yes
+USER-5037,2023-02-16,Professional,One year,146.79,4366.1,30,4,5,7,No
+USER-5038,2023-02-17,Professional,One year,122.09,2953.7,25,1,1,8,No
+USER-5039,2023-02-19,Enterprise,One year,862.12,21694.3,25,0,7,5,No
+USER-5040,2023-02-20,Professional,Month-to-month,108.34,2701.67,26,1,5,4,No
+USER-5041,2023-02-21,Starter,Month-to-month,30.97,435.68,14,3,3,5,Yes
+USER-5042,2023-02-22,Professional,One year,166.85,4843.87,29,4,5,8,No
+USER-5043,2023-02-24,Professional,Month-to-month,160.87,1567.83,10,4,2,6,Yes
+USER-5044,2023-02-25,Starter,One year,45.15,1218.92,28,0,4,8,No
+USER-5045,2023-02-26,Starter,Month-to-month,48.36,140.36,3,2,2,6,Yes
+USER-5046,2023-02-27,Enterprise,Month-to-month,1111.44,31911.73,30,4,40,9,No
+USER-5047,2023-03-01,Starter,Two year,39.52,1283.74,31,4,9,7,No
+USER-5048,2023-03-02,Professional,Month-to-month,106.08,1943.02,18,3,2,6,No
+USER-5049,2023-03-03,Starter,Month-to-month,35.77,37.41,1,1,3,7,No
+USER-5050,2023-03-04,Starter,One year,36.15,1190.75,32,0,4,1,No
+USER-5051,2023-03-06,Enterprise,One year,611.12,11025.63,18,4,36,10,No
+USER-5052,2023-03-07,Starter,One year,33.25,1172.85,35,5,1,6,No
+USER-5053,2023-03-08,Starter,Month-to-month,31.98,285.08,9,3,8,6,Yes
+USER-5054,2023-03-09,Professional,One year,104.17,2393.71,24,3,9,6,No
+USER-5055,2023-03-11,Starter,Month-to-month,45.98,857.65,18,3,5,2,Yes
+USER-5056,2023-03-12,Starter,Two year,44.94,697.6,15,3,4,6,No
+USER-5057,2023-03-13,Professional,Month-to-month,181.01,1805.18,10,4,1,3,Yes
+USER-5058,2023-03-14,Starter,Month-to-month,33.53,647.9,19,2,2,8,No
+USER-5059,2023-03-16,Enterprise,One year,660.06,18681.29,28,2,10,2,No
+USER-5060,2023-03-17,Professional,Month-to-month,144.32,3437.69,25,0,1,9,No
+USER-5061,2023-03-18,Starter,Month-to-month,38.75,259.66,7,2,2,7,No
+USER-5062,2023-03-19,Professional,One year,157.37,5425.2,33,3,6,5,No
+USER-5063,2023-03-21,Starter,Month-to-month,31.09,782.68,26,3,4,5,Yes
+USER-5064,2023-03-22,Enterprise,Month-to-month,788.81,2417.09,3,4,6,1,Yes
+USER-5065,2023-03-23,Starter,Two year,46.04,379.58,8,1,8,8,No
+USER-5066,2023-03-24,Professional,Month-to-month,175.27,2834.34,17,3,7,10,No
+USER-5067,2023-03-26,Enterprise,Two year,944.15,23569.9,26,1,25,6,No
+USER-5068,2023-03-27,Starter,Month-to-month,44.7,356.37,8,2,9,3,Yes
+USER-5069,2023-03-28,Starter,Month-to-month,38.46,158.03,4,3,4,9,Yes
+USER-5070,2023-03-29,Starter,Two year,39.21,37.66,1,4,1,6,No
+USER-5071,2023-03-31,Starter,One year,39.67,1039.53,25,2,4,1,No
+USER-5072,2023-04-01,Starter,Month-to-month,41.21,332.01,8,3,6,8,Yes
+USER-5073,2023-04-02,Enterprise,One year,932.17,21753.9,23,4,10,6,No
+USER-5074,2023-04-03,Starter,Month-to-month,29.23,289.67,10,4,2,3,Yes
+USER-5075,2023-04-05,Starter,Month-to-month,47.88,1414.2,30,3,9,4,Yes
+USER-5076,2023-04-06,Professional,Month-to-month,181.02,1248.26,7,2,3,7,No
+USER-5077,2023-04-07,Starter,Month-to-month,48.4,1266.43,25,1,7,8,No
+USER-5078,2023-04-09,Professional,One year,110.26,2015.38,18,0,1,4,No
+USER-5079,2023-04-10,Starter,Month-to-month,32.56,941.98,28,2,9,8,No
+USER-5080,2023-04-11,Starter,Month-to-month,42.24,1345.91,33,1,9,2,No
+USER-5081,2023-04-12,Professional,Two year,124.27,4240.79,34,3,8,10,No
+USER-5082,2023-04-14,Professional,Month-to-month,162.31,1476.67,9,2,8,5,Yes
+USER-5083,2023-04-15,Professional,Two year,155.79,2601.23,16,4,2,10,No
+USER-5084,2023-04-16,Starter,Month-to-month,40.03,1149.5,28,3,1,9,No
+USER-5085,2023-04-17,Professional,Month-to-month,137.18,1662.7,12,2,1,3,Yes
+USER-5086,2023-04-19,Professional,Month-to-month,153.05,2197.47,15,0,5,3,No
+USER-5087,2023-04-20,Enterprise,Two year,958.1,11168.39,12,2,43,2,No
+USER-5088,2023-04-21,Professional,One year,135.67,3908.53,29,1,6,1,No
+USER-5089,2023-04-22,Starter,One year,39.35,439.45,11,1,5,10,No
+USER-5090,2023-04-24,Starter,Month-to-month,36.36,213.04,6,1,1,9,No
+USER-5091,2023-04-25,Starter,Month-to-month,48.97,1016.23,20,1,2,4,Yes
+USER-5092,2023-04-26,Starter,Month-to-month,43.6,136.94,3,6,7,4,Yes
+USER-5093,2023-04-27,Professional,Month-to-month,120.22,3611.48,29,3,6,8,No
+USER-5094,2023-04-29,Starter,One year,46.06,701.3,16,1,7,2,No
+USER-5095,2023-04-30,Starter,Month-to-month,44.86,915.08,20,1,4,2,Yes
+USER-5096,2023-05-01,Starter,One year,45.43,528.05,12,5,3,10,No
+USER-5097,2023-05-02,Starter,Two year,32.15,351.31,11,4,3,5,Yes
+USER-5098,2023-05-04,Starter,Two year,45.57,1343.07,30,1,5,9,No
+USER-5099,2023-05-05,Starter,One year,37.07,754.67,21,2,7,5,No
+USER-5100,2023-05-06,Professional,One year,128.63,3210.83,26,5,3,4,Yes
+USER-5101,2023-05-07,Professional,Month-to-month,167.3,1802.32,11,3,3,4,Yes
+USER-5102,2023-05-09,Enterprise,Month-to-month,1130.33,16077.1,14,3,29,9,No
+USER-5103,2023-05-10,Starter,Month-to-month,40.44,1009.42,26,5,8,8,Yes
+USER-5104,2023-05-11,Professional,One year,122.37,3750.83,31,1,9,7,No
+USER-5105,2023-05-12,Professional,Month-to-month,154.22,4976.01,33,3,8,3,Yes
+USER-5106,2023-05-14,Professional,Two year,185.62,4896.56,27,0,8,6,No
+USER-5107,2023-05-15,Starter,Two year,41.98,40.45,1,2,9,4,Yes
+USER-5108,2023-05-16,Professional,Month-to-month,108.66,975.87,9,1,3,8,No
+USER-5109,2023-05-17,Starter,One year,34.57,1003.27,30,5,1,5,No
+USER-5110,2023-05-19,Starter,Month-to-month,42.87,1102.82,26,1,1,4,No
+USER-5111,2023-05-20,Starter,Month-to-month,43.72,1360.63,31,4,6,4,Yes
+USER-5112,2023-05-21,Starter,Two year,32.19,531.76,17,4,3,6,No
+USER-5113,2023-05-22,Starter,Two year,32.34,1159.97,35,2,4,6,No
+USER-5114,2023-05-24,Professional,Month-to-month,167.28,3766.2,22,4,4,8,No
+USER-5115,2023-05-25,Enterprise,Month-to-month,841.26,9487.08,11,0,18,3,Yes
+USER-5116,2023-05-26,Enterprise,Month-to-month,1057.88,29111.93,28,1,10,10,No
+USER-5117,2023-05-28,Enterprise,One year,538.52,7741.28,15,3,41,9,No
+USER-5118,2023-05-29,Professional,One year,111.08,1901.59,17,1,3,7,No
+USER-5119,2023-05-30,Professional,Month-to-month,124.86,255.58,2,1,8,7,No
+USER-5120,2023-05-31,Professional,Month-to-month,117.66,2009.21,17,1,7,6,No
+USER-5121,2023-06-02,Starter,Month-to-month,45.24,1444.04,33,0,5,4,No
+USER-5122,2023-06-03,Professional,Month-to-month,186.46,1493.76,8,2,5,5,Yes
+USER-5123,2023-06-04,Starter,Month-to-month,48.49,47.57,1,2,3,6,Yes
+USER-5124,2023-06-05,Starter,Month-to-month,37.39,189.07,5,1,6,5,Yes
+USER-5125,2023-06-07,Starter,Month-to-month,39.85,609.25,15,5,6,5,Yes
+USER-5126,2023-06-08,Starter,Month-to-month,44.0,570.91,13,3,5,10,No
+USER-5127,2023-06-09,Professional,One year,122.71,3345.13,27,2,1,5,No
+USER-5128,2023-06-10,Enterprise,Month-to-month,1187.68,7135.11,6,1,17,4,Yes
+USER-5129,2023-06-12,Enterprise,Two year,722.04,15127.95,22,1,23,3,No
+USER-5130,2023-06-13,Starter,Month-to-month,35.01,102.02,3,4,3,9,Yes
+USER-5131,2023-06-14,Enterprise,One year,879.48,849.04,1,4,49,3,Yes
+USER-5132,2023-06-15,Starter,Month-to-month,40.31,285.7,7,2,8,5,Yes
+USER-5133,2023-06-17,Professional,Month-to-month,184.31,1450.91,8,2,9,9,No
+USER-5134,2023-06-18,Starter,Month-to-month,48.17,1501.17,31,3,8,2,Yes
+USER-5135,2023-06-19,Enterprise,One year,1173.88,19125.71,17,3,43,1,No
+USER-5136,2023-06-20,Professional,Month-to-month,196.85,5470.53,28,3,5,5,Yes
+USER-5137,2023-06-22,Starter,Two year,31.93,297.85,9,8,3,3,Yes
+USER-5138,2023-06-23,Professional,Two year,167.13,829.48,5,3,4,4,Yes
+USER-5139,2023-06-24,Professional,Month-to-month,180.75,5633.07,31,0,6,8,No
+USER-5140,2023-06-25,Professional,Month-to-month,115.99,3314.39,28,3,3,5,Yes
+USER-5141,2023-06-27,Professional,One year,117.93,1524.54,13,3,8,1,No
+USER-5142,2023-06-28,Enterprise,Month-to-month,1198.74,19800.91,16,1,23,3,Yes
+USER-5143,2023-06-29,Enterprise,Two year,1161.83,26501.32,22,1,32,6,No
+USER-5144,2023-06-30,Starter,One year,30.05,939.44,30,1,8,9,No
+USER-5145,2023-07-02,Starter,Month-to-month,47.0,691.59,15,3,1,4,Yes
+USER-5146,2023-07-03,Enterprise,Month-to-month,522.75,6783.65,13,4,22,3,Yes
+USER-5147,2023-07-04,Enterprise,Month-to-month,626.05,9123.97,15,2,41,9,No
+USER-5148,2023-07-05,Professional,Two year,126.61,2653.11,20,5,2,10,No
+USER-5149,2023-07-07,Starter,Month-to-month,35.1,35.01,1,2,3,5,Yes
+USER-5150,2023-07-08,Starter,One year,45.55,1052.27,23,2,1,9,No
+USER-5151,2023-07-09,Professional,Two year,150.83,4087.54,26,2,3,7,No
+USER-5152,2023-07-10,Starter,One year,37.36,950.7,26,2,2,6,No
+USER-5153,2023-07-12,Professional,Two year,166.44,2837.92,17,3,2,2,No
+USER-5154,2023-07-13,Professional,One year,193.45,2249.72,12,4,2,6,No
+USER-5155,2023-07-14,Professional,Month-to-month,124.3,2403.92,20,3,8,8,No
+USER-5156,2023-07-16,Starter,Month-to-month,37.57,728.98,20,6,1,10,Yes
+USER-5157,2023-07-17,Starter,Month-to-month,40.64,531.8,13,4,3,2,Yes
+USER-5158,2023-07-18,Enterprise,Month-to-month,752.62,14044.08,18,4,34,2,Yes
+USER-5159,2023-07-19,Starter,One year,42.56,930.32,23,1,7,1,No
+USER-5160,2023-07-21,Starter,Two year,42.93,1524.61,34,4,5,1,No
+USER-5161,2023-07-22,Starter,Month-to-month,30.25,174.66,6,2,8,8,No
+USER-5162,2023-07-23,Professional,Month-to-month,130.88,3541.7,26,0,2,7,No
+USER-5163,2023-07-24,Starter,Month-to-month,45.83,1360.31,29,3,6,6,No
+USER-5164,2023-07-26,Professional,Two year,191.93,993.18,5,5,6,1,Yes
+USER-5165,2023-07-27,Professional,Two year,149.82,460.35,3,2,1,7,No
+USER-5166,2023-07-28,Professional,Two year,161.81,4927.11,30,1,9,9,No
+USER-5167,2023-07-29,Starter,Two year,29.64,978.65,34,4,2,10,No
+USER-5168,2023-07-31,Starter,Month-to-month,34.55,101.07,3,3,9,10,Yes
+USER-5169,2023-08-01,Starter,One year,34.44,432.37,12,1,1,2,No
+USER-5170,2023-08-02,Professional,One year,132.61,2138.86,16,3,2,6,No
+USER-5171,2023-08-03,Enterprise,One year,531.88,15971.1,31,4,3,3,No
+USER-5172,2023-08-05,Starter,One year,48.18,1435.5,30,3,3,7,No
+USER-5173,2023-08-06,Enterprise,One year,599.54,16820.57,29,2,20,8,No
+USER-5174,2023-08-07,Enterprise,Month-to-month,703.35,15388.04,22,3,41,8,No
+USER-5175,2023-08-08,Enterprise,One year,744.11,15735.79,21,4,4,4,No
+USER-5176,2023-08-10,Starter,Month-to-month,29.4,605.42,21,2,8,3,Yes
+USER-5177,2023-08-11,Starter,Month-to-month,46.75,517.94,11,2,3,9,No
+USER-5178,2023-08-12,Professional,One year,144.93,1029.93,7,0,1,10,No
+USER-5179,2023-08-13,Enterprise,One year,1144.79,6770.24,6,1,41,9,No
+USER-5180,2023-08-15,Professional,One year,142.63,2654.47,19,1,2,5,No
+USER-5181,2023-08-16,Professional,Month-to-month,171.46,3336.94,20,3,2,2,Yes
+USER-5182,2023-08-17,Starter,Two year,42.04,1223.74,29,4,7,2,No
+USER-5183,2023-08-18,Professional,Two year,132.57,4354.43,34,3,4,10,No
+USER-5184,2023-08-20,Professional,Month-to-month,105.38,2400.66,23,5,9,10,Yes
+USER-5185,2023-08-21,Starter,Month-to-month,41.19,40.23,1,3,1,5,Yes
+USER-5186,2023-08-22,Professional,One year,168.98,970.41,6,4,5,2,Yes
+USER-5187,2023-08-23,Starter,One year,36.68,361.16,10,2,6,8,No
+USER-5188,2023-08-25,Enterprise,Month-to-month,863.96,18441.18,22,2,9,3,Yes
+USER-5189,2023-08-26,Professional,Month-to-month,136.7,4487.65,32,5,7,2,Yes
+USER-5190,2023-08-27,Professional,Month-to-month,110.22,2158.56,20,1,3,5,Yes
+USER-5191,2023-08-29,Professional,One year,151.99,2322.89,16,2,9,7,No
+USER-5192,2023-08-30,Starter,Month-to-month,32.81,935.65,28,3,2,6,No
+USER-5193,2023-08-31,Starter,One year,48.83,903.4,19,2,9,5,No
+USER-5194,2023-09-01,Enterprise,Month-to-month,782.44,4504.23,6,2,41,8,No
+USER-5195,2023-09-03,Starter,One year,40.09,80.59,2,3,3,4,Yes
+USER-5196,2023-09-04,Professional,Month-to-month,153.97,5464.23,34,2,3,10,No
+USER-5197,2023-09-05,Starter,Two year,40.17,729.54,19,3,5,7,No
+USER-5198,2023-09-06,Starter,Two year,36.81,798.82,21,3,1,9,No
+USER-5199,2023-09-08,Starter,One year,40.65,976.17,23,2,2,1,No
+USER-5200,2023-09-09,Starter,One year,36.99,1195.4,32,1,4,9,No
+USER-5201,2023-09-10,Starter,One year,40.12,455.21,11,2,6,10,No
+USER-5202,2023-09-11,Professional,One year,127.56,2048.66,16,4,8,2,Yes
+USER-5203,2023-09-13,Professional,Two year,134.89,2817.7,20,1,7,6,No
+USER-5204,2023-09-14,Starter,Month-to-month,47.41,1052.89,23,1,3,4,No
+USER-5205,2023-09-15,Starter,Month-to-month,41.79,40.53,1,2,5,3,Yes
+USER-5206,2023-09-16,Starter,Month-to-month,46.71,1030.05,21,4,7,9,No
+USER-5207,2023-09-18,Starter,Two year,40.77,1055.25,26,2,8,6,No
+USER-5208,2023-09-19,Professional,Month-to-month,192.61,4642.58,24,3,6,4,Yes
+USER-5209,2023-09-20,Professional,One year,170.92,2734.51,16,4,9,8,No
+USER-5210,2023-09-21,Enterprise,Month-to-month,775.29,17065.8,23,3,42,10,No
+USER-5211,2023-09-23,Enterprise,Month-to-month,698.72,5733.97,8,5,28,9,Yes
+USER-5212,2023-09-24,Enterprise,Month-to-month,987.93,34743.93,34,2,24,8,No
+USER-5213,2023-09-25,Professional,Month-to-month,102.98,1460.68,14,1,1,5,Yes
+USER-5214,2023-09-26,Starter,Month-to-month,47.92,248.35,5,3,7,6,Yes
+USER-5215,2023-09-28,Enterprise,One year,788.51,22761.18,30,1,8,4,No
+USER-5216,2023-09-29,Starter,Month-to-month,38.29,1269.66,32,1,5,5,No
+USER-5217,2023-09-30,Professional,Month-to-month,120.2,3007.47,24,2,6,4,Yes
+USER-5218,2023-10-01,Starter,Month-to-month,31.98,1118.17,34,4,8,2,Yes
+USER-5219,2023-10-03,Professional,One year,175.35,5683.09,31,0,3,10,No
+USER-5220,2023-10-04,Starter,Month-to-month,38.63,1376.3,34,2,8,5,No
+USER-5221,2023-10-05,Professional,Month-to-month,152.11,470.17,3,7,6,2,Yes
+USER-5222,2023-10-06,Starter,Month-to-month,33.45,791.28,23,2,9,4,Yes
+USER-5223,2023-10-08,Enterprise,Month-to-month,928.9,12637.14,13,4,15,9,Yes
+USER-5224,2023-10-09,Starter,Month-to-month,34.43,286.69,8,3,4,10,Yes
+USER-5225,2023-10-10,Starter,Two year,45.85,418.35,9,2,2,3,No
+USER-5226,2023-10-11,Starter,Month-to-month,36.97,1222.18,33,3,9,3,Yes
+USER-5227,2023-10-13,Starter,Month-to-month,48.59,712.78,15,1,5,10,No
+USER-5228,2023-10-14,Starter,Month-to-month,45.44,327.36,7,2,9,1,Yes
+USER-5229,2023-10-15,Starter,Month-to-month,39.19,1091.39,27,4,5,10,No
+USER-5230,2023-10-17,Starter,One year,38.2,846.24,22,3,4,1,No
+USER-5231,2023-10-18,Enterprise,Month-to-month,695.97,24323.72,35,2,5,10,No
+USER-5232,2023-10-19,Enterprise,One year,508.42,4839.08,10,2,25,4,No
+USER-5233,2023-10-20,Professional,One year,158.67,2748.42,18,4,8,3,Yes
+USER-5234,2023-10-22,Enterprise,Month-to-month,1099.15,21322.14,19,2,49,3,Yes
+USER-5235,2023-10-23,Professional,One year,132.47,2902.55,21,1,2,1,No
+USER-5236,2023-10-24,Professional,One year,140.58,4155.75,31,4,6,9,No
+USER-5237,2023-10-25,Professional,Month-to-month,166.91,4083.35,25,4,5,2,Yes
+USER-5238,2023-10-27,Enterprise,Month-to-month,798.62,5416.9,7,2,33,5,Yes
+USER-5239,2023-10-28,Professional,Month-to-month,190.72,3588.09,19,2,1,4,Yes
+USER-5240,2023-10-29,Enterprise,Month-to-month,1038.23,33311.8,33,3,35,6,No
+USER-5241,2023-10-30,Professional,Two year,177.97,4578.6,26,1,3,8,No
+USER-5242,2023-11-01,Starter,One year,40.01,909.01,23,0,8,1,No
+USER-5243,2023-11-02,Starter,Month-to-month,40.87,604.47,15,4,6,10,Yes
+USER-5244,2023-11-03,Starter,One year,38.74,1331.6,33,6,6,9,No
+USER-5245,2023-11-04,Starter,Month-to-month,47.89,350.36,7,3,3,3,Yes
+USER-5246,2023-11-06,Professional,Month-to-month,150.34,4313.79,30,1,9,3,No
+USER-5247,2023-11-07,Enterprise,Month-to-month,901.63,7943.34,9,2,25,10,No
+USER-5248,2023-11-08,Starter,One year,30.47,89.93,3,0,4,1,No
+USER-5249,2023-11-09,Enterprise,Month-to-month,957.06,31862.95,33,3,17,8,No
+USER-5250,2023-11-11,Enterprise,One year,1176.13,22287.7,19,5,40,5,Yes
+USER-5251,2023-11-12,Starter,Month-to-month,47.63,820.38,17,1,3,2,Yes
+USER-5252,2023-11-13,Professional,Month-to-month,179.06,3305.14,19,2,4,1,Yes
+USER-5253,2023-11-14,Starter,Month-to-month,45.18,762.01,17,9,3,4,Yes
+USER-5254,2023-11-16,Starter,One year,33.99,620.6,19,3,1,6,No
+USER-5255,2023-11-17,Starter,Month-to-month,30.27,58.36,2,1,4,7,No
+USER-5256,2023-11-18,Enterprise,Month-to-month,820.65,12502.85,15,1,17,1,Yes
+USER-5257,2023-11-19,Starter,One year,35.18,543.21,16,1,3,6,No
+USER-5258,2023-11-21,Professional,One year,121.44,1338.65,11,1,8,9,No
+USER-5259,2023-11-22,Enterprise,Month-to-month,672.54,6216.04,9,5,21,2,Yes
+USER-5260,2023-11-23,Professional,Two year,132.26,129.75,1,2,7,4,Yes
+USER-5261,2023-11-24,Enterprise,One year,1183.61,31931.81,26,2,4,8,No
+USER-5262,2023-11-26,Enterprise,Month-to-month,892.89,6433.18,7,3,39,1,Yes
+USER-5263,2023-11-27,Starter,Month-to-month,43.17,1532.76,35,2,8,1,No
+USER-5264,2023-11-28,Professional,Two year,122.69,1742.22,14,3,7,2,No
+USER-5265,2023-11-29,Enterprise,Month-to-month,1111.23,3219.19,3,4,35,7,Yes
+USER-5266,2023-12-01,Professional,Month-to-month,99.88,2108.9,22,1,5,2,Yes
+USER-5267,2023-12-02,Starter,One year,40.65,420.27,10,3,6,9,No
+USER-5268,2023-12-03,Professional,Month-to-month,103.02,1893.92,19,4,3,8,Yes
+USER-5269,2023-12-05,Starter,One year,34.55,857.86,25,4,7,3,No
+USER-5270,2023-12-06,Starter,Month-to-month,36.72,461.66,13,1,7,8,No
+USER-5271,2023-12-07,Starter,Month-to-month,48.0,46.27,1,3,7,9,Yes
+USER-5272,2023-12-08,Starter,One year,29.25,643.56,23,3,1,2,No
+USER-5273,2023-12-10,Professional,Month-to-month,163.98,3582.72,22,6,9,5,Yes
+USER-5274,2023-12-11,Professional,Month-to-month,171.41,4028.87,23,1,8,4,No
+USER-5275,2023-12-12,Starter,One year,40.65,1266.61,30,2,2,5,No
+USER-5276,2023-12-13,Professional,Month-to-month,187.83,589.5,3,4,4,7,Yes
+USER-5277,2023-12-15,Starter,Two year,48.74,1179.85,24,6,3,8,No
+USER-5278,2023-12-16,Professional,Month-to-month,157.2,1957.37,12,5,9,3,Yes
+USER-5279,2023-12-17,Enterprise,One year,1173.41,38956.93,32,7,9,6,No
+USER-5280,2023-12-18,Enterprise,One year,708.0,17156.57,24,6,7,4,Yes
+USER-5281,2023-12-20,Professional,Month-to-month,191.67,2612.21,13,2,1,2,Yes
+USER-5282,2023-12-21,Professional,Month-to-month,101.9,1764.94,18,0,9,4,No
+USER-5283,2023-12-22,Professional,Month-to-month,104.8,2814.09,26,2,5,7,No
+USER-5284,2023-12-23,Professional,One year,103.01,1197.16,12,2,7,3,No
+USER-5285,2023-12-25,Professional,Month-to-month,116.09,2192.95,19,2,4,10,No
+USER-5286,2023-12-26,Starter,Month-to-month,46.88,931.4,19,2,7,5,Yes
+USER-5287,2023-12-27,Starter,One year,41.7,770.85,18,3,5,5,No
+USER-5288,2023-12-28,Starter,Two year,40.7,919.33,22,1,6,10,No
+USER-5289,2023-12-30,Professional,Month-to-month,179.53,2671.02,15,3,7,3,Yes
+USER-5290,2023-12-31,Enterprise,Two year,1001.82,24318.64,25,3,19,9,No
+USER-5291,2024-01-01,Starter,One year,47.96,786.63,16,1,1,3,No
+USER-5292,2024-01-02,Starter,One year,47.13,325.37,7,4,2,4,Yes
+USER-5293,2024-01-04,Starter,Month-to-month,38.9,121.48,3,1,6,5,Yes
+USER-5294,2024-01-05,Starter,Month-to-month,38.38,491.37,13,3,4,5,Yes
+USER-5295,2024-01-06,Enterprise,Month-to-month,841.06,28138.25,33,3,45,5,Yes
+USER-5296,2024-01-07,Professional,Month-to-month,146.29,863.31,6,3,3,4,Yes
+USER-5297,2024-01-09,Enterprise,Two year,958.96,11227.87,12,3,24,5,Yes
+USER-5298,2024-01-10,Professional,One year,159.14,4624.86,30,2,9,6,No
+USER-5299,2024-01-11,Starter,One year,46.68,1401.29,29,3,2,2,No
+USER-5300,2024-01-12,Starter,Month-to-month,38.25,873.42,22,0,9,6,No
+USER-5301,2024-01-14,Starter,One year,48.9,507.34,10,3,1,8,No
+USER-5302,2024-01-15,Enterprise,Month-to-month,676.74,10304.99,16,2,23,6,No
+USER-5303,2024-01-16,Enterprise,One year,865.0,9683.59,11,4,8,3,Yes
+USER-5304,2024-01-17,Starter,Month-to-month,46.77,93.7,2,2,1,9,Yes
+USER-5305,2024-01-19,Enterprise,One year,632.71,8073.33,13,3,28,1,No
+USER-5306,2024-01-20,Professional,One year,174.79,3955.82,22,4,9,6,No
+USER-5307,2024-01-21,Starter,Two year,43.46,619.31,14,5,7,6,No
+USER-5308,2024-01-23,Starter,Month-to-month,33.05,205.42,6,2,1,10,No
+USER-5309,2024-01-24,Enterprise,Month-to-month,888.01,921.1,1,1,1,8,No
+USER-5310,2024-01-25,Professional,Two year,129.59,2925.37,22,3,7,3,No
+USER-5311,2024-01-26,Professional,One year,125.94,848.41,7,3,9,6,No
+USER-5312,2024-01-28,Starter,One year,36.77,733.23,20,1,8,10,No
+USER-5313,2024-01-29,Professional,Month-to-month,192.26,6433.59,32,4,9,5,Yes
+USER-5314,2024-01-30,Starter,One year,32.06,769.07,23,3,2,9,No
+USER-5315,2024-01-31,Professional,Month-to-month,105.2,1818.35,18,4,8,5,Yes
+USER-5316,2024-02-02,Enterprise,Two year,1089.32,9508.33,9,4,16,10,No
+USER-5317,2024-02-03,Professional,Month-to-month,156.06,4173.79,27,4,4,7,No
+USER-5318,2024-02-04,Professional,Two year,139.99,4051.38,28,2,4,4,No
+USER-5319,2024-02-05,Enterprise,Two year,937.57,21676.32,24,5,9,4,Yes
+USER-5320,2024-02-07,Professional,Month-to-month,182.69,1592.73,9,5,2,8,Yes
+USER-5321,2024-02-08,Professional,Month-to-month,181.81,4188.0,22,2,2,8,No
+USER-5322,2024-02-09,Starter,Two year,34.87,976.24,28,5,8,10,No
+USER-5323,2024-02-10,Enterprise,Month-to-month,1151.98,39242.05,34,4,3,2,Yes
+USER-5324,2024-02-12,Starter,Month-to-month,36.18,255.29,7,5,9,3,Yes
+USER-5325,2024-02-13,Professional,Month-to-month,188.27,941.72,5,4,5,10,Yes
+USER-5326,2024-02-14,Professional,Month-to-month,166.58,1144.61,7,1,1,5,Yes
+USER-5327,2024-02-15,Starter,Month-to-month,46.68,915.42,19,1,8,1,Yes
+USER-5328,2024-02-17,Professional,Month-to-month,156.92,1474.64,9,1,7,3,Yes
+USER-5329,2024-02-18,Starter,Month-to-month,40.29,1382.24,33,1,2,2,No
+USER-5330,2024-02-19,Professional,Two year,138.45,3954.11,29,2,2,1,No
+USER-5331,2024-02-20,Professional,Month-to-month,105.93,2212.45,20,3,1,5,Yes
+USER-5332,2024-02-22,Professional,Month-to-month,149.92,3629.96,24,1,7,4,No
+USER-5333,2024-02-23,Starter,Two year,38.16,1116.12,30,5,2,6,No
+USER-5334,2024-02-24,Professional,One year,134.61,537.65,4,1,6,4,No
+USER-5335,2024-02-25,Enterprise,Month-to-month,808.24,10421.5,13,0,4,7,No
+USER-5336,2024-02-27,Professional,Month-to-month,186.24,5967.34,31,4,8,9,No
+USER-5337,2024-02-28,Starter,Month-to-month,46.25,1512.75,33,3,2,10,No
+USER-5338,2024-02-29,Professional,Month-to-month,168.53,3858.92,23,4,5,8,No
+USER-5339,2024-03-01,Professional,Two year,192.92,5260.0,28,3,6,2,No
+USER-5340,2024-03-03,Starter,Month-to-month,43.93,595.19,13,3,6,9,No
+USER-5341,2024-03-04,Enterprise,One year,922.42,5517.09,6,4,41,8,No
+USER-5342,2024-03-05,Professional,Month-to-month,176.31,1062.43,6,2,5,9,No
+USER-5343,2024-03-07,Starter,One year,43.56,440.3,10,4,2,7,No
+USER-5344,2024-03-08,Starter,Month-to-month,41.83,937.76,22,0,2,1,No
+USER-5345,2024-03-09,Professional,One year,144.38,2896.27,21,2,3,7,No
+USER-5346,2024-03-10,Starter,Month-to-month,29.34,196.98,7,1,1,10,No
+USER-5347,2024-03-12,Starter,Month-to-month,36.51,994.27,28,1,7,10,No
+USER-5348,2024-03-13,Professional,Month-to-month,133.25,2061.44,16,5,4,4,Yes
+USER-5349,2024-03-14,Starter,One year,35.85,836.16,23,3,5,7,No
+USER-5350,2024-03-15,Starter,Month-to-month,30.15,1061.76,35,2,7,4,No
+USER-5351,2024-03-17,Professional,Month-to-month,105.95,1873.77,17,0,6,6,No
+USER-5352,2024-03-18,Professional,Two year,104.72,2214.26,21,0,4,10,No
+USER-5353,2024-03-19,Professional,Month-to-month,126.33,4489.0,34,3,2,8,No
+USER-5354,2024-03-20,Starter,One year,42.24,1327.05,32,3,9,8,No
+USER-5355,2024-03-22,Enterprise,One year,1032.94,18357.74,18,0,41,10,No
+USER-5356,2024-03-23,Enterprise,Month-to-month,852.25,11630.25,14,2,31,8,No
+USER-5357,2024-03-24,Professional,Month-to-month,111.57,3771.83,35,0,4,3,No
+USER-5358,2024-03-25,Professional,One year,115.92,475.26,4,3,5,7,No
+USER-5359,2024-03-27,Starter,Month-to-month,32.52,619.14,19,1,7,2,Yes
+USER-5360,2024-03-28,Starter,One year,48.58,1431.64,30,5,8,6,No
+USER-5361,2024-03-29,Professional,Month-to-month,118.2,1554.29,13,3,4,1,Yes
+USER-5362,2024-03-30,Starter,Month-to-month,39.79,381.87,10,3,9,7,Yes
+USER-5363,2024-04-01,Starter,Two year,32.93,454.08,14,4,3,8,No
+USER-5364,2024-04-02,Starter,Month-to-month,36.52,217.75,6,0,3,2,Yes
+USER-5365,2024-04-03,Professional,Two year,170.26,877.52,5,2,3,6,No
+USER-5366,2024-04-04,Professional,Month-to-month,160.06,5535.02,34,3,5,4,Yes
+USER-5367,2024-04-06,Professional,Month-to-month,162.66,3937.53,25,2,4,3,Yes
+USER-5368,2024-04-07,Enterprise,Two year,662.52,15878.21,24,5,43,1,Yes
+USER-5369,2024-04-08,Professional,One year,168.61,4062.08,23,3,4,4,No
+USER-5370,2024-04-09,Enterprise,Month-to-month,937.47,26550.91,27,2,41,4,Yes
+USER-5371,2024-04-11,Starter,One year,47.62,820.18,18,3,1,4,No
+USER-5372,2024-04-12,Professional,Month-to-month,122.31,2908.41,24,3,3,2,Yes
+USER-5373,2024-04-13,Enterprise,Month-to-month,882.07,11088.96,12,1,17,5,Yes
+USER-5374,2024-04-14,Professional,One year,151.52,1299.99,9,2,8,10,No
+USER-5375,2024-04-16,Starter,Month-to-month,29.07,426.83,14,0,7,8,No
+USER-5376,2024-04-17,Enterprise,One year,814.92,10210.22,13,3,23,10,No
+USER-5377,2024-04-18,Professional,Month-to-month,146.81,151.85,1,0,2,6,No
+USER-5378,2024-04-19,Starter,One year,31.95,1132.2,35,2,9,1,No
+USER-5379,2024-04-21,Professional,One year,182.0,742.06,4,7,5,5,Yes
+USER-5380,2024-04-22,Starter,One year,34.83,350.11,10,1,9,3,No
+USER-5381,2024-04-23,Professional,One year,114.29,1294.18,11,2,6,6,No
+USER-5382,2024-04-25,Professional,One year,187.3,5349.57,30,1,4,6,No
+USER-5383,2024-04-26,Starter,Month-to-month,35.44,681.91,19,1,2,8,No
+USER-5384,2024-04-27,Professional,Two year,145.06,451.73,3,0,5,9,No
+USER-5385,2024-04-28,Starter,Month-to-month,39.86,607.27,16,2,4,9,No
+USER-5386,2024-04-30,Starter,Two year,47.99,946.19,20,3,6,7,No
+USER-5387,2024-05-01,Starter,Two year,29.44,120.13,4,6,1,1,Yes
+USER-5388,2024-05-02,Enterprise,One year,893.93,27785.38,31,2,28,9,No
+USER-5389,2024-05-03,Starter,Month-to-month,36.75,69.88,2,1,2,8,No
+USER-5390,2024-05-05,Professional,Month-to-month,118.07,3025.96,25,2,5,1,Yes
+USER-5391,2024-05-06,Starter,Month-to-month,40.79,1243.53,30,4,8,8,No
+USER-5392,2024-05-07,Professional,Two year,171.45,1921.85,11,3,9,9,No
+USER-5393,2024-05-08,Enterprise,Month-to-month,1093.51,39383.13,35,2,22,6,No
+USER-5394,2024-05-10,Starter,One year,47.22,507.19,11,4,8,4,Yes
+USER-5395,2024-05-11,Professional,One year,166.07,1525.36,9,2,7,1,No
+USER-5396,2024-05-12,Starter,Month-to-month,35.98,430.45,12,3,6,2,Yes
+USER-5397,2024-05-13,Professional,Month-to-month,125.72,1259.09,10,1,6,7,No
+USER-5398,2024-05-15,Professional,Two year,118.59,4217.31,34,1,2,10,No
+USER-5399,2024-05-16,Enterprise,Month-to-month,943.34,11786.12,13,1,36,1,Yes
+USER-5400,2024-05-17,Starter,One year,30.31,433.17,14,1,9,1,No
+USER-5401,2024-05-18,Professional,One year,145.23,1396.05,10,1,2,8,No
+USER-5402,2024-05-20,Professional,Month-to-month,162.89,3495.18,21,6,3,9,Yes
+USER-5403,2024-05-21,Starter,One year,45.11,1573.05,35,4,4,9,No
+USER-5404,2024-05-22,Starter,Month-to-month,32.89,971.19,31,1,1,7,No
+USER-5405,2024-05-23,Enterprise,Month-to-month,963.9,17204.03,18,4,25,3,Yes
+USER-5406,2024-05-25,Starter,One year,45.74,798.77,18,0,7,4,No
+USER-5407,2024-05-26,Professional,Month-to-month,147.19,141.44,1,4,2,1,Yes
+USER-5408,2024-05-27,Professional,Month-to-month,160.64,1402.03,9,6,3,6,Yes
+USER-5409,2024-05-28,Enterprise,Month-to-month,917.75,2648.06,3,2,3,2,Yes
+USER-5410,2024-05-30,Professional,Month-to-month,127.53,3479.38,27,1,8,9,No
+USER-5411,2024-05-31,Professional,One year,106.28,1900.18,18,1,3,8,No
+USER-5412,2024-06-01,Starter,Two year,30.99,117.76,4,1,2,4,No
+USER-5413,2024-06-02,Starter,One year,37.03,1081.34,30,5,8,4,No
+USER-5414,2024-06-04,Professional,One year,191.27,5151.33,27,2,2,10,No
+USER-5415,2024-06-05,Professional,One year,166.89,5318.05,31,1,8,1,No
+USER-5416,2024-06-06,Starter,One year,35.26,110.68,3,3,7,6,No
+USER-5417,2024-06-07,Starter,Two year,42.33,815.85,20,2,5,4,No
+USER-5418,2024-06-09,Starter,One year,29.96,941.8,30,3,2,2,No
+USER-5419,2024-06-10,Starter,Month-to-month,41.92,1153.16,28,2,7,8,No
+USER-5420,2024-06-11,Professional,Month-to-month,192.51,5988.22,32,4,1,10,No
+USER-5421,2024-06-13,Professional,Month-to-month,168.96,5034.62,31,3,5,2,Yes
+USER-5422,2024-06-14,Starter,One year,46.99,1578.38,33,2,3,9,No
+USER-5423,2024-06-15,Enterprise,One year,901.82,4650.62,5,3,36,4,Yes
+USER-5424,2024-06-16,Starter,Month-to-month,31.55,95.28,3,6,8,7,Yes
+USER-5425,2024-06-18,Starter,Month-to-month,29.65,28.61,1,1,2,2,Yes
+USER-5426,2024-06-19,Starter,Two year,33.61,614.07,19,4,8,1,Yes
+USER-5427,2024-06-20,Professional,Month-to-month,178.99,928.46,5,2,6,10,No
+USER-5428,2024-06-21,Starter,Month-to-month,42.65,326.64,8,1,1,7,No
+USER-5429,2024-06-23,Starter,Month-to-month,44.0,747.54,17,1,1,5,Yes
+USER-5430,2024-06-24,Starter,Month-to-month,46.09,225.3,5,3,9,10,Yes
+USER-5431,2024-06-25,Starter,Month-to-month,33.43,1022.07,32,2,2,4,No
+USER-5432,2024-06-26,Starter,Month-to-month,35.8,1147.02,31,2,4,1,No
+USER-5433,2024-06-28,Professional,Month-to-month,128.07,3050.2,24,0,5,9,No
+USER-5434,2024-06-29,Enterprise,Month-to-month,757.06,23713.21,32,1,17,9,No
+USER-5435,2024-06-30,Starter,Two year,36.6,1291.47,34,2,6,2,No
+USER-5436,2024-07-01,Professional,Month-to-month,166.91,2228.88,13,2,1,9,No
+USER-5437,2024-07-03,Enterprise,Month-to-month,647.38,2599.31,4,0,26,2,Yes
+USER-5438,2024-07-04,Professional,Month-to-month,165.75,3722.67,23,2,4,10,No
+USER-5439,2024-07-05,Enterprise,Month-to-month,990.21,7895.64,8,2,38,1,Yes
+USER-5440,2024-07-06,Enterprise,Two year,950.26,12436.38,13,1,21,6,No
+USER-5441,2024-07-08,Professional,Month-to-month,106.37,2337.62,21,2,3,1,Yes
+USER-5442,2024-07-09,Professional,One year,189.5,540.09,3,1,5,2,No
+USER-5443,2024-07-10,Starter,One year,35.49,1016.22,30,3,9,9,No
+USER-5444,2024-07-11,Professional,Two year,195.83,399.35,2,1,9,3,No
+USER-5445,2024-07-13,Professional,One year,173.58,508.01,3,2,8,4,Yes
+USER-5446,2024-07-14,Professional,Month-to-month,137.19,949.48,7,1,3,9,No
+USER-5447,2024-07-15,Professional,Month-to-month,172.63,1347.83,8,5,2,1,Yes
+USER-5448,2024-07-16,Starter,One year,29.47,772.58,25,5,9,9,No
+USER-5449,2024-07-18,Professional,Two year,124.67,1430.74,12,5,8,6,No
+USER-5450,2024-07-19,Starter,Two year,36.26,424.09,12,5,5,2,Yes
+USER-5451,2024-07-20,Enterprise,Month-to-month,916.32,9905.41,11,3,3,7,Yes
+USER-5452,2024-07-21,Professional,Month-to-month,153.22,157.48,1,3,8,3,Yes
+USER-5453,2024-07-23,Starter,Month-to-month,35.76,891.23,25,3,9,1,Yes
+USER-5454,2024-07-24,Starter,Two year,33.53,134.84,4,2,7,10,No
+USER-5455,2024-07-25,Professional,Month-to-month,196.4,5290.42,27,3,2,1,Yes
+USER-5456,2024-07-26,Starter,Month-to-month,29.24,898.7,32,6,2,4,Yes
+USER-5457,2024-07-28,Starter,Month-to-month,30.13,381.95,13,2,9,2,Yes
+USER-5458,2024-07-29,Starter,Month-to-month,45.03,960.11,21,5,1,9,Yes
+USER-5459,2024-07-30,Starter,Month-to-month,29.7,185.05,6,2,9,10,No
+USER-5460,2024-08-01,Professional,Month-to-month,192.19,6454.01,32,2,1,7,No
+USER-5461,2024-08-02,Starter,Month-to-month,40.18,1056.12,26,1,9,9,No
+USER-5462,2024-08-03,Enterprise,Month-to-month,847.92,26074.93,32,0,23,4,No
+USER-5463,2024-08-04,Starter,Month-to-month,48.04,248.82,5,2,6,1,Yes
+USER-5464,2024-08-06,Enterprise,Month-to-month,829.53,2568.89,3,1,49,6,No
+USER-5465,2024-08-07,Starter,One year,40.1,1268.8,31,4,1,5,No
+USER-5466,2024-08-08,Professional,Two year,136.47,2082.32,15,1,6,5,No
+USER-5467,2024-08-09,Starter,Month-to-month,30.03,215.2,7,1,3,3,Yes
+USER-5468,2024-08-11,Starter,One year,47.47,815.32,17,3,5,10,No
+USER-5469,2024-08-12,Professional,Month-to-month,155.68,1977.65,13,1,5,8,No
+USER-5470,2024-08-13,Professional,One year,189.76,6846.38,35,2,1,10,No
+USER-5471,2024-08-14,Professional,Month-to-month,100.73,3320.61,34,3,1,9,No
+USER-5472,2024-08-16,Professional,Month-to-month,162.1,3079.98,20,2,7,7,No
+USER-5473,2024-08-17,Starter,One year,46.23,855.83,19,2,3,9,No
+USER-5474,2024-08-18,Starter,One year,46.68,1492.9,33,4,5,6,No
+USER-5475,2024-08-19,Starter,Month-to-month,40.16,203.75,5,3,8,8,Yes
+USER-5476,2024-08-21,Starter,One year,44.03,172.87,4,3,1,2,Yes
+USER-5477,2024-08-22,Professional,Month-to-month,188.05,2260.0,12,1,7,10,No
+USER-5478,2024-08-23,Starter,One year,36.22,1125.59,30,1,2,5,No
+USER-5479,2024-08-24,Professional,Month-to-month,142.2,4733.9,33,3,1,5,Yes
+USER-5480,2024-08-26,Enterprise,Month-to-month,799.73,21000.52,26,3,12,4,Yes
+USER-5481,2024-08-27,Starter,One year,40.8,1308.27,31,1,6,8,No
+USER-5482,2024-08-28,Starter,Two year,29.91,671.24,22,0,4,8,No
+USER-5483,2024-08-29,Enterprise,Two year,666.32,11713.22,18,2,26,2,No
+USER-5484,2024-08-31,Professional,One year,139.25,145.6,1,5,6,4,Yes
+USER-5485,2024-09-01,Professional,Month-to-month,158.87,160.41,1,3,8,10,Yes
+USER-5486,2024-09-02,Professional,One year,167.27,3345.37,20,2,6,4,No
+USER-5487,2024-09-03,Enterprise,Month-to-month,1092.54,2209.08,2,2,17,2,Yes
+USER-5488,2024-09-05,Professional,Month-to-month,111.33,336.92,3,4,3,7,Yes
+USER-5489,2024-09-06,Professional,Month-to-month,136.8,565.98,4,4,6,4,Yes
+USER-5490,2024-09-07,Starter,Month-to-month,41.95,587.93,14,2,7,10,No
+USER-5491,2024-09-08,Starter,Month-to-month,30.94,910.79,29,2,2,6,No
+USER-5492,2024-09-10,Professional,Month-to-month,122.9,2469.07,20,2,1,6,No
+USER-5493,2024-09-11,Starter,One year,38.81,1374.98,35,2,1,10,No
+USER-5494,2024-09-12,Starter,Month-to-month,35.41,142.29,4,4,4,5,Yes
+USER-5495,2024-09-14,Professional,One year,182.56,5549.95,30,3,7,10,No
+USER-5496,2024-09-15,Professional,Month-to-month,164.15,5511.09,32,0,5,2,No
+USER-5497,2024-09-16,Starter,Month-to-month,36.66,268.09,7,4,3,10,Yes
+USER-5498,2024-09-17,Professional,Two year,189.84,4747.6,24,0,2,6,No
+USER-5499,2024-09-19,Enterprise,Month-to-month,654.18,17142.39,25,2,48,6,No
+USER-5500,2024-09-20,Professional,Month-to-month,121.31,116.42,1,4,4,5,Yes
+USER-5501,2024-09-21,Professional,Month-to-month,159.79,5865.34,35,2,7,6,No
+USER-5502,2024-09-22,Professional,Two year,120.51,3043.49,25,3,1,1,No
+USER-5503,2024-09-24,Starter,Month-to-month,40.45,626.64,16,1,4,9,No
+USER-5504,2024-09-25,Professional,One year,141.31,1670.27,12,2,6,4,No
+USER-5505,2024-09-26,Starter,Month-to-month,33.57,1005.9,30,1,4,6,No
+USER-5506,2024-09-27,Professional,Month-to-month,133.85,3667.58,27,3,9,6,No
+USER-5507,2024-09-29,Enterprise,Month-to-month,597.55,9935.09,16,5,4,9,Yes
+USER-5508,2024-09-30,Professional,Month-to-month,175.46,3274.75,18,2,2,2,Yes
+USER-5509,2024-10-01,Professional,Month-to-month,167.02,2896.81,17,6,7,1,Yes
+USER-5510,2024-10-02,Professional,Two year,170.88,667.73,4,1,4,1,No
+USER-5511,2024-10-04,Professional,Month-to-month,177.21,6377.51,35,4,9,4,Yes
+USER-5512,2024-10-05,Starter,Month-to-month,33.17,603.44,19,5,2,4,Yes
+USER-5513,2024-10-06,Starter,Two year,38.11,148.35,4,2,2,7,No
+USER-5514,2024-10-07,Professional,One year,172.56,888.92,5,3,4,6,No
+USER-5515,2024-10-09,Enterprise,Two year,849.79,10716.64,13,3,4,6,No
+USER-5516,2024-10-10,Starter,Month-to-month,45.85,570.81,12,3,7,7,Yes
+USER-5517,2024-10-11,Starter,Two year,32.02,1050.12,32,3,2,2,No
+USER-5518,2024-10-12,Professional,One year,135.88,554.96,4,3,3,10,No
+USER-5519,2024-10-14,Starter,Two year,37.01,110.3,3,0,2,6,No
+USER-5520,2024-10-15,Starter,One year,46.56,563.44,12,0,8,10,No
+USER-5521,2024-10-16,Starter,One year,34.62,951.0,28,2,4,4,No
+USER-5522,2024-10-17,Starter,Month-to-month,45.66,1457.54,33,6,3,1,Yes
+USER-5523,2024-10-19,Professional,Month-to-month,169.91,2726.04,16,1,8,5,Yes
+USER-5524,2024-10-20,Starter,Month-to-month,44.47,670.33,15,1,6,4,Yes
+USER-5525,2024-10-21,Starter,One year,30.87,287.72,9,8,1,3,Yes
+USER-5526,2024-10-22,Starter,Month-to-month,42.88,1094.23,25,2,6,7,No
+USER-5527,2024-10-24,Starter,Two year,48.61,864.38,18,3,3,7,No
+USER-5528,2024-10-25,Professional,Two year,100.59,201.61,2,1,1,7,No
+USER-5529,2024-10-26,Professional,One year,158.1,463.54,3,4,6,1,Yes
+USER-5530,2024-10-27,Professional,One year,105.88,2541.22,23,2,2,2,No
+USER-5531,2024-10-29,Professional,Two year,135.3,4079.72,29,0,4,8,No
+USER-5532,2024-10-30,Enterprise,Month-to-month,860.17,22337.99,26,4,42,7,No
+USER-5533,2024-10-31,Professional,One year,141.51,1094.35,8,1,3,6,No
+USER-5534,2024-11-02,Professional,Month-to-month,115.38,3568.78,31,2,2,5,No
+USER-5535,2024-11-03,Professional,Month-to-month,196.28,2710.89,14,2,9,5,Yes
+USER-5536,2024-11-04,Professional,One year,186.76,2348.27,12,1,7,6,No
+USER-5537,2024-11-05,Enterprise,Two year,925.12,14209.8,15,4,32,3,Yes
+USER-5538,2024-11-07,Enterprise,Month-to-month,574.79,1199.86,2,2,14,3,Yes
+USER-5539,2024-11-08,Starter,Two year,32.93,1159.05,34,1,6,7,No
+USER-5540,2024-11-09,Starter,One year,33.92,1116.17,33,1,8,10,No
+USER-5541,2024-11-10,Professional,One year,112.68,702.36,6,4,9,10,No
+USER-5542,2024-11-12,Professional,Two year,178.7,6178.84,33,3,4,8,No
+USER-5543,2024-11-13,Enterprise,Month-to-month,959.56,31614.0,34,1,36,5,No
+USER-5544,2024-11-14,Professional,Month-to-month,150.63,1771.92,12,2,6,2,Yes
+USER-5545,2024-11-15,Professional,One year,187.05,937.43,5,2,3,1,No
+USER-5546,2024-11-17,Starter,Month-to-month,34.7,266.24,8,1,9,2,Yes
+USER-5547,2024-11-18,Professional,Month-to-month,198.01,2041.95,10,5,4,7,Yes
+USER-5548,2024-11-19,Professional,Month-to-month,156.02,1805.53,12,4,4,9,Yes
+USER-5549,2024-11-20,Starter,Month-to-month,45.43,142.52,3,2,9,7,Yes
+USER-5550,2024-11-22,Starter,One year,39.0,1078.45,29,4,3,3,No
+USER-5551,2024-11-23,Starter,Month-to-month,36.06,859.16,24,3,3,3,Yes
+USER-5552,2024-11-24,Starter,Month-to-month,32.4,31.32,1,3,4,5,Yes
+USER-5553,2024-11-25,Starter,One year,33.87,1139.73,33,0,5,5,No
+USER-5554,2024-11-27,Professional,Two year,110.23,689.93,6,1,3,1,No
+USER-5555,2024-11-28,Starter,Month-to-month,48.06,909.02,19,5,7,1,Yes
+USER-5556,2024-11-29,Professional,One year,157.91,4797.59,30,1,6,3,No
+USER-5557,2024-11-30,Professional,Month-to-month,141.74,4894.1,33,4,3,2,Yes
+USER-5558,2024-12-02,Starter,Month-to-month,32.94,196.88,6,1,3,8,No
+USER-5559,2024-12-03,Starter,Month-to-month,35.61,817.81,24,0,4,7,No
+USER-5560,2024-12-04,Starter,Month-to-month,37.1,521.06,14,1,2,2,Yes
+USER-5561,2024-12-05,Starter,Month-to-month,30.96,31.01,1,4,7,7,Yes
+USER-5562,2024-12-07,Professional,Month-to-month,112.25,2842.28,26,1,6,2,No
+USER-5563,2024-12-08,Starter,One year,30.55,339.48,11,5,3,7,No
+USER-5564,2024-12-09,Starter,One year,40.14,384.5,10,2,3,2,No
+USER-5565,2024-12-10,Starter,One year,38.83,1015.95,25,2,7,6,No
+USER-5566,2024-12-12,Professional,One year,101.31,821.11,8,3,2,7,No
+USER-5567,2024-12-13,Professional,One year,105.48,2278.63,22,4,7,7,No
+USER-5568,2024-12-14,Starter,Month-to-month,36.59,428.87,12,2,4,7,No
+USER-5569,2024-12-15,Professional,Month-to-month,143.68,1399.35,10,2,5,4,Yes
+USER-5570,2024-12-17,Starter,One year,31.57,412.29,13,0,3,6,No
+USER-5571,2024-12-18,Professional,Month-to-month,127.24,929.83,7,4,7,3,Yes
+USER-5572,2024-12-19,Professional,Month-to-month,100.46,478.69,5,3,8,2,Yes
+USER-5573,2024-12-21,Starter,Month-to-month,35.97,559.23,16,2,3,10,No
+USER-5574,2024-12-22,Starter,One year,41.36,200.88,5,3,3,1,Yes
+USER-5575,2024-12-23,Starter,One year,32.62,1115.2,35,2,1,5,No
+USER-5576,2024-12-24,Professional,Month-to-month,190.81,3339.4,17,5,1,10,Yes
+USER-5577,2024-12-26,Starter,One year,41.79,41.2,1,3,6,8,No
+USER-5578,2024-12-27,Starter,Month-to-month,36.0,594.82,17,3,2,5,Yes
+USER-5579,2024-12-28,Starter,Month-to-month,38.73,76.97,2,1,9,7,No
+USER-5580,2024-12-29,Starter,One year,39.79,974.01,25,1,8,5,No
+USER-5581,2024-12-31,Starter,Month-to-month,40.11,764.39,19,4,2,3,Yes
+USER-5582,2025-01-01,Professional,Month-to-month,149.46,284.76,2,5,4,6,Yes
+USER-5583,2025-01-02,Starter,One year,37.78,905.43,24,4,4,7,No
+USER-5584,2025-01-03,Starter,Month-to-month,48.65,976.97,20,1,1,5,Yes
+USER-5585,2025-01-05,Starter,Two year,34.96,337.2,10,2,4,8,No
+USER-5586,2025-01-06,Starter,Two year,35.51,517.0,15,1,9,3,No
+USER-5587,2025-01-07,Starter,Month-to-month,46.79,1308.79,29,3,1,9,No
+USER-5588,2025-01-08,Starter,Month-to-month,39.52,341.07,9,1,8,7,No
+USER-5589,2025-01-10,Starter,Month-to-month,36.61,1220.64,33,3,9,7,No
+USER-5590,2025-01-11,Professional,One year,151.79,1761.92,12,2,5,5,No
+USER-5591,2025-01-12,Starter,One year,37.14,461.59,13,1,2,4,No
+USER-5592,2025-01-13,Professional,Month-to-month,154.48,2687.03,17,5,4,9,Yes
+USER-5593,2025-01-15,Starter,One year,48.04,710.63,15,5,1,5,Yes
+USER-5594,2025-01-16,Starter,Two year,39.92,284.38,7,3,5,2,Yes
+USER-5595,2025-01-17,Professional,Month-to-month,151.78,2456.94,16,1,4,4,Yes
+USER-5596,2025-01-18,Professional,One year,188.88,1747.68,9,3,3,10,No
+USER-5597,2025-01-20,Professional,Month-to-month,104.69,2630.35,24,4,5,6,No
+USER-5598,2025-01-21,Professional,One year,135.24,3085.98,22,3,1,4,No
+USER-5599,2025-01-22,Starter,Month-to-month,45.31,1611.08,35,1,9,9,No
+USER-5600,2025-01-23,Starter,Month-to-month,37.43,493.09,13,3,3,6,No
+USER-5601,2025-01-25,Starter,Month-to-month,41.18,706.58,18,6,4,10,Yes
+USER-5602,2025-01-26,Enterprise,One year,847.31,26655.6,32,1,19,2,No
+USER-5603,2025-01-27,Starter,Month-to-month,45.45,1184.15,27,2,1,3,Yes
+USER-5604,2025-01-28,Enterprise,Month-to-month,541.99,14344.46,27,3,25,6,No
+USER-5605,2025-01-30,Enterprise,Month-to-month,1139.88,41521.3,35,2,25,5,No
+USER-5606,2025-01-31,Professional,Month-to-month,150.44,3063.26,20,5,3,2,Yes
+USER-5607,2025-02-01,Professional,Month-to-month,149.7,1606.0,11,6,9,10,Yes
+USER-5608,2025-02-02,Enterprise,Month-to-month,543.17,14826.84,26,3,36,10,No
+USER-5609,2025-02-04,Starter,Two year,35.84,110.05,3,0,1,6,No
+USER-5610,2025-02-05,Starter,Two year,33.87,101.97,3,2,9,8,No
+USER-5611,2025-02-06,Professional,Two year,129.71,1288.76,10,1,5,6,No
+USER-5612,2025-02-08,Starter,Month-to-month,41.29,40.93,1,0,9,7,No
+USER-5613,2025-02-09,Professional,One year,155.93,3057.44,20,1,6,1,No
+USER-5614,2025-02-10,Enterprise,Two year,1008.58,16505.66,17,2,5,6,No
+USER-5615,2025-02-11,Starter,Month-to-month,37.09,1162.73,31,1,2,3,No
+USER-5616,2025-02-13,Starter,One year,32.41,615.38,19,3,5,9,No
+USER-5617,2025-02-14,Starter,One year,33.62,583.96,17,1,2,5,No
+USER-5618,2025-02-15,Professional,Month-to-month,155.73,5187.76,35,1,8,8,No
+USER-5619,2025-02-16,Professional,Month-to-month,126.76,1768.83,14,3,4,5,Yes
+USER-5620,2025-02-18,Enterprise,Month-to-month,886.68,25001.91,27,1,42,1,No
+USER-5621,2025-02-19,Starter,Month-to-month,43.14,1448.02,33,5,1,1,Yes
+USER-5622,2025-02-20,Professional,One year,121.99,2076.6,17,3,3,6,No
+USER-5623,2025-02-21,Enterprise,Two year,755.27,20303.07,27,0,14,6,No
+USER-5624,2025-02-23,Starter,One year,33.38,545.55,16,1,2,6,No
+USER-5625,2025-02-24,Starter,Two year,34.05,413.13,12,3,6,7,No
+USER-5626,2025-02-25,Starter,Month-to-month,48.93,698.77,14,3,3,3,Yes
+USER-5627,2025-02-26,Professional,Two year,156.59,3293.14,21,1,9,2,No
+USER-5628,2025-02-28,Enterprise,Month-to-month,1011.8,34324.11,35,1,35,5,No
+USER-5629,2025-03-01,Professional,One year,177.97,2800.17,16,3,8,8,No
+USER-5630,2025-03-02,Professional,Two year,156.26,3400.99,22,6,5,6,No
+USER-5631,2025-03-03,Enterprise,Two year,583.39,2820.27,5,0,45,4,No
+USER-5632,2025-03-05,Enterprise,Month-to-month,646.88,5778.84,9,2,15,9,No
+USER-5633,2025-03-06,Enterprise,One year,683.88,20797.99,31,1,1,10,No
+USER-5634,2025-03-07,Professional,Month-to-month,156.21,2828.36,19,0,9,8,No
+USER-5635,2025-03-08,Starter,Two year,46.58,1519.42,32,1,4,7,No
+USER-5636,2025-03-10,Enterprise,One year,1063.71,13728.81,13,3,16,4,No
+USER-5637,2025-03-11,Enterprise,One year,725.6,1424.78,2,0,47,7,No
+USER-5638,2025-03-12,Starter,Month-to-month,38.84,159.95,4,3,3,3,Yes
+USER-5639,2025-03-13,Starter,One year,36.33,563.83,16,2,2,8,No
+USER-5640,2025-03-15,Starter,Month-to-month,43.48,1086.25,25,1,5,1,No
+USER-5641,2025-03-16,Starter,Month-to-month,46.42,521.07,11,4,2,8,Yes
+USER-5642,2025-03-17,Professional,Month-to-month,154.52,3495.26,23,2,8,3,Yes
+USER-5643,2025-03-18,Professional,Month-to-month,124.36,904.42,7,1,8,2,Yes
+USER-5644,2025-03-20,Starter,Month-to-month,48.56,962.57,19,5,2,9,Yes
+USER-5645,2025-03-21,Professional,Month-to-month,147.28,588.68,4,3,3,5,Yes
+USER-5646,2025-03-22,Professional,One year,183.93,2881.7,15,4,8,4,Yes
+USER-5647,2025-03-24,Professional,Two year,141.55,4180.74,29,1,3,2,No
+USER-5648,2025-03-25,Enterprise,One year,1025.59,14780.32,14,4,3,9,No
+USER-5649,2025-03-26,Starter,One year,41.15,78.65,2,3,6,4,Yes
+USER-5650,2025-03-27,Starter,Two year,35.98,462.59,13,7,8,9,Yes
+USER-5651,2025-03-29,Starter,Month-to-month,33.01,514.87,15,4,1,2,Yes
+USER-5652,2025-03-30,Starter,Month-to-month,33.96,909.89,27,7,4,9,Yes
+USER-5653,2025-03-31,Starter,One year,45.21,1481.85,33,2,7,9,No
+USER-5654,2025-04-01,Enterprise,Two year,658.62,22686.34,35,2,9,9,No
+USER-5655,2025-04-03,Professional,Month-to-month,161.96,2928.73,19,3,5,8,No
+USER-5656,2025-04-04,Starter,Month-to-month,46.59,622.6,13,7,4,3,Yes
+USER-5657,2025-04-05,Starter,One year,47.49,273.07,6,4,6,1,Yes
+USER-5658,2025-04-06,Enterprise,Month-to-month,525.63,551.29,1,2,12,7,Yes
+USER-5659,2025-04-08,Starter,Month-to-month,32.29,1037.83,33,5,4,4,Yes
+USER-5660,2025-04-09,Starter,One year,36.1,1303.75,35,1,1,5,No
+USER-5661,2025-04-10,Starter,Month-to-month,42.37,768.17,18,3,5,6,No
+USER-5662,2025-04-11,Starter,One year,36.67,762.45,21,2,9,7,No
+USER-5663,2025-04-13,Starter,Month-to-month,44.92,1283.53,30,2,4,1,No
+USER-5664,2025-04-14,Enterprise,Month-to-month,1196.18,34197.89,29,0,2,1,No
+USER-5665,2025-04-15,Professional,One year,132.47,1529.22,12,1,4,7,No
+USER-5666,2025-04-16,Professional,Month-to-month,182.11,3863.99,22,2,7,1,Yes
+USER-5667,2025-04-18,Starter,Month-to-month,38.44,425.42,11,3,6,5,Yes
+USER-5668,2025-04-19,Professional,Month-to-month,105.1,3549.3,35,1,7,10,No
+USER-5669,2025-04-20,Enterprise,Month-to-month,560.48,1160.93,2,1,15,6,No
+USER-5670,2025-04-21,Starter,Month-to-month,40.07,957.89,24,2,7,8,No
+USER-5671,2025-04-23,Professional,One year,117.75,3297.06,27,4,7,2,No
+USER-5672,2025-04-24,Starter,Two year,38.36,304.34,8,4,6,3,Yes
+USER-5673,2025-04-25,Professional,One year,122.9,2892.79,24,2,9,9,No
+USER-5674,2025-04-26,Professional,Month-to-month,135.38,2275.83,17,3,6,8,No
+USER-5675,2025-04-28,Starter,One year,44.35,1151.94,27,0,9,6,No
+USER-5676,2025-04-29,Starter,Month-to-month,46.78,1163.12,26,2,9,1,Yes
+USER-5677,2025-04-30,Starter,One year,36.18,329.16,9,0,5,9,No
+USER-5678,2025-05-01,Professional,Month-to-month,104.89,330.06,3,4,9,6,Yes
+USER-5679,2025-05-03,Enterprise,Month-to-month,764.23,22982.99,30,0,37,7,No
+USER-5680,2025-05-04,Professional,Month-to-month,194.67,5557.58,28,1,1,4,No
+USER-5681,2025-05-05,Professional,One year,136.46,3848.12,28,2,4,3,No
+USER-5682,2025-05-06,Starter,Month-to-month,30.65,64.16,2,8,6,8,Yes
+USER-5683,2025-05-08,Enterprise,Month-to-month,1132.99,21738.81,19,2,34,7,No
+USER-5684,2025-05-09,Professional,Month-to-month,109.03,1721.76,16,4,2,9,Yes
+USER-5685,2025-05-10,Starter,Two year,39.11,853.84,21,0,6,4,No
+USER-5686,2025-05-12,Professional,Month-to-month,186.11,5445.8,28,5,8,3,Yes
+USER-5687,2025-05-13,Starter,One year,40.37,158.0,4,3,9,4,Yes
+USER-5688,2025-05-14,Enterprise,One year,895.9,29036.45,32,5,14,2,No
+USER-5689,2025-05-15,Professional,Month-to-month,111.67,1391.27,12,1,7,6,No
+USER-5690,2025-05-17,Professional,Month-to-month,138.93,4944.64,34,2,7,4,No
+USER-5691,2025-05-18,Professional,One year,153.82,2079.86,14,2,2,4,No
+USER-5692,2025-05-19,Professional,Month-to-month,170.73,1329.32,8,1,6,4,Yes
+USER-5693,2025-05-20,Professional,One year,180.35,3333.82,19,2,1,10,No
+USER-5694,2025-05-22,Starter,Month-to-month,35.62,690.68,20,4,7,1,Yes
+USER-5695,2025-05-23,Starter,One year,35.7,254.02,7,0,5,10,No
+USER-5696,2025-05-24,Enterprise,Two year,853.96,18527.56,22,2,31,8,No
+USER-5697,2025-05-25,Enterprise,One year,1018.11,19626.71,20,5,29,6,No
+USER-5698,2025-05-27,Starter,Month-to-month,40.75,510.38,13,2,7,4,Yes
+USER-5699,2025-05-28,Professional,One year,117.63,2202.5,19,0,5,3,No
+USER-5700,2025-05-29,Starter,Month-to-month,44.87,132.27,3,1,2,3,Yes
+USER-5701,2025-05-30,Starter,Month-to-month,35.63,68.42,2,4,1,3,Yes
+USER-5702,2025-06-01,Professional,One year,126.68,3774.48,29,4,4,7,No
+USER-5703,2025-06-02,Starter,Month-to-month,45.75,1421.79,32,6,3,4,Yes
+USER-5704,2025-06-03,Starter,One year,45.66,470.43,10,3,8,3,Yes
+USER-5705,2025-06-04,Starter,One year,45.92,624.2,13,7,4,2,Yes
+USER-5706,2025-06-06,Professional,Month-to-month,153.01,1606.26,10,6,6,3,Yes
+USER-5707,2025-06-07,Enterprise,Two year,978.3,20290.58,21,5,39,1,Yes
+USER-5708,2025-06-08,Professional,Two year,101.88,3631.56,35,3,7,2,No
+USER-5709,2025-06-09,Professional,Month-to-month,166.86,4766.44,28,0,7,9,No
+USER-5710,2025-06-11,Enterprise,Month-to-month,1084.66,38602.21,34,1,19,5,No
+USER-5711,2025-06-12,Starter,Month-to-month,35.74,1080.67,29,3,1,6,No
+USER-5712,2025-06-13,Starter,Month-to-month,33.38,951.52,30,4,6,6,No
+USER-5713,2025-06-14,Enterprise,Month-to-month,851.89,27535.88,31,4,42,6,No
+USER-5714,2025-06-16,Starter,Month-to-month,30.17,468.76,15,2,9,6,No
+USER-5715,2025-06-17,Professional,One year,102.14,2194.78,22,3,1,1,No
+USER-5716,2025-06-18,Professional,One year,173.91,724.63,4,0,8,8,No
+USER-5717,2025-06-19,Enterprise,Month-to-month,1075.76,21896.27,21,1,42,8,No
+USER-5718,2025-06-21,Enterprise,Two year,802.8,1667.13,2,1,30,10,No
+USER-5719,2025-06-22,Starter,Month-to-month,30.61,59.72,2,2,8,7,Yes
+USER-5720,2025-06-23,Professional,Two year,124.63,2663.32,22,0,5,5,No
+USER-5721,2025-06-24,Starter,Month-to-month,38.85,833.94,22,3,4,3,Yes
+USER-5722,2025-06-26,Starter,One year,38.2,355.08,9,4,9,5,Yes
+USER-5723,2025-06-27,Professional,Two year,103.02,695.99,7,2,7,9,No
+USER-5724,2025-06-28,Starter,One year,40.2,1222.09,29,2,1,10,No
+USER-5725,2025-06-30,Starter,Month-to-month,44.65,888.83,19,2,2,6,No
+USER-5726,2025-07-01,Professional,Month-to-month,156.53,644.45,4,1,6,7,No
+USER-5727,2025-07-02,Starter,One year,30.8,416.82,13,2,2,7,No
+USER-5728,2025-07-03,Starter,One year,35.64,827.81,24,1,6,10,No
+USER-5729,2025-07-05,Starter,Month-to-month,46.43,45.84,1,5,2,1,Yes
+USER-5730,2025-07-06,Starter,Month-to-month,45.41,187.39,4,2,1,6,Yes
+USER-5731,2025-07-07,Professional,One year,153.31,3976.14,27,1,3,7,No
+USER-5732,2025-07-08,Enterprise,One year,1019.64,13061.38,13,2,41,5,No
+USER-5733,2025-07-10,Starter,Month-to-month,36.91,268.72,7,4,4,6,Yes
+USER-5734,2025-07-11,Starter,Month-to-month,47.48,1063.6,23,2,6,2,Yes
+USER-5735,2025-07-12,Enterprise,Month-to-month,1069.77,11073.15,10,2,40,6,No
+USER-5736,2025-07-13,Starter,Month-to-month,29.48,612.18,21,2,7,3,Yes
+USER-5737,2025-07-15,Starter,Two year,41.88,737.34,18,2,5,4,No
+USER-5738,2025-07-16,Professional,Two year,113.03,1414.19,13,1,5,2,No
+USER-5739,2025-07-17,Professional,One year,185.52,917.08,5,2,3,1,No
+USER-5740,2025-07-18,Enterprise,Month-to-month,1105.04,4500.75,4,1,37,1,Yes
+USER-5741,2025-07-20,Starter,Month-to-month,29.24,667.36,24,2,5,4,Yes
+USER-5742,2025-07-21,Professional,Two year,133.58,540.65,4,1,4,6,No
+USER-5743,2025-07-22,Professional,Month-to-month,103.98,3268.54,33,2,7,5,No
+USER-5744,2025-07-23,Enterprise,Two year,1181.05,24703.86,22,4,1,7,No
+USER-5745,2025-07-25,Professional,Month-to-month,121.51,3446.59,28,3,4,1,Yes
+USER-5746,2025-07-26,Starter,Month-to-month,31.36,499.1,16,2,7,10,No
+USER-5747,2025-07-27,Starter,Month-to-month,46.06,1513.06,32,4,2,4,Yes
+USER-5748,2025-07-28,Starter,Month-to-month,30.37,738.18,25,3,4,2,Yes
+USER-5749,2025-07-30,Starter,One year,35.84,388.21,11,3,7,8,No
+USER-5750,2025-07-31,Professional,Month-to-month,130.74,3323.06,26,3,2,1,Yes
+USER-5751,2025-08-01,Professional,One year,188.69,750.64,4,2,8,2,Yes
+USER-5752,2025-08-02,Professional,Month-to-month,160.79,4384.89,27,2,1,1,Yes
+USER-5753,2025-08-04,Starter,Month-to-month,48.63,733.1,15,4,7,2,Yes
+USER-5754,2025-08-05,Starter,Month-to-month,32.95,348.05,11,1,1,1,Yes
+USER-5755,2025-08-06,Starter,One year,44.68,184.47,4,2,4,10,No
+USER-5756,2025-08-07,Professional,Month-to-month,171.92,4581.98,27,1,8,7,No
+USER-5757,2025-08-09,Professional,Month-to-month,189.33,6507.07,34,2,5,6,No
+USER-5758,2025-08-10,Starter,Month-to-month,40.23,565.59,14,3,3,2,Yes
+USER-5759,2025-08-11,Starter,Month-to-month,35.74,148.03,4,2,7,3,Yes
+USER-5760,2025-08-12,Starter,Two year,29.71,969.2,32,3,8,6,No
+USER-5761,2025-08-14,Professional,Month-to-month,119.62,1179.94,10,3,1,4,Yes
+USER-5762,2025-08-15,Enterprise,One year,1027.8,2147.97,2,0,23,7,No
+USER-5763,2025-08-16,Enterprise,Month-to-month,1085.79,18117.37,16,1,27,7,No
+USER-5764,2025-08-18,Professional,Two year,165.21,2370.09,15,4,6,10,No
+USER-5765,2025-08-19,Starter,Two year,29.76,271.85,9,5,1,6,No
+USER-5766,2025-08-20,Starter,Month-to-month,33.68,100.99,3,1,5,8,No
+USER-5767,2025-08-21,Starter,Month-to-month,47.43,1597.67,34,6,7,6,Yes
+USER-5768,2025-08-23,Starter,Two year,36.26,561.86,15,2,9,1,No
+USER-5769,2025-08-24,Professional,Month-to-month,140.41,4659.19,34,3,9,8,No
+USER-5770,2025-08-25,Professional,Month-to-month,121.0,3359.53,27,1,6,10,No
+USER-5771,2025-08-26,Enterprise,Two year,833.09,8021.43,10,1,7,1,No
+USER-5772,2025-08-28,Starter,Two year,36.16,449.51,13,3,1,7,No
+USER-5773,2025-08-29,Professional,Month-to-month,112.38,1795.2,16,4,8,2,Yes
+USER-5774,2025-08-30,Professional,Month-to-month,120.48,574.11,5,1,5,7,No
+USER-5775,2025-08-31,Professional,One year,172.7,5009.26,30,0,7,7,No
+USER-5776,2025-09-02,Professional,One year,132.97,3754.59,27,0,5,3,No
+USER-5777,2025-09-03,Professional,Month-to-month,171.21,1374.48,8,4,7,4,Yes
+USER-5778,2025-09-04,Professional,Month-to-month,194.01,3281.49,17,3,8,1,Yes
+USER-5779,2025-09-05,Professional,One year,175.91,348.34,2,3,1,1,Yes
+USER-5780,2025-09-07,Starter,Month-to-month,46.52,482.31,10,1,4,2,Yes
+USER-5781,2025-09-08,Enterprise,Two year,1156.09,24718.23,21,3,14,10,No
+USER-5782,2025-09-09,Professional,One year,126.66,515.23,4,1,9,7,No
+USER-5783,2025-09-10,Enterprise,Month-to-month,653.04,10894.75,16,3,47,7,No
+USER-5784,2025-09-12,Professional,Two year,148.31,293.17,2,3,7,1,Yes
+USER-5785,2025-09-13,Enterprise,Two year,540.88,13832.64,26,4,49,5,No
+USER-5786,2025-09-14,Starter,Month-to-month,37.11,893.27,23,1,9,5,No
+USER-5787,2025-09-15,Starter,Month-to-month,29.9,983.75,32,4,2,5,Yes
+USER-5788,2025-09-17,Enterprise,Month-to-month,857.36,23851.95,27,4,37,10,No
+USER-5789,2025-09-18,Professional,Month-to-month,160.25,1084.25,7,3,1,2,Yes
+USER-5790,2025-09-19,Professional,Two year,195.95,393.8,2,4,4,5,Yes
+USER-5791,2025-09-20,Starter,Month-to-month,42.31,1410.6,35,2,4,8,No
+USER-5792,2025-09-22,Professional,Month-to-month,175.13,4865.77,27,1,3,9,No
+USER-5793,2025-09-23,Professional,Month-to-month,120.91,1461.28,12,1,8,10,No
+USER-5794,2025-09-24,Starter,One year,37.4,445.67,12,2,4,8,No
+USER-5795,2025-09-25,Enterprise,Month-to-month,985.65,1942.0,2,1,5,9,No
+USER-5796,2025-09-27,Starter,Month-to-month,38.76,1121.99,29,4,2,9,No
+USER-5797,2025-09-28,Starter,One year,38.8,1007.65,25,1,4,6,No
+USER-5798,2025-09-29,Professional,One year,174.2,1448.93,8,2,9,5,No
+USER-5799,2025-10-01,Professional,One year,119.45,3865.56,31,3,4,4,No

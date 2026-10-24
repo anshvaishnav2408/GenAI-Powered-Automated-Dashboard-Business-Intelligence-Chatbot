@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Shipping_Cost
+ORD-20250000,2025-01-01,CUST-1102,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #33,411.05,7,0.05,75.71,18.35
+ORD-20250001,2025-01-01,CUST-1130,Small Business,North America,Office Supplies,Binders,Binders Pro #98,858.11,8,0.1,242.53,5.28
+ORD-20250002,2025-01-01,CUST-1048,Consumer,Europe,Technology,Printers,Printers Pro #73,2839.75,8,0.1,214.94,20.3
+ORD-20250003,2025-01-01,CUST-1130,Corporate,Asia-Pacific,Furniture,Desks,Desks Pro #11,2279.78,4,0.0,370.82,5.64
+ORD-20250004,2025-01-02,CUST-1091,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #15,1492.69,3,0.1,2.92,17.47
+ORD-20250005,2025-01-02,CUST-1053,Consumer,Europe,Office Supplies,Binders,Binders Pro #81,431.86,4,0.05,169.88,41.87
+ORD-20250006,2025-01-02,CUST-1214,Small Business,Europe,Office Supplies,Art,Art Pro #50,100.33,2,0.3,6.69,29.28
+ORD-20250007,2025-01-03,CUST-1156,Consumer,Asia-Pacific,Office Supplies,Paper,Paper Pro #44,183.27,4,0.0,37.3,33.45
+ORD-20250008,2025-01-03,CUST-1288,Small Business,Europe,Furniture,Tables,Tables Pro #71,3654.14,7,0.0,511.18,19.83
+ORD-20250009,2025-01-03,CUST-1215,Corporate,Europe,Technology,Accessories,Accessories Pro #23,469.26,1,0.15,107.29,33.87
+ORD-20250010,2025-01-04,CUST-1282,,Europe,Technology,Laptops,Laptops Pro #32,549.0,3,0.0,152.23,25.34
+ORD-20250011,2025-01-04,CUST-1230,,Europe,Technology,Printers,Printers Pro #66,2543.74,7,0.2,-56.46,37.32
+ORD-20250012,2025-01-04,CUST-1133,,Europe,Furniture,Desks,Desks Pro #10,745.98,3,0.0,55.52,41.27
+ORD-20250013,2025-01-04,CUST-1282,Small Business,Europe,Office Supplies,Storage,Storage Pro #68,65.91,1,0.0,24.59,14.77
+ORD-20250014,2025-01-05,CUST-1159,Corporate,Europe,Technology,Laptops,Laptops Pro #65,2205.08,2,0.05,349.0,17.04
+ORD-20250015,2025-01-05,CUST-1080,Small Business,North America,Furniture,Bookcases,Bookcases Pro #41,1167.47,5,0.1,99.72,26.24
+ORD-20250016,2025-01-05,CUST-1197,Corporate,North America,Office Supplies,Storage,Storage Pro #20,82.32,1,0.1,17.56,30.34
+ORD-20250017,2025-01-06,CUST-1239,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #28,2631.73,5,0.0,303.15,33.45
+ORD-20250018,2025-01-06,CUST-1147,Consumer,Europe,Furniture,Tables,Tables Pro #32,3969.7,7,0.0,307.67,9.54
+ORD-20250019,2025-01-06,CUST-1297,Corporate,North America,Office Supplies,Paper,Paper Pro #46,282.45,4,0.0,73.57,40.89
+ORD-20250020,2025-01-07,CUST-1159,Consumer,Europe,Technology,Printers,Printers Pro #84,7425.37,8,0.15,1549.87,30.68
+ORD-20250021,2025-01-07,CUST-1112,Small Business,North America,Furniture,Bookcases,Bookcases Pro #91,1062.12,8,0.0,194.05,11.43
+ORD-20250022,2025-01-07,CUST-1193,Corporate,Europe,Technology,Laptops,Laptops Pro #16,1436.8,4,0.1,183.72,30.99
+ORD-20250023,2025-01-07,CUST-1194,Corporate,Europe,Technology,Accessories,Accessories Pro #63,1799.54,6,0.3,-260.17,20.72
+ORD-20250024,2025-01-08,CUST-1263,Corporate,Europe,Furniture,Tables,Tables Pro #44,2117.49,7,0.1,-25.76,16.23
+ORD-20250025,2025-01-08,CUST-1191,Consumer,Europe,Office Supplies,Art,Art Pro #55,666.36,6,,194.93,42.13
+ORD-20250026,2025-01-08,CUST-1180,Small Business,Europe,Technology,Laptops,Laptops Pro #63,1664.67,5,,269.32,19.91
+ORD-20250027,2025-01-09,CUST-1057,Consumer,Latin America,Technology,Accessories,Accessories Pro #42,3159.47,6,0.0,634.52,17.9
+ORD-20250028,2025-01-09,CUST-1298,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #45,1257.05,3,0.0,342.3,5.21
+ORD-20250029,2025-01-09,CUST-1172,Consumer,North America,Technology,Smartphones,Smartphones Pro #72,4107.6,4,0.05,456.26,22.54
+ORD-20250030,2025-01-10,CUST-1050,Corporate,Europe,Technology,Smartphones,Smartphones Pro #69,309.44,2,0.15,2.72,19.41
+ORD-20250031,2025-01-10,CUST-1100,Corporate,Europe,Technology,Laptops,Laptops Pro #64,1593.44,7,0.05,185.07,26.63
+ORD-20250032,2025-01-10,CUST-1143,Corporate,Latin America,Technology,Laptops,Laptops Pro #71,3474.99,8,0.0,826.33,6.01
+ORD-20250033,2025-01-11,CUST-1278,Corporate,Europe,Technology,Smartphones,Smartphones Pro #10,614.47,1,0.0,121.64,12.31
+ORD-20250034,2025-01-11,CUST-1271,Corporate,Europe,Furniture,Chairs,Chairs Pro #38,733.69,7,0.0,119.75,9.81
+ORD-20250035,2025-01-11,CUST-1219,Consumer,North America,Office Supplies,Appliances,Appliances Pro #42,307.74,5,0.05,56.51,23.94
+ORD-20250036,2025-01-11,CUST-1253,Consumer,Europe,Furniture,Chairs,Chairs Pro #10,372.81,4,0.1,10.32,25.13
+ORD-20250037,2025-01-12,CUST-1003,Small Business,Europe,Office Supplies,Appliances,Appliances Pro #42,589.12,8,0.1,196.53,27.93
+ORD-20250038,2025-01-12,CUST-1178,Corporate,Asia-Pacific,Office Supplies,Binders,Binders Pro #44,106.67,3,0.0,23.18,5.73
+ORD-20250039,2025-01-12,CUST-1214,Consumer,North America,Office Supplies,Binders,Binders Pro #84,603.12,6,0.0,163.13,32.87
+ORD-20250040,2025-01-13,CUST-1216,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #33,7578.54,8,0.05,2378.07,19.88
+ORD-20250041,2025-01-13,CUST-1150,Small Business,Latin America,Furniture,Chairs,Chairs Pro #98,2645.23,7,0.2,-427.78,25.21
+ORD-20250042,2025-01-13,CUST-1186,Consumer,North America,Office Supplies,Storage,Storage Pro #25,188.15,4,0.1,70.91,24.3
+ORD-20250043,2025-01-14,CUST-1068,Consumer,North America,Furniture,Tables,Tables Pro #48,2458.11,5,0.0,511.1,24.78
+ORD-20250044,2025-01-14,CUST-1222,Corporate,North America,Furniture,Bookcases,Bookcases Pro #16,992.29,2,0.15,43.9,39.67
+ORD-20250045,2025-01-14,CUST-1173,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #74,32.96,2,0.3,-3.71,19.97
+ORD-20250046,2025-01-14,CUST-1144,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro #28,413.12,7,0.1,89.28,14.95
+ORD-20250047,2025-01-15,CUST-1038,Consumer,Europe,Furniture,Desks,Desks Pro #12,791.02,2,0.15,49.73,34.77
+ORD-20250048,2025-01-15,CUST-1189,Consumer,Europe,Technology,Laptops,Laptops Pro #56,2554.24,6,0.3,38.03,27.24
+ORD-20250049,2025-01-15,CUST-1148,Small Business,North America,Office Supplies,Appliances,Appliances Pro #24,264.05,3,0.0,57.79,13.67
+ORD-20250050,2025-01-16,CUST-1000,Corporate,Europe,Office Supplies,Paper,Paper Pro #37,106.8,3,0.2,31.72,23.23
+ORD-20250051,2025-01-16,CUST-1007,Corporate,North America,Technology,Printers,Printers Pro #72,858.47,2,0.0,190.64,23.13
+ORD-20250052,2025-01-16,CUST-1144,Consumer,North America,Furniture,Tables,Tables Pro #78,597.03,5,0.2,-100.56,21.67
+ORD-20250053,2025-01-17,CUST-1009,Small Business,Latin America,Technology,Accessories,Accessories Pro #94,3053.6,8,0.3,52.83,11.02
+ORD-20250054,2025-01-17,CUST-1281,Small Business,North America,Office Supplies,Art,Art Pro #15,64.21,1,0.0,19.5,7.26
+ORD-20250055,2025-01-17,CUST-1196,Small Business,Latin America,Furniture,Chairs,Chairs Pro #10,2856.39,5,0.0,628.2,23.02
+ORD-20250056,2025-01-18,CUST-1050,Consumer,North America,Office Supplies,Binders,Binders Pro #12,164.2,4,0.05,26.88,24.05
+ORD-20250057,2025-01-18,CUST-1267,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #23,730.98,1,0.05,150.82,36.39
+ORD-20250058,2025-01-18,CUST-1065,Small Business,Asia-Pacific,Furniture,Desks,Desks Pro #61,2258.37,6,0.05,302.69,8.64
+ORD-20250059,2025-01-18,CUST-1248,Corporate,Europe,Technology,Accessories,Accessories Pro #83,2110.96,2,0.0,717.52,42.06
+ORD-20250060,2025-01-19,CUST-1272,Consumer,North America,Office Supplies,Art,Art Pro #32,99.04,2,0.0,35.49,8.03
+ORD-20250061,2025-01-19,CUST-1182,Consumer,Europe,Furniture,Tables,Tables Pro #41,2829.96,8,0.2,-239.37,25.61
+ORD-20250062,2025-01-19,CUST-1060,Consumer,North America,Technology,Printers,Printers Pro #55,671.72,2,0.0,112.67,23.43
+ORD-20250063,2025-01-20,CUST-1033,Consumer,North America,Technology,Smartphones,Smartphones Pro #57,622.44,1,0.05,155.65,11.28
+ORD-20250064,2025-01-20,CUST-1060,Small Business,North America,Technology,Accessories,Accessories Pro #37,4742.28,5,0.2,339.77,14.44
+ORD-20250065,2025-01-20,CUST-1077,Corporate,Europe,Technology,Printers,Printers Pro #27,2562.2,3,0.05,752.59,26.28
+ORD-20250066,2025-01-21,CUST-1293,Consumer,Europe,Technology,Laptops,Laptops Pro #53,684.3,4,0.0,146.73,18.1
+ORD-20250067,2025-01-21,CUST-1024,Corporate,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #17,322.23,1,0.05,5.9,28.47
+ORD-20250068,2025-01-21,CUST-1235,Consumer,North America,Technology,Smartphones,Smartphones Pro #42,4196.18,8,0.3,-472.25,29.23
+ORD-20250069,2025-01-21,CUST-1149,Consumer,North America,Furniture,Desks,Desks Pro #12,377.1,3,0.0,79.63,38.69
+ORD-20250070,2025-01-22,CUST-1242,Corporate,North America,Office Supplies,Binders,Binders Pro #60,397.1,4,0.15,124.44,15.32
+ORD-20250071,2025-01-22,CUST-1061,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro #29,2400.68,5,0.0,209.84,22.02
+ORD-20250072,2025-01-22,CUST-1112,Corporate,Europe,Office Supplies,Art,Art Pro #59,177.89,6,0.05,50.61,7.07
+ORD-20250073,2025-01-23,CUST-1009,Corporate,Europe,Technology,Printers,Printers Pro #24,484.52,2,0.0,86.13,9.67
+ORD-20250074,2025-01-23,CUST-1037,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #44,162.1,4,0.3,30.85,13.2
+ORD-20250075,2025-01-23,CUST-1000,Corporate,Asia-Pacific,Office Supplies,Storage,Storage Pro #92,79.73,1,0.15,23.44,12.46
+ORD-20250076,2025-01-24,CUST-1077,Consumer,Europe,Office Supplies,Paper,Paper Pro #47,201.49,2,0.0,62.42,23.51
+ORD-20250077,2025-01-24,CUST-1022,Corporate,Europe,Technology,Accessories,Accessories Pro #79,4959.15,7,0.0,809.95,26.71
+ORD-20250078,2025-01-24,CUST-1133,Corporate,North America,Furniture,Tables,Tables Pro #38,3382.39,7,0.1,184.47,27.93
+ORD-20250079,2025-01-24,CUST-1037,Corporate,Asia-Pacific,Office Supplies,Paper,Paper Pro #47,207.92,6,0.05,71.9,35.19
+ORD-20250080,2025-01-25,CUST-1158,Consumer,North America,Furniture,Bookcases,Bookcases Pro #36,1713.46,5,0.05,175.45,35.88
+ORD-20250081,2025-01-25,CUST-1094,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #32,2549.68,5,0.0,616.55,14.09
+ORD-20250082,2025-01-25,CUST-1217,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #46,4054.63,8,0.05,795.66,32.87
+ORD-20250083,2025-01-26,CUST-1126,Corporate,North America,Furniture,Desks,Desks Pro #55,1111.08,3,0.2,51.21,23.03
+ORD-20250084,2025-01-26,CUST-1100,Small Business,Latin America,Technology,Laptops,Laptops Pro #82,1010.22,1,0.05,216.68,20.96
+ORD-20250085,2025-01-26,CUST-1136,Corporate,North America,Furniture,Bookcases,Bookcases Pro #43,1655.04,7,0.2,46.97,23.63
+ORD-20250086,2025-01-27,CUST-1016,Consumer,Europe,Office Supplies,Paper,Paper Pro #31,226.65,7,0.0,47.25,36.22
+ORD-20250087,2025-01-27,CUST-1153,Corporate,North America,Technology,Printers,Printers Pro #58,306.1,1,0.0,71.3,44.87
+ORD-20250088,2025-01-27,CUST-1256,Consumer,North America,Furniture,Tables,Tables Pro #25,706.54,3,0.1,34.26,20.11
+ORD-20250089,2025-01-28,CUST-1018,Corporate,North America,Furniture,Desks,Desks Pro #10,1762.42,6,0.05,148.7,11.21
+ORD-20250090,2025-01-28,CUST-1263,Small Business,Asia-Pacific,Technology,Smartphones,Smartphones Pro #59,2478.6,3,0.0,574.41,11.25
+ORD-20250091,2025-01-28,CUST-1007,Consumer,North America,Technology,Accessories,Accessories Pro #17,1015.64,7,0.15,24.88,12.14
+ORD-20250092,2025-01-28,CUST-1290,Corporate,North America,Office Supplies,Storage,Storage Pro #57,453.63,8,0.0,166.49,16.73
+ORD-20250093,2025-01-29,CUST-1006,Corporate,Europe,Office Supplies,Art,Art Pro #29,182.93,3,0.2,24.09,37.7
+ORD-20250094,2025-01-29,CUST-1010,Consumer,North America,Furniture,Tables,Tables Pro #53,1537.32,4,0.05,132.51,22.45
+ORD-20250095,2025-01-29,CUST-1279,Corporate,North America,Office Supplies,Paper,Paper Pro #82,32.98,2,0.05,7.54,30.34
+ORD-20250096,2025-01-30,CUST-1245,Consumer,Europe,Technology,Laptops,Laptops Pro #51,3722.08,5,0.15,598.32,26.19
+ORD-20250097,2025-01-30,CUST-1040,Corporate,North America,Furniture,Desks,Desks Pro #15,749.36,4,0.0,39.12,41.0
+ORD-20250098,2025-01-30,CUST-1218,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #73,1110.99,2,0.0,148.6,25.76
+ORD-20250099,2025-01-31,CUST-1129,Corporate,North America,Technology,Printers,Printers Pro #68,1222.85,3,0.0,278.64,19.23
+ORD-20250100,2025-01-31,CUST-1294,Small Business,Europe,Technology,Printers,Printers Pro #92,1750.51,6,0.0,431.94,26.59
+ORD-20250101,2025-01-31,CUST-1226,Small Business,Asia-Pacific,Office Supplies,Storage,Storage Pro #10,160.9,2,0.0,51.26,19.06
+ORD-20250102,2025-01-31,CUST-1216,Corporate,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #21,252.92,3,0.3,-90.16,5.21
+ORD-20250103,2025-02-01,CUST-1274,Small Business,North America,Office Supplies,Paper,Paper Pro #92,175.02,2,0.0,57.82,43.33
+ORD-20250104,2025-02-01,CUST-1263,Corporate,Europe,Furniture,Tables,Tables Pro #35,3185.46,6,0.1,462.5,32.73
+ORD-20250105,2025-02-01,CUST-1046,Corporate,North America,Office Supplies,Binders,Binders Pro #57,323.44,5,0.0,89.99,34.24
+ORD-20250106,2025-02-02,CUST-1214,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #69,1257.4,2,0.1,249.96,19.59
+ORD-20250107,2025-02-02,CUST-1097,Corporate,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #22,1435.12,4,0.05,242.91,31.47
+ORD-20250108,2025-02-02,CUST-1209,Consumer,Europe,Office Supplies,Binders,Binders Pro #27,444.53,7,0.0,198.97,12.42
+ORD-20250109,2025-02-03,CUST-1095,Small Business,Asia-Pacific,Technology,Smartphones,Smartphones Pro #19,514.82,1,0.1,83.5,39.95
+ORD-20250110,2025-02-03,CUST-1064,Consumer,North America,Technology,Smartphones,Smartphones Pro #88,922.25,2,0.0,181.43,5.71
+ORD-20250111,2025-02-03,CUST-1072,Consumer,North America,Technology,Accessories,Accessories Pro #72,1876.99,2,0.05,299.92,44.29
+ORD-20250112,2025-02-04,CUST-1010,Small Business,Latin America,Furniture,Tables,Tables Pro #83,866.47,3,0.0,188.52,38.23
+ORD-20250113,2025-02-04,CUST-1106,Consumer,North America,Technology,Accessories,Accessories Pro #29,2898.74,8,0.3,-573.25,40.35
+ORD-20250114,2025-02-04,CUST-1240,Consumer,North America,Office Supplies,Paper,Paper Pro #98,786.46,8,0.1,188.61,34.91
+ORD-20250115,2025-02-04,CUST-1067,Consumer,Europe,Office Supplies,Storage,Storage Pro #18,60.06,3,0.3,10.49,39.49
+ORD-20250116,2025-02-05,CUST-1039,Corporate,Latin America,Technology,Printers,Printers Pro #46,1087.35,7,0.0,314.4,26.3
+ORD-20250117,2025-02-05,CUST-1175,Consumer,Europe,Office Supplies,Art,Art Pro #49,525.83,8,0.05,208.47,31.48
+ORD-20250118,2025-02-05,CUST-1236,Corporate,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #62,31.52,1,0.0,7.57,14.55
+ORD-20250119,2025-02-06,CUST-1169,Corporate,North America,Technology,Laptops,Laptops Pro #41,2782.51,3,0.2,149.88,5.21
+ORD-20250120,2025-02-06,CUST-1157,Consumer,Latin America,Furniture,Chairs,Chairs Pro #26,1072.59,5,0.0,95.06,18.06
+ORD-20250121,2025-02-06,CUST-1222,Consumer,North America,Office Supplies,Storage,Storage Pro #88,86.37,6,0.15,16.06,20.69
+ORD-20250122,2025-02-07,CUST-1221,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #74,1945.93,2,0.15,76.18,33.34
+ORD-20250123,2025-02-07,CUST-1021,Consumer,Europe,Office Supplies,Art,Art Pro #20,318.63,4,0.15,30.94,5.98
+ORD-20250124,2025-02-07,CUST-1032,Consumer,North America,Office Supplies,Binders,Binders Pro #22,302.92,7,0.3,-13.67,22.05
+ORD-20250125,2025-02-07,CUST-1038,Small Business,Europe,Technology,Printers,Printers Pro #65,1922.93,2,0.0,376.92,39.72
+ORD-20250126,2025-02-08,CUST-1091,Small Business,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #47,568.86,6,0.0,176.67,17.83
+ORD-20250127,2025-02-08,CUST-1014,Consumer,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #26,148.06,2,0.3,3.87,12.42
+ORD-20250128,2025-02-08,CUST-1092,Corporate,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #12,565.27,7,0.0,131.6,41.83
+ORD-20250129,2025-02-09,CUST-1045,Consumer,Europe,Furniture,Desks,Desks Pro #95,834.88,4,0.0,134.98,11.43
+ORD-20250130,2025-02-09,CUST-1116,Consumer,Europe,Office Supplies,Paper,Paper Pro #47,510.26,8,0.0,188.85,43.99
+ORD-20250131,2025-02-09,CUST-1031,Corporate,Europe,Office Supplies,Paper,Paper Pro #55,728.4,8,0.0,282.1,9.11
+ORD-20250132,2025-02-10,CUST-1159,Consumer,North America,Technology,Laptops,Laptops Pro #86,1929.19,2,0.0,652.54,26.37
+ORD-20250133,2025-02-10,CUST-1076,Consumer,North America,Technology,Accessories,Accessories Pro #58,1747.88,2,0.0,542.05,11.7
+ORD-20250134,2025-02-10,CUST-1122,Small Business,North America,Technology,Printers,Printers Pro #71,805.06,1,0.1,200.54,37.07
+ORD-20250135,2025-02-10,CUST-1110,Consumer,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #23,544.41,6,0.1,128.89,26.06
+ORD-20250136,2025-02-11,CUST-1011,Consumer,North America,Office Supplies,Binders,Binders Pro #64,352.4,3,0.0,100.16,36.59
+ORD-20250137,2025-02-11,CUST-1287,Corporate,Europe,Furniture,Desks,Desks Pro #44,2691.42,5,0.1,433.49,12.98
+ORD-20250138,2025-02-11,CUST-1092,Consumer,Europe,Office Supplies,Paper,Paper Pro #29,591.0,6,0.15,107.06,30.15
+ORD-20250139,2025-02-12,CUST-1151,Corporate,Europe,Furniture,Desks,Desks Pro #48,1356.92,5,0.05,173.17,36.72
+ORD-20250140,2025-02-12,CUST-1242,Small Business,Europe,Technology,Laptops,Laptops Pro #96,1626.28,2,0.0,482.39,33.63
+ORD-20250141,2025-02-12,CUST-1297,Small Business,North America,Technology,Laptops,Laptops Pro #98,3201.08,6,0.2,-2.22,22.81
+ORD-20250142,2025-02-13,CUST-1083,Consumer,Europe,Technology,Laptops,Laptops Pro #65,1684.16,4,0.0,473.83,35.94
+ORD-20250143,2025-02-13,CUST-1163,Consumer,Latin America,Technology,Accessories,Accessories Pro #10,1969.47,6,0.0,500.15,38.16
+ORD-20250144,2025-02-13,CUST-1132,Corporate,North America,Furniture,Tables,Tables Pro #46,902.67,6,0.1,-42.8,31.55
+ORD-20250145,2025-02-14,CUST-1119,Corporate,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #29,80.25,3,0.0,21.46,26.25
+ORD-20250146,2025-02-14,CUST-1281,Consumer,North America,Furniture,Chairs,Chairs Pro #62,733.2,3,0.0,111.04,10.93
+ORD-20250147,2025-02-14,CUST-1241,Consumer,Latin America,Office Supplies,Binders,Binders Pro #53,504.12,5,0.05,139.92,24.55
+ORD-20250148,2025-02-14,CUST-1293,Consumer,North America,Technology,Printers,Printers Pro #17,506.72,2,0.3,-11.09,8.76
+ORD-20250149,2025-02-15,CUST-1156,Small Business,Europe,Technology,Smartphones,Smartphones Pro #26,927.02,1,0.1,246.1,24.89
+ORD-20250150,2025-02-15,CUST-1025,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #62,874.0,1,0.0,249.35,31.36
+ORD-20250151,2025-02-15,CUST-1068,Consumer,Europe,Technology,Printers,Printers Pro #86,2032.87,6,0.3,67.63,35.1
+ORD-20250152,2025-02-16,CUST-1158,Small Business,Asia-Pacific,Furniture,Desks,Desks Pro #92,1452.31,4,0.15,105.2,36.91
+ORD-20250153,2025-02-16,CUST-1128,Corporate,North America,Technology,Accessories,Accessories Pro #98,481.31,1,0.1,69.12,20.54
+ORD-20250154,2025-02-16,CUST-1223,Consumer,North America,Technology,Accessories,Accessories Pro #35,6472.34,8,0.05,1525.42,20.19
+ORD-20250155,2025-02-17,CUST-1116,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #55,2041.87,5,0.0,500.95,26.98
+ORD-20250156,2025-02-17,CUST-1020,Consumer,North America,Furniture,Tables,Tables Pro #95,1446.28,7,0.0,340.47,42.38
+ORD-20250157,2025-02-17,CUST-1274,Consumer,North America,Technology,Printers,Printers Pro #45,2694.13,6,0.05,739.06,17.45
+ORD-20250158,2025-02-17,CUST-1157,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #80,1045.19,6,0.0,194.64,26.01
+ORD-20250159,2025-02-18,CUST-1240,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #22,597.78,6,0.0,201.79,30.33
+ORD-20250160,2025-02-18,CUST-1117,Corporate,Europe,Office Supplies,Binders,Binders Pro #35,372.21,8,0.2,97.69,19.14
+ORD-20250161,2025-02-18,CUST-1292,Corporate,North America,Office Supplies,Binders,Binders Pro #56,23.78,1,0.05,7.66,28.46
+ORD-20250162,2025-02-19,CUST-1048,Small Business,Asia-Pacific,Technology,Laptops,Laptops Pro #19,944.03,6,0.1,187.12,26.87
+ORD-20250163,2025-02-19,CUST-1077,Consumer,Europe,Technology,Printers,Printers Pro #50,2214.16,3,0.05,548.1,22.83
+ORD-20250164,2025-02-19,CUST-1240,Consumer,North America,Office Supplies,Appliances,Appliances Pro #45,85.7,2,0.15,27.87,15.6
+ORD-20250165,2025-02-20,CUST-1072,Consumer,North America,Technology,Printers,Printers Pro #30,2953.8,5,0.15,46.99,14.35
+ORD-20250166,2025-02-20,CUST-1263,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #90,354.43,2,0.3,-58.78,31.47
+ORD-20250167,2025-02-20,CUST-1290,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #89,2079.91,2,0.1,196.57,13.04
+ORD-20250168,2025-02-21,CUST-1105,Consumer,North America,Office Supplies,Paper,Paper Pro #14,542.82,8,0.2,134.93,14.39
+ORD-20250169,2025-02-21,CUST-1247,Small Business,Europe,Furniture,Desks,Desks Pro #47,758.07,6,0.0,152.41,38.04
+ORD-20250170,2025-02-21,CUST-1225,Consumer,North America,Technology,Laptops,Laptops Pro #76,1099.91,2,0.0,241.17,25.39
+ORD-20250171,2025-02-21,CUST-1179,Small Business,North America,Office Supplies,Storage,Storage Pro #58,322.47,6,0.2,99.98,13.34
+ORD-20250172,2025-02-22,CUST-1041,Corporate,Europe,Furniture,Desks,Desks Pro #24,2730.84,6,0.0,213.71,37.75
+ORD-20250173,2025-02-22,CUST-1162,Corporate,North America,Technology,Printers,Printers Pro #45,1646.04,2,0.0,517.67,39.48
+ORD-20250174,2025-02-22,CUST-1094,Corporate,Europe,Office Supplies,Art,Art Pro #17,271.08,4,0.0,81.23,19.7
+ORD-20250175,2025-02-23,CUST-1024,Consumer,North America,Office Supplies,Appliances,Appliances Pro #41,566.64,5,0.0,237.44,39.06
+ORD-20250176,2025-02-23,CUST-1042,Corporate,Europe,Technology,Accessories,Accessories Pro #40,4849.0,5,0.0,1173.27,44.79
+ORD-20250177,2025-02-23,CUST-1055,Consumer,North America,Technology,Laptops,Laptops Pro #13,971.83,1,0.0,197.36,32.66
+ORD-20250178,2025-02-24,CUST-1259,Small Business,Latin America,Furniture,Tables,Tables Pro #72,1921.02,5,0.05,213.15,10.23
+ORD-20250179,2025-02-24,CUST-1061,Consumer,Europe,Furniture,Desks,Desks Pro #71,722.32,6,0.3,-178.09,14.94
+ORD-20250180,2025-02-24,CUST-1218,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #94,357.28,2,0.0,62.09,38.37
+ORD-20250181,2025-02-24,CUST-1180,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #35,310.2,1,0.15,-3.33,8.92
+ORD-20250182,2025-02-25,CUST-1195,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #73,399.32,1,0.0,88.61,43.25
+ORD-20250183,2025-02-25,CUST-1016,Small Business,Europe,Office Supplies,Art,Art Pro #84,82.63,1,0.2,0.99,23.46
+ORD-20250184,2025-02-25,CUST-1246,Small Business,Europe,Furniture,Bookcases,Bookcases Pro #74,114.66,1,0.0,17.62,34.5
+ORD-20250185,2025-02-26,CUST-1086,Consumer,Europe,Technology,Accessories,Accessories Pro #30,225.69,1,0.0,37.07,43.26
+ORD-20250186,2025-02-26,CUST-1231,Consumer,North America,Technology,Accessories,Accessories Pro #17,2533.32,3,0.0,473.83,8.94
+ORD-20250187,2025-02-26,CUST-1137,Consumer,North America,Office Supplies,Paper,Paper Pro #87,55.1,1,0.0,13.85,29.6
+ORD-20250188,2025-02-27,CUST-1104,Corporate,Europe,Technology,Smartphones,Smartphones Pro #62,1384.11,2,0.3,-180.8,29.08
+ORD-20250189,2025-02-27,CUST-1159,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #68,511.8,2,0.0,120.59,19.89
+ORD-20250190,2025-02-27,CUST-1123,Consumer,North America,Technology,Printers,Printers Pro #41,4298.91,5,0.0,1071.33,44.7
+ORD-20250191,2025-02-27,CUST-1221,Small Business,Asia-Pacific,Office Supplies,Binders,Binders Pro #16,400.69,5,0.15,77.85,34.14
+ORD-20250192,2025-02-28,CUST-1150,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #88,567.44,1,0.0,33.27,10.27
+ORD-20250193,2025-02-28,CUST-1282,Consumer,Latin America,Technology,Printers,Printers Pro #28,2628.39,5,0.1,588.87,29.48
+ORD-20250194,2025-02-28,CUST-1022,Small Business,Europe,Furniture,Tables,Tables Pro #14,816.19,5,0.0,116.16,14.87
+ORD-20250195,2025-03-01,CUST-1002,Consumer,Latin America,Furniture,Desks,Desks Pro #36,334.98,2,0.1,22.71,29.64
+ORD-20250196,2025-03-01,CUST-1065,Corporate,North America,Furniture,Desks,Desks Pro #43,856.29,2,0.1,-40.85,13.1
+ORD-20250197,2025-03-01,CUST-1019,Consumer,North America,Technology,Printers,Printers Pro #33,3409.03,3,0.05,623.18,33.88
+ORD-20250198,2025-03-02,CUST-1226,Corporate,North America,Technology,Accessories,Accessories Pro #26,902.62,5,0.0,165.52,20.51
+ORD-20250199,2025-03-02,CUST-1118,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #39,1577.83,8,0.0,300.72,24.46
+ORD-20250200,2025-03-02,CUST-1081,Consumer,Europe,Technology,Accessories,Accessories Pro #40,1654.83,6,0.1,347.67,44.28
+ORD-20250201,2025-03-03,CUST-1191,Consumer,Europe,Technology,Laptops,Laptops Pro #56,2783.55,7,0.0,624.3,37.05
+ORD-20250202,2025-03-03,CUST-1117,Consumer,Europe,Furniture,Tables,Tables Pro #18,842.13,7,0.15,-17.85,20.35
+ORD-20250203,2025-03-03,CUST-1089,Consumer,Europe,Technology,Smartphones,Smartphones Pro #90,452.64,3,0.15,2.57,15.92
+ORD-20250204,2025-03-03,CUST-1050,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro #14,2200.67,5,0.15,-162.54,23.33
+ORD-20250205,2025-03-04,CUST-1069,Consumer,Europe,Office Supplies,Storage,Storage Pro #69,96.92,1,0.0,19.55,14.01
+ORD-20250206,2025-03-04,CUST-1056,Corporate,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #19,89.26,2,0.0,23.69,41.25
+ORD-20250207,2025-03-04,CUST-1181,Small Business,Europe,Technology,Laptops,Laptops Pro #30,4705.85,5,0.1,310.07,27.48
+ORD-20250208,2025-03-05,CUST-1195,Corporate,North America,Technology,Accessories,Accessories Pro #30,1838.14,2,0.0,477.3,40.29
+ORD-20250209,2025-03-05,CUST-1153,Consumer,Europe,Furniture,Desks,Desks Pro #28,1066.98,5,0.0,192.95,27.61
+ORD-20250210,2025-03-05,CUST-1160,Consumer,North America,Technology,Accessories,Accessories Pro #67,4435.7,6,0.0,1129.67,39.41
+ORD-20250211,2025-03-06,CUST-1042,Corporate,North America,Furniture,Desks,Desks Pro #66,1909.9,6,0.0,280.64,42.83
+ORD-20250212,2025-03-06,CUST-1065,Small Business,North America,Furniture,Bookcases,Bookcases Pro #73,1386.63,6,0.0,287.58,19.24
+ORD-20250213,2025-03-06,CUST-1242,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #94,943.78,2,0.05,249.71,13.2
+ORD-20250214,2025-03-06,CUST-1078,Small Business,Asia-Pacific,Technology,Laptops,Laptops Pro #12,9473.91,8,0.0,2883.88,7.61
+ORD-20250215,2025-03-07,CUST-1043,Consumer,Europe,Technology,Printers,Printers Pro #21,6028.59,7,0.15,539.62,43.58
+ORD-20250216,2025-03-07,CUST-1073,Consumer,North America,Office Supplies,Art,Art Pro #91,238.98,5,0.0,86.19,40.88
+ORD-20250217,2025-03-07,CUST-1041,Corporate,Europe,Technology,Printers,Printers Pro #10,1593.77,3,0.0,525.05,25.28
+ORD-20250218,2025-03-08,CUST-1007,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #55,3821.1,6,0.2,-159.09,37.14
+ORD-20250219,2025-03-08,CUST-1015,Consumer,Latin America,Technology,Smartphones,Smartphones Pro #36,1712.07,5,0.3,120.87,31.25
+ORD-20250220,2025-03-08,CUST-1024,Consumer,North America,Office Supplies,Binders,Binders Pro #59,328.79,6,0.0,145.78,16.86
+ORD-20250221,2025-03-09,CUST-1133,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #39,1211.51,4,0.05,91.26,38.13
+ORD-20250222,2025-03-09,CUST-1276,Consumer,North America,Furniture,Bookcases,Bookcases Pro #32,2203.15,4,0.0,436.08,29.55
+ORD-20250223,2025-03-09,CUST-1175,Corporate,Europe,Office Supplies,Storage,Storage Pro #37,54.8,3,0.0,21.09,17.6
+ORD-20250224,2025-03-10,CUST-1046,Small Business,North America,Technology,Printers,Printers Pro #47,2792.41,7,0.1,554.06,25.51
+ORD-20250225,2025-03-10,CUST-1142,Consumer,North America,Technology,Smartphones,Smartphones Pro #86,3859.75,4,0.15,791.21,36.54
+ORD-20250226,2025-03-10,CUST-1206,Small Business,North America,Furniture,Bookcases,Bookcases Pro #81,392.49,3,0.05,36.94,39.58
+ORD-20250227,2025-03-10,CUST-1189,Small Business,North America,Technology,Printers,Printers Pro #57,155.3,1,0.2,19.02,16.2
+ORD-20250228,2025-03-11,CUST-1082,Small Business,Latin America,Furniture,Tables,Tables Pro #28,2244.03,4,0.05,293.54,30.13
+ORD-20250229,2025-03-11,CUST-1119,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #68,163.02,1,0.0,39.73,28.93
+ORD-20250230,2025-03-11,CUST-1221,Consumer,Europe,Office Supplies,Binders,Binders Pro #25,34.78,1,0.3,-0.75,30.05
+ORD-20250231,2025-03-12,CUST-1061,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #76,3149.77,6,0.0,485.97,38.25
+ORD-20250232,2025-03-12,CUST-1171,Consumer,North America,Office Supplies,Appliances,Appliances Pro #56,290.91,3,0.05,113.22,25.7
+ORD-20250233,2025-03-12,CUST-1075,Consumer,Europe,Technology,Printers,Printers Pro #60,1563.28,5,0.05,476.59,36.55
+ORD-20250234,2025-03-13,CUST-1131,Consumer,Europe,Technology,Printers,Printers Pro #10,5846.52,5,0.0,1184.12,23.92
+ORD-20250235,2025-03-13,CUST-1071,Consumer,Europe,Technology,Laptops,Laptops Pro #74,3230.59,5,0.0,514.08,16.07
+ORD-20250236,2025-03-13,CUST-1092,Corporate,Europe,Furniture,Tables,Tables Pro #71,1551.49,5,0.05,192.99,39.17
+ORD-20250237,2025-03-13,CUST-1135,Consumer,North America,Technology,Laptops,Laptops Pro #18,3753.26,5,0.0,947.83,42.27
+ORD-20250238,2025-03-14,CUST-1036,Small Business,North America,Furniture,Bookcases,Bookcases Pro #20,2386.98,7,0.1,-116.87,6.79
+ORD-20250239,2025-03-14,CUST-1126,Consumer,North America,Furniture,Tables,Tables Pro #54,3974.1,8,0.1,409.81,17.37
+ORD-20250240,2025-03-14,CUST-1089,Small Business,Latin America,Technology,Accessories,Accessories Pro #91,1222.15,6,0.0,246.29,29.15
+ORD-20250241,2025-03-15,CUST-1145,Consumer,North America,Furniture,Desks,Desks Pro #24,607.47,5,0.15,-11.58,7.84
+ORD-20250242,2025-03-15,CUST-1040,Corporate,Latin America,Furniture,Desks,Desks Pro #48,1049.5,3,0.1,-55.94,41.53
+ORD-20250243,2025-03-15,CUST-1027,Corporate,North America,Furniture,Chairs,Chairs Pro #21,2606.56,6,0.15,301.3,32.8
+ORD-20250244,2025-03-16,CUST-1234,Corporate,Europe,Technology,Laptops,Laptops Pro #37,3977.5,6,0.1,524.29,31.09
+ORD-20250245,2025-03-16,CUST-1276,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #76,227.32,1,0.05,37.76,36.94
+ORD-20250246,2025-03-16,CUST-1194,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #42,1033.41,3,0.1,27.83,33.22
+ORD-20250247,2025-03-16,CUST-1166,Consumer,Europe,Furniture,Chairs,Chairs Pro #27,3809.53,8,0.0,911.73,25.69
+ORD-20250248,2025-03-17,CUST-1125,Consumer,Europe,Office Supplies,Binders,Binders Pro #59,287.88,8,0.05,120.31,32.53
+ORD-20250249,2025-03-17,CUST-1066,Consumer,Latin America,Technology,Smartphones,Smartphones Pro #24,1672.16,3,0.0,304.34,35.25
+ORD-20250250,2025-03-17,CUST-1244,Small Business,North America,Technology,Smartphones,Smartphones Pro #38,1726.79,4,0.1,436.84,38.07
+ORD-20250251,2025-03-18,CUST-1076,Consumer,Europe,Technology,Printers,Printers Pro #95,7312.84,8,0.05,2278.69,26.29
+ORD-20250252,2025-03-18,CUST-1041,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #10,4392.41,6,0.15,242.91,26.79
+ORD-20250253,2025-03-18,CUST-1091,Small Business,Europe,Technology,Smartphones,Smartphones Pro #95,992.72,3,0.1,227.75,17.02
+ORD-20250254,2025-03-19,CUST-1248,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #20,1674.66,4,0.2,-16.37,10.29
+ORD-20250255,2025-03-19,CUST-1172,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #79,418.1,4,0.05,59.92,6.38
+ORD-20250256,2025-03-19,CUST-1016,Corporate,Latin America,Technology,Printers,Printers Pro #71,5065.61,8,0.05,855.77,25.9
+ORD-20250257,2025-03-20,CUST-1215,Corporate,Europe,Office Supplies,Storage,Storage Pro #56,173.28,2,0.05,68.15,22.74
+ORD-20250258,2025-03-20,CUST-1238,Small Business,Europe,Technology,Laptops,Laptops Pro #28,7117.29,8,0.15,735.43,40.72
+ORD-20250259,2025-03-20,CUST-1062,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #52,2668.17,5,0.05,10.74,32.51
+ORD-20250260,2025-03-20,CUST-1053,Corporate,Europe,Furniture,Tables,Tables Pro #44,481.41,2,0.05,74.3,36.74
+ORD-20250261,2025-03-21,CUST-1018,Small Business,North America,Technology,Smartphones,Smartphones Pro #22,1237.13,7,0.1,162.69,7.76
+ORD-20250262,2025-03-21,CUST-1231,Small Business,Latin America,Office Supplies,Paper,Paper Pro #87,354.01,4,0.0,80.04,33.93
+ORD-20250263,2025-03-21,CUST-1259,Consumer,Europe,Technology,Accessories,Accessories Pro #25,5991.88,6,0.0,2034.47,43.2
+ORD-20250264,2025-03-22,CUST-1065,Corporate,North America,Office Supplies,Appliances,Appliances Pro #48,45.31,2,0.0,13.63,14.3
+ORD-20250265,2025-03-22,CUST-1214,Consumer,Latin America,Office Supplies,Art,Art Pro #30,409.66,7,0.1,71.24,44.16
+ORD-20250266,2025-03-22,CUST-1052,Corporate,Europe,Technology,Accessories,Accessories Pro #29,6308.67,7,0.15,673.84,27.19
+ORD-20250267,2025-03-23,CUST-1159,Consumer,Europe,Technology,Laptops,Laptops Pro #17,3635.75,8,0.0,954.96,41.67
+ORD-20250268,2025-03-23,CUST-1011,Consumer,Europe,Technology,Smartphones,Smartphones Pro #35,1449.34,7,0.0,434.41,5.01
+ORD-20250269,2025-03-23,CUST-1273,Corporate,North America,Technology,Smartphones,Smartphones Pro #20,1108.88,8,0.1,122.43,17.65
+ORD-20250270,2025-03-23,CUST-1120,Consumer,North America,Office Supplies,Appliances,Appliances Pro #65,371.78,4,0.05,145.96,41.4
+ORD-20250271,2025-03-24,CUST-1178,Corporate,North America,Furniture,Chairs,Chairs Pro #30,1636.04,4,0.0,312.11,11.68
+ORD-20250272,2025-03-24,CUST-1234,Small Business,Europe,Office Supplies,Paper,Paper Pro #21,355.07,4,0.0,97.47,36.27
+ORD-20250273,2025-03-24,CUST-1292,Consumer,North America,Office Supplies,Appliances,Appliances Pro #80,483.49,8,0.0,152.02,19.75
+ORD-20250274,2025-03-25,CUST-1012,Small Business,Europe,Office Supplies,Paper,Paper Pro #96,95.69,1,0.1,30.05,36.85
+ORD-20250275,2025-03-25,CUST-1172,Consumer,North America,Office Supplies,Appliances,Appliances Pro #63,184.79,2,0.0,81.98,32.29
+ORD-20250276,2025-03-25,CUST-1064,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #55,267.09,1,0.0,67.62,38.42
+ORD-20250277,2025-03-26,CUST-1012,Consumer,North America,Technology,Printers,Printers Pro #63,3330.65,6,0.05,696.19,26.24
+ORD-20250278,2025-03-26,CUST-1023,Small Business,Asia-Pacific,Technology,Smartphones,Smartphones Pro #67,5702.55,6,0.0,1374.22,13.79
+ORD-20250279,2025-03-26,CUST-1282,Consumer,Europe,Technology,Laptops,Laptops Pro #64,681.65,2,0.0,161.62,18.67
+ORD-20250280,2025-03-27,CUST-1006,Consumer,North America,Technology,Accessories,Accessories Pro #84,3522.32,5,0.15,807.39,5.94
+ORD-20250281,2025-03-27,CUST-1263,Corporate,Asia-Pacific,Furniture,Desks,Desks Pro #37,712.55,3,0.0,44.99,14.86
+ORD-20250282,2025-03-27,CUST-1204,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #24,6383.22,8,0.3,64.18,26.78
+ORD-20250283,2025-03-27,CUST-1287,Consumer,North America,Technology,Printers,Printers Pro #20,1772.17,7,0.15,259.54,28.13
+ORD-20250284,2025-03-28,CUST-1180,Small Business,Europe,Technology,Accessories,Accessories Pro #66,3001.06,3,0.0,1018.8,34.0
+ORD-20250285,2025-03-28,CUST-1046,Corporate,North America,Furniture,Desks,Desks Pro #47,1693.01,5,0.0,162.61,21.63
+ORD-20250286,2025-03-28,CUST-1225,Corporate,North America,Furniture,Chairs,Chairs Pro #22,1270.22,6,0.05,215.79,26.86
+ORD-20250287,2025-03-29,CUST-1222,Consumer,North America,Furniture,Tables,Tables Pro #20,370.96,5,0.3,-43.07,36.73
+ORD-20250288,2025-03-29,CUST-1155,Consumer,Europe,Furniture,Tables,Tables Pro #98,2215.18,8,0.05,444.45,13.76
+ORD-20250289,2025-03-29,CUST-1273,Consumer,Europe,Furniture,Desks,Desks Pro #52,858.51,6,0.2,9.14,42.75
+ORD-20250290,2025-03-30,CUST-1244,Small Business,Latin America,Technology,Smartphones,Smartphones Pro #90,7693.95,8,0.0,1631.12,23.33
+ORD-20250291,2025-03-30,CUST-1186,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro #52,102.72,1,0.0,40.69,27.08
+ORD-20250292,2025-03-30,CUST-1215,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #54,604.16,3,0.05,31.26,40.79
+ORD-20250293,2025-03-30,CUST-1009,Consumer,Latin America,Office Supplies,Binders,Binders Pro #29,190.78,3,0.05,55.86,30.42
+ORD-20250294,2025-03-31,CUST-1116,Consumer,North America,Furniture,Desks,Desks Pro #91,2420.76,6,0.0,601.53,27.95
+ORD-20250295,2025-03-31,CUST-1113,Small Business,Latin America,Office Supplies,Binders,Binders Pro #50,114.57,3,0.0,24.03,12.01
+ORD-20250296,2025-03-31,CUST-1220,Corporate,Europe,Furniture,Chairs,Chairs Pro #80,749.09,3,0.0,163.25,22.2
+ORD-20250297,2025-04-01,CUST-1153,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #28,255.52,4,0.05,54.11,12.45
+ORD-20250298,2025-04-01,CUST-1111,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #49,2161.87,2,0.05,458.28,37.44
+ORD-20250299,2025-04-01,CUST-1188,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #78,2074.33,3,0.0,503.36,16.6
+ORD-20250300,2025-04-02,CUST-1253,Corporate,Europe,Furniture,Tables,Tables Pro #94,1609.99,6,0.0,313.35,13.14
+ORD-20250301,2025-04-02,CUST-1211,Consumer,North America,Furniture,Tables,Tables Pro #96,707.88,4,0.1,64.98,38.94
+ORD-20250302,2025-04-02,CUST-1029,Corporate,North America,Office Supplies,Paper,Paper Pro #31,287.17,6,0.05,120.88,13.82
+ORD-20250303,2025-04-02,CUST-1212,Consumer,Europe,Technology,Accessories,Accessories Pro #90,6590.65,7,0.0,1015.85,25.7
+ORD-20250304,2025-04-03,CUST-1138,Consumer,Europe,Technology,Printers,Printers Pro #72,3092.32,4,0.05,410.1,36.23
+ORD-20250305,2025-04-03,CUST-1216,Small Business,North America,Furniture,Desks,Desks Pro #48,1181.17,8,0.15,-111.66,9.88
+ORD-20250306,2025-04-03,CUST-1125,Consumer,North America,Technology,Laptops,Laptops Pro #58,1870.32,5,0.0,529.36,9.75
+ORD-20250307,2025-04-04,CUST-1075,Consumer,Europe,Furniture,Chairs,Chairs Pro #92,992.7,3,0.0,150.23,41.26
+ORD-20250308,2025-04-04,CUST-1042,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #58,553.65,2,0.1,-1.85,37.69
+ORD-20250309,2025-04-04,CUST-1167,Corporate,North America,Furniture,Desks,Desks Pro #52,1316.42,8,0.05,221.72,20.86
+ORD-20250310,2025-04-05,CUST-1088,Consumer,North America,Technology,Printers,Printers Pro #76,5138.03,6,0.0,1589.38,29.99
+ORD-20250311,2025-04-05,CUST-1113,Small Business,Asia-Pacific,Technology,Printers,Printers Pro #36,1635.42,8,0.0,424.84,17.27
+ORD-20250312,2025-04-05,CUST-1139,Consumer,Europe,Furniture,Desks,Desks Pro #28,577.72,5,0.0,119.45,22.31
+ORD-20250313,2025-04-06,CUST-1213,Consumer,North America,Technology,Printers,Printers Pro #28,741.44,1,0.1,151.83,12.96
+ORD-20250314,2025-04-06,CUST-1127,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #26,4225.34,7,0.0,1462.28,25.75
+ORD-20250315,2025-04-06,CUST-1005,Small Business,Europe,Furniture,Desks,Desks Pro #12,727.2,2,0.05,31.3,7.96
+ORD-20250316,2025-04-06,CUST-1265,Corporate,Europe,Furniture,Tables,Tables Pro #29,833.5,2,0.05,25.26,11.88
+ORD-20250317,2025-04-07,CUST-1040,Corporate,North America,Furniture,Bookcases,Bookcases Pro #19,306.67,2,0.3,-108.2,15.04
+ORD-20250318,2025-04-07,CUST-1072,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #19,1866.12,3,0.2,287.42,9.24
+ORD-20250319,2025-04-07,CUST-1078,Small Business,North America,Technology,Printers,Printers Pro #54,4838.79,6,0.0,1087.33,30.1
+ORD-20250320,2025-04-08,CUST-1067,Corporate,Latin America,Office Supplies,Binders,Binders Pro #47,328.32,4,0.1,92.77,13.59
+ORD-20250321,2025-04-08,CUST-1144,Corporate,Europe,Technology,Printers,Printers Pro #82,572.44,3,0.2,79.74,37.69
+ORD-20250322,2025-04-08,CUST-1247,Corporate,North America,Furniture,Desks,Desks Pro #61,632.72,4,0.15,22.93,7.0
+ORD-20250323,2025-04-09,CUST-1046,Consumer,North America,Technology,Accessories,Accessories Pro #42,8411.12,8,0.05,1513.75,13.61
+ORD-20250324,2025-04-09,CUST-1015,Small Business,North America,Office Supplies,Storage,Storage Pro #74,451.74,4,0.0,151.81,29.67
+ORD-20250325,2025-04-09,CUST-1090,Consumer,Europe,Technology,Laptops,Laptops Pro #63,3818.36,5,0.0,983.87,19.74
+ORD-20250326,2025-04-09,CUST-1036,Corporate,Europe,Furniture,Chairs,Chairs Pro #46,397.4,2,0.05,59.02,22.7
+ORD-20250327,2025-04-10,CUST-1091,Corporate,Europe,Office Supplies,Binders,Binders Pro #97,34.31,1,0.05,10.75,23.78
+ORD-20250328,2025-04-10,CUST-1206,Corporate,North America,Technology,Laptops,Laptops Pro #30,1064.22,1,0.05,137.09,36.46
+ORD-20250329,2025-04-10,CUST-1241,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #32,921.51,4,0.0,103.17,25.6
+ORD-20250330,2025-04-11,CUST-1152,Consumer,North America,Office Supplies,Paper,Paper Pro #58,165.61,5,0.3,30.38,18.07
+ORD-20250331,2025-04-11,CUST-1294,Consumer,North America,Office Supplies,Storage,Storage Pro #90,271.32,5,0.2,16.44,32.08
+ORD-20250332,2025-04-11,CUST-1075,Corporate,Asia-Pacific,Furniture,Desks,Desks Pro #32,163.39,1,0.0,30.18,32.76
+ORD-20250333,2025-04-12,CUST-1044,Consumer,North America,Furniture,Desks,Desks Pro #41,1391.06,4,0.0,114.44,5.77
+ORD-20250334,2025-04-12,CUST-1121,Consumer,North America,Technology,Laptops,Laptops Pro #28,1576.28,2,0.0,313.79,20.64
+ORD-20250335,2025-04-12,CUST-1117,Small Business,North America,Furniture,Chairs,Chairs Pro #56,281.39,1,0.05,25.41,32.86
+ORD-20250336,2025-04-13,CUST-1140,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #35,3159.45,8,0.0,232.03,10.71
+ORD-20250337,2025-04-13,CUST-1016,Consumer,North America,Office Supplies,Binders,Binders Pro #12,103.41,1,0.1,33.79,39.29
+ORD-20250338,2025-04-13,CUST-1206,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #95,391.24,1,0.15,18.16,23.6
+ORD-20250339,2025-04-13,CUST-1117,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #27,1076.69,1,0.0,261.92,20.51
+ORD-20250340,2025-04-14,CUST-1047,Consumer,North America,Furniture,Bookcases,Bookcases Pro #91,443.08,1,0.05,79.09,44.27
+ORD-20250341,2025-04-14,CUST-1044,Consumer,Latin America,Office Supplies,Binders,Binders Pro #64,278.42,5,0.1,36.35,29.34
+ORD-20250342,2025-04-14,CUST-1061,Consumer,North America,Technology,Accessories,Accessories Pro #18,2870.67,3,0.15,256.15,38.69
+ORD-20250343,2025-04-15,CUST-1158,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #48,1627.2,4,0.15,32.05,35.07
+ORD-20250344,2025-04-15,CUST-1208,Consumer,North America,Furniture,Bookcases,Bookcases Pro #25,2971.44,7,0.0,354.77,11.35
+ORD-20250345,2025-04-15,CUST-1214,Consumer,Europe,Office Supplies,Binders,Binders Pro #20,359.36,5,0.0,139.99,21.6
+ORD-20250346,2025-04-16,CUST-1053,Corporate,North America,Technology,Laptops,Laptops Pro #89,2847.39,3,0.1,707.82,34.83
+ORD-20250347,2025-04-16,CUST-1080,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #76,1099.0,2,0.05,99.74,26.33
+ORD-20250348,2025-04-16,CUST-1165,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #83,1154.95,4,0.1,7.3,37.95
+ORD-20250349,2025-04-16,CUST-1206,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #72,1679.4,2,0.05,307.01,6.25
+ORD-20250350,2025-04-17,CUST-1021,Small Business,North America,Technology,Laptops,Laptops Pro #68,763.71,4,0.0,216.41,40.92
+ORD-20250351,2025-04-17,CUST-1231,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #36,844.13,2,0.1,105.55,43.69
+ORD-20250352,2025-04-17,CUST-1275,Small Business,Latin America,Office Supplies,Art,Art Pro #22,29.64,2,0.05,8.31,17.16
+ORD-20250353,2025-04-18,CUST-1290,Consumer,North America,Office Supplies,Storage,Storage Pro #87,287.05,6,0.0,104.37,5.58
+ORD-20250354,2025-04-18,CUST-1113,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #92,443.5,3,0.05,134.3,21.09
+ORD-20250355,2025-04-18,CUST-1024,Corporate,North America,Furniture,Desks,Desks Pro #20,288.77,2,0.05,35.19,39.74
+ORD-20250356,2025-04-19,CUST-1109,Corporate,North America,Furniture,Chairs,Chairs Pro #47,744.94,3,0.2,-47.65,23.45
+ORD-20250357,2025-04-19,CUST-1013,Consumer,North America,Furniture,Bookcases,Bookcases Pro #50,1644.14,6,0.0,391.86,25.01
+ORD-20250358,2025-04-19,CUST-1058,Corporate,Europe,Technology,Accessories,Accessories Pro #95,817.74,1,0.0,220.68,33.21
+ORD-20250359,2025-04-19,CUST-1241,Small Business,Europe,Technology,Printers,Printers Pro #29,1742.5,2,0.1,332.89,38.53
+ORD-20250360,2025-04-20,CUST-1221,Corporate,Latin America,Office Supplies,Art,Art Pro #84,343.68,5,0.1,117.79,8.14
+ORD-20250361,2025-04-20,CUST-1298,Consumer,North America,Furniture,Desks,Desks Pro #16,316.45,1,0.2,10.36,31.36
+ORD-20250362,2025-04-20,CUST-1044,Corporate,Latin America,Technology,Accessories,Accessories Pro #90,8630.5,8,0.0,1510.72,13.65
+ORD-20250363,2025-04-21,CUST-1238,Corporate,Europe,Office Supplies,Art,Art Pro #26,162.07,6,0.05,40.41,20.84
+ORD-20250364,2025-04-21,CUST-1063,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #97,563.22,2,0.05,19.93,7.21
+ORD-20250365,2025-04-21,CUST-1051,Corporate,Europe,Office Supplies,Paper,Paper Pro #73,216.12,8,0.0,43.69,13.29
+ORD-20250366,2025-04-22,CUST-1092,Consumer,North America,Technology,Laptops,Laptops Pro #91,3430.78,4,0.0,557.55,37.36
+ORD-20250367,2025-04-22,CUST-1165,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #19,2781.87,7,0.15,368.79,10.49
+ORD-20250368,2025-04-22,CUST-1127,Corporate,North America,Technology,Smartphones,Smartphones Pro #62,1654.7,7,0.0,400.3,37.9
+ORD-20250369,2025-04-23,CUST-1183,Consumer,North America,Technology,Smartphones,Smartphones Pro #48,3574.08,3,0.0,1010.89,6.8
+ORD-20250370,2025-04-23,CUST-1012,Small Business,Latin America,Technology,Accessories,Accessories Pro #92,3153.35,5,0.05,824.28,24.33
+ORD-20250371,2025-04-23,CUST-1248,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #15,2851.71,3,0.0,499.62,43.06
+ORD-20250372,2025-04-23,CUST-1076,Consumer,Europe,Furniture,Tables,Tables Pro #47,1322.58,4,0.1,35.9,10.65
+ORD-20250373,2025-04-24,CUST-1119,Consumer,North America,Technology,Laptops,Laptops Pro #81,4881.58,6,0.2,43.57,43.8
+ORD-20250374,2025-04-24,CUST-1184,Consumer,Asia-Pacific,Office Supplies,Storage,Storage Pro #98,249.77,4,0.15,76.77,12.0
+ORD-20250375,2025-04-24,CUST-1126,Consumer,North America,Office Supplies,Appliances,Appliances Pro #90,402.33,5,0.0,140.85,20.06
+ORD-20250376,2025-04-25,CUST-1272,Consumer,North America,Office Supplies,Storage,Storage Pro #70,195.02,2,0.0,67.77,35.9
+ORD-20250377,2025-04-25,CUST-1271,Corporate,Europe,Furniture,Desks,Desks Pro #52,3567.62,7,0.1,99.74,24.03
+ORD-20250378,2025-04-25,CUST-1093,Consumer,North America,Furniture,Tables,Tables Pro #61,3680.87,7,0.05,395.09,7.01
+ORD-20250379,2025-04-26,CUST-1136,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #66,2875.34,8,0.1,191.44,9.46
+ORD-20250380,2025-04-26,CUST-1071,Corporate,Latin America,Furniture,Desks,Desks Pro #94,587.91,6,0.1,41.6,13.43
+ORD-20250381,2025-04-26,CUST-1055,Consumer,North America,Technology,Printers,Printers Pro #58,2102.92,3,0.0,641.5,18.8
+ORD-20250382,2025-04-26,CUST-1148,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro #46,237.61,3,0.0,87.83,38.92
+ORD-20250383,2025-04-27,CUST-1243,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #92,723.59,5,0.1,155.34,29.91
+ORD-20250384,2025-04-27,CUST-1185,Consumer,North America,Technology,Printers,Printers Pro #97,231.27,1,0.05,72.63,44.39
+ORD-20250385,2025-04-27,CUST-1207,Consumer,Europe,Technology,Accessories,Accessories Pro #43,7165.11,8,0.0,1465.91,22.95
+ORD-20250386,2025-04-28,CUST-1066,Consumer,North America,Furniture,Desks,Desks Pro #67,1510.44,4,0.2,-64.99,37.7
+ORD-20250387,2025-04-28,CUST-1282,Consumer,North America,Technology,Laptops,Laptops Pro #96,1861.62,4,0.2,70.93,40.82
+ORD-20250388,2025-04-28,CUST-1131,Corporate,North America,Technology,Laptops,Laptops Pro #95,653.34,2,0.05,115.83,38.24
+ORD-20250389,2025-04-29,CUST-1293,Small Business,Europe,Technology,Accessories,Accessories Pro #56,4883.1,6,0.0,1302.43,19.21
+ORD-20250390,2025-04-29,CUST-1090,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro #84,4377.29,8,0.0,568.63,5.43
+ORD-20250391,2025-04-29,CUST-1060,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #11,1974.21,8,0.0,527.14,40.83
+ORD-20250392,2025-04-30,CUST-1187,Small Business,Europe,Technology,Accessories,Accessories Pro #82,1860.04,2,0.05,488.77,14.85
+ORD-20250393,2025-04-30,CUST-1102,Consumer,Latin America,Technology,Accessories,Accessories Pro #10,1365.93,7,0.05,342.78,14.06
+ORD-20250394,2025-04-30,CUST-1248,Consumer,Europe,Office Supplies,Paper,Paper Pro #26,390.73,6,0.0,112.41,37.23
+ORD-20250395,2025-04-30,CUST-1089,Small Business,North America,Technology,Laptops,Laptops Pro #36,4463.84,6,0.0,832.66,28.06
+ORD-20250396,2025-05-01,CUST-1268,Consumer,Europe,Office Supplies,Art,Art Pro #29,124.41,6,0.1,28.36,42.48
+ORD-20250397,2025-05-01,CUST-1197,Corporate,Europe,Technology,Laptops,Laptops Pro #72,6222.63,6,0.0,1212.14,25.49
+ORD-20250398,2025-05-01,CUST-1238,Consumer,Europe,Technology,Printers,Printers Pro #26,1462.09,3,0.15,286.79,29.47
+ORD-20250399,2025-05-02,CUST-1049,Consumer,North America,Furniture,Desks,Desks Pro #68,3377.94,8,0.0,216.26,12.27
+ORD-20250400,2025-05-02,CUST-1207,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #52,4298.01,8,0.0,693.73,25.1
+ORD-20250401,2025-05-02,CUST-1158,Consumer,Latin America,Office Supplies,Appliances,Appliances Pro #27,164.58,3,0.0,45.94,8.65
+ORD-20250402,2025-05-03,CUST-1196,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #13,1688.75,5,0.2,-313.24,14.49
+ORD-20250403,2025-05-03,CUST-1092,Consumer,Latin America,Office Supplies,Binders,Binders Pro #72,350.48,8,0.0,149.09,40.37
+ORD-20250404,2025-05-03,CUST-1105,Small Business,North America,Office Supplies,Appliances,Appliances Pro #31,82.33,1,0.1,17.06,37.22
+ORD-20250405,2025-05-03,CUST-1192,Corporate,Europe,Technology,Accessories,Accessories Pro #82,318.7,2,0.1,60.45,32.52
+ORD-20250406,2025-05-04,CUST-1278,Small Business,North America,Furniture,Tables,Tables Pro #34,4454.48,8,0.0,914.32,27.62
+ORD-20250407,2025-05-04,CUST-1073,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #84,1054.76,7,0.1,213.7,11.52
+ORD-20250408,2025-05-04,CUST-1010,Small Business,Asia-Pacific,Technology,Laptops,Laptops Pro #84,3551.1,8,0.0,729.91,42.08
+ORD-20250409,2025-05-05,CUST-1271,Consumer,Europe,Technology,Smartphones,Smartphones Pro #85,1294.94,8,0.0,398.16,6.61
+ORD-20250410,2025-05-05,CUST-1187,Small Business,North America,Furniture,Bookcases,Bookcases Pro #55,1077.38,3,0.2,-128.88,19.99
+ORD-20250411,2025-05-05,CUST-1062,Consumer,North America,Office Supplies,Paper,Paper Pro #89,229.39,7,0.15,28.74,42.22
+ORD-20250412,2025-05-06,CUST-1291,Consumer,Europe,Office Supplies,Binders,Binders Pro #56,135.57,7,0.05,38.98,18.38
+ORD-20250413,2025-05-06,CUST-1274,Consumer,North America,Technology,Accessories,Accessories Pro #25,2899.14,4,0.0,860.41,21.31
+ORD-20250414,2025-05-06,CUST-1145,Consumer,North America,Technology,Accessories,Accessories Pro #61,706.21,2,0.0,196.54,40.44
+ORD-20250415,2025-05-06,CUST-1230,Corporate,North America,Office Supplies,Paper,Paper Pro #84,342.7,4,0.0,139.17,11.25
+ORD-20250416,2025-05-07,CUST-1164,Consumer,North America,Office Supplies,Art,Art Pro #40,123.35,2,0.0,40.23,11.76
+ORD-20250417,2025-05-07,CUST-1162,Small Business,Europe,Technology,Laptops,Laptops Pro #26,6082.73,8,0.05,1166.85,18.21
+ORD-20250418,2025-05-07,CUST-1143,Consumer,Europe,Furniture,Tables,Tables Pro #21,132.45,1,0.1,-4.43,25.94
+ORD-20250419,2025-05-08,CUST-1094,Consumer,Europe,Technology,Accessories,Accessories Pro #28,3491.88,4,0.1,808.15,25.47
+ORD-20250420,2025-05-08,CUST-1295,Small Business,North America,Technology,Accessories,Accessories Pro #63,1842.89,2,0.15,409.3,5.22
+ORD-20250421,2025-05-08,CUST-1029,Consumer,North America,Technology,Smartphones,Smartphones Pro #56,4104.77,4,0.1,523.42,31.09
+ORD-20250422,2025-05-09,CUST-1245,Corporate,North America,Office Supplies,Storage,Storage Pro #49,262.44,3,0.05,65.01,42.15
+ORD-20250423,2025-05-09,CUST-1072,Consumer,Europe,Technology,Smartphones,Smartphones Pro #33,1362.26,8,0.05,324.47,26.93
+ORD-20250424,2025-05-09,CUST-1158,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #27,129.68,4,0.0,26.74,26.87
+ORD-20250425,2025-05-10,CUST-1215,Small Business,North America,Furniture,Tables,Tables Pro #65,2574.43,6,0.05,159.0,32.91
+ORD-20250426,2025-05-10,CUST-1216,Small Business,North America,Furniture,Desks,Desks Pro #30,635.67,3,0.0,127.94,41.97
+ORD-20250427,2025-05-10,CUST-1103,Consumer,North America,Technology,Printers,Printers Pro #24,8782.73,8,0.0,2788.1,10.05
+ORD-20250428,2025-05-10,CUST-1043,Consumer,Latin America,Furniture,Chairs,Chairs Pro #52,2725.09,5,0.0,487.74,16.95
+ORD-20250429,2025-05-11,CUST-1244,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #82,3012.72,6,0.3,87.07,27.63
+ORD-20250430,2025-05-11,CUST-1284,Corporate,North America,Technology,Laptops,Laptops Pro #96,2790.81,5,0.0,552.74,17.6
+ORD-20250431,2025-05-11,CUST-1095,Small Business,North America,Furniture,Chairs,Chairs Pro #67,3045.41,6,0.05,638.3,37.5
+ORD-20250432,2025-05-12,CUST-1110,Consumer,North America,Office Supplies,Art,Art Pro #85,231.9,8,0.0,83.05,28.14
+ORD-20250433,2025-05-12,CUST-1211,Corporate,Asia-Pacific,Office Supplies,Storage,Storage Pro #61,133.45,6,0.1,43.76,35.7
+ORD-20250434,2025-05-12,CUST-1110,Small Business,Europe,Technology,Printers,Printers Pro #37,8828.57,8,0.05,1130.14,28.42
+ORD-20250435,2025-05-13,CUST-1136,Consumer,North America,Technology,Printers,Printers Pro #47,4545.84,7,0.1,488.67,37.8
+ORD-20250436,2025-05-13,CUST-1097,Corporate,Europe,Technology,Smartphones,Smartphones Pro #56,675.17,1,0.15,142.65,28.33
+ORD-20250437,2025-05-13,CUST-1262,Consumer,Europe,Technology,Smartphones,Smartphones Pro #97,3524.58,6,0.2,95.71,5.84
+ORD-20250438,2025-05-13,CUST-1207,Corporate,North America,Furniture,Chairs,Chairs Pro #20,1466.57,4,0.15,-35.91,23.17
+ORD-20250439,2025-05-14,CUST-1214,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #44,1008.4,2,0.0,144.55,11.64
+ORD-20250440,2025-05-14,CUST-1285,Consumer,Europe,Technology,Printers,Printers Pro #56,3732.01,5,0.3,-317.66,5.01
+ORD-20250441,2025-05-14,CUST-1180,Corporate,Europe,Technology,Accessories,Accessories Pro #19,796.27,1,0.3,-23.03,11.06
+ORD-20250442,2025-05-15,CUST-1229,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #80,341.98,2,0.1,66.11,13.6
+ORD-20250443,2025-05-15,CUST-1177,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #27,2725.71,4,0.05,332.41,41.32
+ORD-20250444,2025-05-15,CUST-1155,Consumer,North America,Technology,Accessories,Accessories Pro #48,4342.6,7,0.2,-183.89,35.21
+ORD-20250445,2025-05-16,CUST-1131,Consumer,North America,Office Supplies,Appliances,Appliances Pro #67,316.67,6,0.0,87.64,32.14
+ORD-20250446,2025-05-16,CUST-1086,Consumer,North America,Furniture,Tables,Tables Pro #51,1361.43,6,0.3,-321.82,5.42
+ORD-20250447,2025-05-16,CUST-1032,Corporate,North America,Furniture,Bookcases,Bookcases Pro #24,534.41,1,0.0,28.1,27.68
+ORD-20250448,2025-05-17,CUST-1257,Consumer,Europe,Technology,Accessories,Accessories Pro #68,7682.66,7,0.0,1741.22,22.7
+ORD-20250449,2025-05-17,CUST-1094,Small Business,Asia-Pacific,Furniture,Chairs,Chairs Pro #34,843.01,2,0.15,10.85,30.26
+ORD-20250450,2025-05-17,CUST-1184,Consumer,North America,Office Supplies,Appliances,Appliances Pro #41,289.95,8,0.05,93.52,12.39
+ORD-20250451,2025-05-17,CUST-1214,Consumer,Asia-Pacific,Office Supplies,Storage,Storage Pro #19,379.75,7,0.0,135.32,10.72
+ORD-20250452,2025-05-18,CUST-1028,Consumer,North America,Technology,Laptops,Laptops Pro #13,2794.2,5,0.15,251.66,10.81
+ORD-20250453,2025-05-18,CUST-1178,Consumer,North America,Furniture,Chairs,Chairs Pro #24,1126.81,3,0.3,-222.83,6.95
+ORD-20250454,2025-05-18,CUST-1101,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #59,239.21,1,0.05,29.67,23.06
+ORD-20250455,2025-05-19,CUST-1011,Corporate,Latin America,Office Supplies,Paper,Paper Pro #27,189.38,4,0.1,73.1,42.96
+ORD-20250456,2025-05-19,CUST-1189,Corporate,North America,Technology,Printers,Printers Pro #93,5678.81,7,0.05,1365.09,24.59
+ORD-20250457,2025-05-19,CUST-1219,Consumer,North America,Technology,Accessories,Accessories Pro #22,1558.66,2,0.0,460.95,20.73
+ORD-20250458,2025-05-20,CUST-1196,Consumer,North America,Office Supplies,Binders,Binders Pro #64,115.88,2,0.2,17.2,7.91
+ORD-20250459,2025-05-20,CUST-1202,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #95,2482.52,6,0.1,132.33,34.59
+ORD-20250460,2025-05-20,CUST-1150,Consumer,North America,Office Supplies,Appliances,Appliances Pro #58,348.89,4,0.05,89.25,7.72
+ORD-20250461,2025-05-20,CUST-1036,Consumer,Europe,Furniture,Tables,Tables Pro #44,1215.58,6,0.3,-253.67,10.41
+ORD-20250462,2025-05-21,CUST-1172,Consumer,North America,Office Supplies,Art,Art Pro #73,220.48,2,0.0,98.75,19.22
+ORD-20250463,2025-05-21,CUST-1157,Consumer,Latin America,Technology,Laptops,Laptops Pro #56,358.75,1,0.0,76.41,7.77
+ORD-20250464,2025-05-21,CUST-1167,Consumer,North America,Technology,Accessories,Accessories Pro #49,2833.41,6,0.05,742.5,12.83
+ORD-20250465,2025-05-22,CUST-1111,Consumer,North America,Technology,Smartphones,Smartphones Pro #50,1069.88,5,0.0,308.99,17.76
+ORD-20250466,2025-05-22,CUST-1133,Consumer,Latin America,Technology,Accessories,Accessories Pro #28,1481.49,6,0.05,196.06,7.44
+ORD-20250467,2025-05-22,CUST-1145,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #98,4697.89,6,0.05,767.03,9.87
+ORD-20250468,2025-05-23,CUST-1225,Small Business,Europe,Furniture,Desks,Desks Pro #64,638.96,3,0.0,73.79,12.25
+ORD-20250469,2025-05-23,CUST-1033,Corporate,Europe,Furniture,Desks,Desks Pro #27,3689.29,8,0.1,-59.58,35.91
+ORD-20250470,2025-05-23,CUST-1087,Small Business,Europe,Technology,Accessories,Accessories Pro #61,5454.85,8,0.2,748.21,5.81
+ORD-20250471,2025-05-23,CUST-1068,Corporate,Europe,Furniture,Desks,Desks Pro #17,2540.27,5,0.1,421.65,16.49
+ORD-20250472,2025-05-24,CUST-1066,Consumer,North America,Office Supplies,Art,Art Pro #21,91.6,3,0.2,3.95,25.0
+ORD-20250473,2025-05-24,CUST-1036,Corporate,North America,Office Supplies,Binders,Binders Pro #32,244.11,6,0.3,-16.59,30.82
+ORD-20250474,2025-05-24,CUST-1156,Corporate,North America,Office Supplies,Paper,Paper Pro #22,814.74,7,0.0,243.11,31.87
+ORD-20250475,2025-05-25,CUST-1121,Consumer,Europe,Furniture,Desks,Desks Pro #68,816.16,3,0.1,71.68,14.29
+ORD-20250476,2025-05-25,CUST-1143,Small Business,Asia-Pacific,Office Supplies,Appliances,Appliances Pro #39,600.68,7,0.1,90.63,30.66
+ORD-20250477,2025-05-25,CUST-1143,Consumer,Europe,Technology,Printers,Printers Pro #36,7994.14,8,0.0,2598.88,39.35
+ORD-20250478,2025-05-26,CUST-1009,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #35,2479.05,6,0.05,173.07,30.83
+ORD-20250479,2025-05-26,CUST-1114,Consumer,North America,Technology,Laptops,Laptops Pro #68,3335.47,6,0.1,247.75,14.42
+ORD-20250480,2025-05-26,CUST-1178,Consumer,Latin America,Office Supplies,Paper,Paper Pro #12,400.63,5,0.1,127.09,15.09
+ORD-20250481,2025-05-27,CUST-1245,Small Business,North America,Office Supplies,Appliances,Appliances Pro #46,217.25,7,0.05,82.12,12.57
+ORD-20250482,2025-05-27,CUST-1186,Consumer,Europe,Office Supplies,Storage,Storage Pro #70,429.61,4,0.05,113.3,33.23
+ORD-20250483,2025-05-27,CUST-1094,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #45,4538.94,6,0.3,-911.42,32.17
+ORD-20250484,2025-05-27,CUST-1246,Consumer,North America,Office Supplies,Paper,Paper Pro #22,192.86,2,0.0,57.53,5.43
+ORD-20250485,2025-05-28,CUST-1000,Consumer,North America,Furniture,Chairs,Chairs Pro #34,334.16,2,0.0,47.63,9.88
+ORD-20250486,2025-05-28,CUST-1037,Consumer,North America,Furniture,Chairs,Chairs Pro #31,3032.23,6,0.05,338.37,21.43
+ORD-20250487,2025-05-28,CUST-1290,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #15,179.18,1,0.2,-31.53,31.43
+ORD-20250488,2025-05-29,CUST-1080,Consumer,Latin America,Office Supplies,Storage,Storage Pro #95,59.94,1,0.2,8.96,9.22
+ORD-20250489,2025-05-29,CUST-1213,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #13,864.72,1,0.05,260.11,9.77
+ORD-20250490,2025-05-29,CUST-1124,Consumer,North America,Furniture,Tables,Tables Pro #96,192.52,2,0.3,-66.8,14.31
+ORD-20250491,2025-05-30,CUST-1055,Consumer,Europe,Furniture,Chairs,Chairs Pro #63,1747.95,5,0.2,28.44,35.93
+ORD-20250492,2025-05-30,CUST-1285,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #58,125.89,2,0.15,17.75,40.46
+ORD-20250493,2025-05-30,CUST-1051,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #29,748.37,3,0.0,180.21,5.73
+ORD-20250494,2025-05-30,CUST-1064,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro #31,907.92,3,0.0,56.55,19.53
+ORD-20250495,2025-05-31,CUST-1211,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #96,1256.59,7,0.3,-194.27,17.59
+ORD-20250496,2025-05-31,CUST-1206,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #79,116.68,1,0.0,27.06,37.85
+ORD-20250497,2025-05-31,CUST-1178,Corporate,Europe,Technology,Accessories,Accessories Pro #73,3284.97,5,0.0,632.22,38.46
+ORD-20250498,2025-06-01,CUST-1170,Small Business,North America,Office Supplies,Art,Art Pro #25,332.66,7,0.3,56.84,35.18
+ORD-20250499,2025-06-01,CUST-1095,Consumer,Europe,Technology,Laptops,Laptops Pro #67,3550.55,4,0.1,780.71,11.23
+ORD-20250500,2025-06-01,CUST-1197,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #45,518.55,2,0.3,-72.46,34.39
+ORD-20250501,2025-06-02,CUST-1108,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #38,3220.3,7,0.1,184.73,24.11
+ORD-20250502,2025-06-02,CUST-1153,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #52,302.75,1,0.15,17.5,32.86
+ORD-20250503,2025-06-02,CUST-1104,Consumer,North America,Furniture,Bookcases,Bookcases Pro #90,267.28,2,0.15,6.07,20.28
+ORD-20250504,2025-06-03,CUST-1096,Consumer,North America,Technology,Printers,Printers Pro #90,3123.97,4,0.0,903.5,37.96
+ORD-20250505,2025-06-03,CUST-1186,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #84,2550.38,5,0.0,731.38,32.6
+ORD-20250506,2025-06-03,CUST-1073,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #66,3433.13,5,0.05,511.03,14.26
+ORD-20250507,2025-06-03,CUST-1129,Consumer,North America,Office Supplies,Appliances,Appliances Pro #94,25.37,1,0.05,7.81,33.59
+ORD-20250508,2025-06-04,CUST-1148,Consumer,Europe,Technology,Laptops,Laptops Pro #23,1739.1,2,0.05,293.44,13.05
+ORD-20250509,2025-06-04,CUST-1156,Small Business,North America,Furniture,Tables,Tables Pro #28,3766.46,7,0.0,225.69,23.6
+ORD-20250510,2025-06-04,CUST-1025,Consumer,Europe,Office Supplies,Binders,Binders Pro #42,424.64,8,0.2,46.66,27.76
+ORD-20250511,2025-06-05,CUST-1075,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #55,430.23,2,0.2,4.73,29.93
+ORD-20250512,2025-06-05,CUST-1188,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #29,4231.98,8,0.05,965.27,29.77
+ORD-20250513,2025-06-05,CUST-1070,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #35,936.04,1,0.0,230.75,43.69
+ORD-20250514,2025-06-06,CUST-1001,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #37,84.8,1,0.05,19.02,9.94
+ORD-20250515,2025-06-06,CUST-1065,Consumer,North America,Technology,Laptops,Laptops Pro #64,1417.38,6,0.2,172.98,42.55
+ORD-20250516,2025-06-06,CUST-1267,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #27,1077.48,2,0.05,116.97,12.14
+ORD-20250517,2025-06-06,CUST-1011,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #57,5132.91,7,0.0,1369.38,39.06
+ORD-20250518,2025-06-07,CUST-1134,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #26,2013.45,5,0.1,127.67,12.86
+ORD-20250519,2025-06-07,CUST-1153,Consumer,North America,Furniture,Tables,Tables Pro #21,597.52,2,0.3,-139.07,33.77
+ORD-20250520,2025-06-07,CUST-1293,Consumer,Europe,Technology,Smartphones,Smartphones Pro #13,263.5,1,0.05,44.53,27.58
+ORD-20250521,2025-06-08,CUST-1105,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #20,286.27,2,0.0,55.6,18.14
+ORD-20250522,2025-06-08,CUST-1139,Corporate,Europe,Technology,Laptops,Laptops Pro #85,1429.73,4,0.0,444.69,8.4
+ORD-20250523,2025-06-08,CUST-1252,Consumer,Europe,Technology,Laptops,Laptops Pro #10,1645.93,4,0.2,280.99,25.09
+ORD-20250524,2025-06-09,CUST-1293,Consumer,North America,Technology,Accessories,Accessories Pro #19,878.06,6,0.1,156.65,24.4
+ORD-20250525,2025-06-09,CUST-1119,Corporate,Latin America,Furniture,Desks,Desks Pro #85,2319.93,7,0.0,315.11,9.25
+ORD-20250526,2025-06-09,CUST-1297,Corporate,North America,Office Supplies,Binders,Binders Pro #96,121.52,2,0.05,44.51,22.0
+ORD-20250527,2025-06-09,CUST-1286,Consumer,North America,Office Supplies,Binders,Binders Pro #27,394.21,7,0.05,66.38,28.1
+ORD-20250528,2025-06-10,CUST-1109,Corporate,North America,Office Supplies,Art,Art Pro #42,91.91,2,0.2,28.53,27.59
+ORD-20250529,2025-06-10,CUST-1012,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #33,1983.89,6,0.0,399.86,17.72
+ORD-20250530,2025-06-10,CUST-1033,Consumer,North America,Office Supplies,Art,Art Pro #67,144.75,2,0.0,37.99,39.08
+ORD-20250531,2025-06-11,CUST-1249,Small Business,Asia-Pacific,Furniture,Desks,Desks Pro #97,2637.74,5,0.0,498.49,20.76
+ORD-20250532,2025-06-11,CUST-1203,Corporate,North America,Office Supplies,Art,Art Pro #59,374.0,5,0.1,134.98,10.25
+ORD-20250533,2025-06-11,CUST-1142,Small Business,North America,Office Supplies,Storage,Storage Pro #35,564.73,7,0.0,134.81,13.36
+ORD-20250534,2025-06-12,CUST-1150,Consumer,North America,Technology,Accessories,Accessories Pro #77,2586.87,7,0.0,455.48,35.76
+ORD-20250535,2025-06-12,CUST-1103,Consumer,Europe,Technology,Printers,Printers Pro #63,2014.98,2,0.0,659.0,26.53
+ORD-20250536,2025-06-12,CUST-1243,Small Business,North America,Technology,Smartphones,Smartphones Pro #51,1690.19,2,0.1,447.46,19.54
+ORD-20250537,2025-06-13,CUST-1180,Corporate,North America,Office Supplies,Storage,Storage Pro #63,36.81,2,0.0,9.53,20.97
+ORD-20250538,2025-06-13,CUST-1009,Small Business,North America,Furniture,Tables,Tables Pro #70,1998.66,4,0.15,-57.75,22.38
+ORD-20250539,2025-06-13,CUST-1145,Corporate,Asia-Pacific,Furniture,Desks,Desks Pro #37,388.39,1,0.0,57.42,14.7
+ORD-20250540,2025-06-13,CUST-1169,Consumer,Latin America,Technology,Laptops,Laptops Pro #55,4149.96,7,0.3,-749.08,39.62
+ORD-20250541,2025-06-14,CUST-1169,Consumer,Europe,Technology,Accessories,Accessories Pro #58,1318.74,6,0.05,217.2,15.26
+ORD-20250542,2025-06-14,CUST-1231,Consumer,Europe,Technology,Printers,Printers Pro #89,3787.35,8,0.2,238.55,33.69
+ORD-20250543,2025-06-14,CUST-1184,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #58,1516.03,6,0.1,241.45,8.33
+ORD-20250544,2025-06-15,CUST-1075,Consumer,Europe,Office Supplies,Binders,Binders Pro #30,188.24,7,0.15,14.52,17.46
+ORD-20250545,2025-06-15,CUST-1144,Small Business,Europe,Technology,Smartphones,Smartphones Pro #16,1456.18,6,0.15,102.06,23.87
+ORD-20250546,2025-06-15,CUST-1248,Consumer,North America,Office Supplies,Art,Art Pro #19,831.27,7,0.0,267.09,40.65
+ORD-20250547,2025-06-16,CUST-1009,Small Business,Asia-Pacific,Technology,Printers,Printers Pro #18,906.48,1,0.0,187.07,6.57
+ORD-20250548,2025-06-16,CUST-1144,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #87,2058.65,8,0.15,-229.07,5.42
+ORD-20250549,2025-06-16,CUST-1096,Corporate,Europe,Office Supplies,Appliances,Appliances Pro #89,116.47,2,0.15,37.98,24.5
+ORD-20250550,2025-06-16,CUST-1237,Consumer,Europe,Technology,Printers,Printers Pro #74,1499.78,5,0.0,398.89,16.16
+ORD-20250551,2025-06-17,CUST-1236,Corporate,North America,Technology,Accessories,Accessories Pro #94,611.54,1,0.0,154.16,17.66
+ORD-20250552,2025-06-17,CUST-1183,Small Business,Latin America,Technology,Laptops,Laptops Pro #16,939.31,1,0.15,1.36,42.93
+ORD-20250553,2025-06-17,CUST-1117,Small Business,North America,Furniture,Chairs,Chairs Pro #48,577.72,3,0.1,25.67,34.33
+ORD-20250554,2025-06-18,CUST-1245,Corporate,Europe,Furniture,Chairs,Chairs Pro #82,2235.45,4,0.05,401.59,29.13
+ORD-20250555,2025-06-18,CUST-1195,Corporate,Europe,Furniture,Chairs,Chairs Pro #90,1014.64,3,0.15,-30.8,11.82
+ORD-20250556,2025-06-18,CUST-1128,Consumer,North America,Office Supplies,Appliances,Appliances Pro #94,344.78,5,0.0,137.62,33.22
+ORD-20250557,2025-06-19,CUST-1108,Consumer,Europe,Technology,Smartphones,Smartphones Pro #27,3364.58,7,0.3,-292.7,27.85
+ORD-20250558,2025-06-19,CUST-1166,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #18,2539.18,6,0.0,324.39,15.5
+ORD-20250559,2025-06-19,CUST-1200,Small Business,North America,Office Supplies,Art,Art Pro #85,216.49,6,0.3,38.31,22.74
+ORD-20250560,2025-06-20,CUST-1193,Corporate,Europe,Technology,Printers,Printers Pro #66,1021.2,5,0.0,163.25,19.14
+ORD-20250561,2025-06-20,CUST-1139,Corporate,Latin America,Technology,Printers,Printers Pro #26,2621.19,4,0.05,705.99,30.64
+ORD-20250562,2025-06-20,CUST-1195,Consumer,Europe,Office Supplies,Storage,Storage Pro #60,446.11,7,0.05,71.35,44.46
+ORD-20250563,2025-06-20,CUST-1043,Small Business,Europe,Furniture,Tables,Tables Pro #57,1703.01,3,0.0,315.79,7.76
+ORD-20250564,2025-06-21,CUST-1144,Corporate,Europe,Technology,Accessories,Accessories Pro #86,3045.24,8,0.05,457.46,33.16
+ORD-20250565,2025-06-21,CUST-1210,Small Business,North America,Office Supplies,Storage,Storage Pro #65,166.49,3,0.1,32.53,19.35
+ORD-20250566,2025-06-21,CUST-1107,Consumer,Europe,Furniture,Chairs,Chairs Pro #11,1245.4,3,0.0,107.82,30.43
+ORD-20250567,2025-06-22,CUST-1248,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #21,986.23,2,0.2,-27.85,37.64
+ORD-20250568,2025-06-22,CUST-1215,Small Business,Latin America,Technology,Laptops,Laptops Pro #89,3550.3,5,0.05,770.96,20.87
+ORD-20250569,2025-06-22,CUST-1127,Consumer,North America,Technology,Accessories,Accessories Pro #81,5850.63,6,0.1,1065.21,25.75
+ORD-20250570,2025-06-23,CUST-1030,Consumer,North America,Technology,Laptops,Laptops Pro #80,4755.38,7,0.0,1020.33,23.56
+ORD-20250571,2025-06-23,CUST-1038,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro #81,2465.63,6,0.15,178.66,9.56
+ORD-20250572,2025-06-23,CUST-1164,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #73,568.36,7,0.2,15.14,24.97
+ORD-20250573,2025-06-23,CUST-1137,Consumer,North America,Office Supplies,Paper,Paper Pro #50,166.1,8,0.2,7.55,26.13
+ORD-20250574,2025-06-24,CUST-1091,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #62,830.68,6,0.0,49.73,10.43
+ORD-20250575,2025-06-24,CUST-1186,Small Business,North America,Furniture,Bookcases,Bookcases Pro #60,3235.56,8,0.1,-98.86,16.0
+ORD-20250576,2025-06-24,CUST-1038,Consumer,Latin America,Technology,Printers,Printers Pro #55,474.87,3,0.1,99.9,38.46
+ORD-20250577,2025-06-25,CUST-1065,Small Business,North America,Furniture,Chairs,Chairs Pro #93,719.04,7,0.3,-123.22,41.47
+ORD-20250578,2025-06-25,CUST-1190,Small Business,North America,Furniture,Tables,Tables Pro #19,206.44,2,0.05,18.55,42.14
+ORD-20250579,2025-06-25,CUST-1113,Corporate,North America,Technology,Smartphones,Smartphones Pro #35,4224.5,8,0.0,1037.42,32.3
+ORD-20250580,2025-06-26,CUST-1071,Corporate,North America,Technology,Printers,Printers Pro #30,1038.37,5,0.3,-10.16,44.32
+ORD-20250581,2025-06-26,CUST-1154,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #30,509.3,1,0.05,26.08,12.7
+ORD-20250582,2025-06-26,CUST-1199,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro #24,828.73,8,0.0,256.5,26.86
+ORD-20250583,2025-06-26,CUST-1093,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #89,1631.44,5,0.05,191.31,38.61
+ORD-20250584,2025-06-27,CUST-1101,Corporate,North America,Office Supplies,Paper,Paper Pro #60,51.71,1,0.0,18.05,6.06
+ORD-20250585,2025-06-27,CUST-1219,Corporate,Asia-Pacific,Office Supplies,Binders,Binders Pro #36,179.2,4,0.0,66.93,35.37
+ORD-20250586,2025-06-27,CUST-1128,Corporate,North America,Technology,Laptops,Laptops Pro #91,1995.04,3,0.15,151.3,7.83
+ORD-20250587,2025-06-28,CUST-1086,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #12,1793.36,8,0.05,7.24,6.32
+ORD-20250588,2025-06-28,CUST-1045,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #89,530.33,2,0.2,-97.5,44.04
+ORD-20250589,2025-06-28,CUST-1015,Consumer,Asia-Pacific,Office Supplies,Paper,Paper Pro #22,154.67,2,0.0,60.12,22.92
+ORD-20250590,2025-06-29,CUST-1074,Consumer,North America,Technology,Accessories,Accessories Pro #57,2904.57,7,0.0,967.39,40.83
+ORD-20250591,2025-06-29,CUST-1078,Corporate,North America,Technology,Printers,Printers Pro #44,1649.53,2,0.05,239.69,23.76
+ORD-20250592,2025-06-29,CUST-1111,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #62,659.1,2,0.05,14.88,23.09
+ORD-20250593,2025-06-30,CUST-1163,Consumer,North America,Technology,Printers,Printers Pro #56,534.19,1,0.0,104.63,7.19
+ORD-20250594,2025-06-30,CUST-1038,Consumer,North America,Furniture,Tables,Tables Pro #57,1071.75,7,0.0,144.64,12.34
+ORD-20250595,2025-06-30,CUST-1237,Corporate,Europe,Technology,Smartphones,Smartphones Pro #91,7569.76,7,0.0,1551.83,39.28
+ORD-20250596,2025-06-30,CUST-1143,Consumer,Europe,Technology,Printers,Printers Pro #78,2143.49,3,0.05,270.01,42.62
+ORD-20250597,2025-07-01,CUST-1136,Consumer,Europe,Office Supplies,Paper,Paper Pro #38,407.42,5,0.0,154.93,33.78
+ORD-20250598,2025-07-01,CUST-1259,Consumer,Europe,Office Supplies,Storage,Storage Pro #91,707.28,6,0.0,295.04,6.85
+ORD-20250599,2025-07-01,CUST-1254,Consumer,North America,Office Supplies,Art,Art Pro #14,233.76,4,0.0,86.43,8.36
+ORD-20250600,2025-07-02,CUST-1068,Small Business,Latin America,Technology,Smartphones,Smartphones Pro #39,650.67,3,0.15,41.6,20.13
+ORD-20250601,2025-07-02,CUST-1061,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #53,606.49,4,0.0,36.92,10.74
+ORD-20250602,2025-07-02,CUST-1063,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #98,3549.37,6,0.1,247.02,44.35
+ORD-20250603,2025-07-03,CUST-1161,Consumer,Europe,Technology,Accessories,Accessories Pro #52,3049.89,3,0.15,340.53,22.28
+ORD-20250604,2025-07-03,CUST-1187,Small Business,Europe,Furniture,Desks,Desks Pro #55,1222.83,3,0.0,163.22,8.74
+ORD-20250605,2025-07-03,CUST-1043,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #29,2430.08,5,0.0,610.45,43.39
+ORD-20250606,2025-07-03,CUST-1280,Consumer,Europe,Technology,Accessories,Accessories Pro #59,7599.42,7,0.05,1811.26,26.01
+ORD-20250607,2025-07-04,CUST-1169,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #81,1297.95,3,0.0,449.68,12.12
+ORD-20250608,2025-07-04,CUST-1132,Consumer,Europe,Furniture,Chairs,Chairs Pro #27,2646.19,6,0.05,16.25,7.12
+ORD-20250609,2025-07-04,CUST-1241,Small Business,North America,Furniture,Chairs,Chairs Pro #59,619.16,2,0.0,47.14,39.76
+ORD-20250610,2025-07-05,CUST-1165,Corporate,North America,Furniture,Tables,Tables Pro #15,244.95,2,0.0,22.92,38.27
+ORD-20250611,2025-07-05,CUST-1025,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #64,1983.07,8,0.1,-66.48,22.87
+ORD-20250612,2025-07-05,CUST-1250,Consumer,North America,Office Supplies,Binders,Binders Pro #68,338.77,3,0.0,78.36,6.13
+ORD-20250613,2025-07-06,CUST-1246,Corporate,North America,Technology,Accessories,Accessories Pro #78,333.52,1,0.0,93.25,33.7
+ORD-20250614,2025-07-06,CUST-1128,Corporate,Europe,Office Supplies,Art,Art Pro #20,34.82,1,0.3,-1.89,20.58
+ORD-20250615,2025-07-06,CUST-1173,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #11,2242.64,2,0.0,500.61,33.1
+ORD-20250616,2025-07-07,CUST-1151,Corporate,North America,Office Supplies,Binders,Binders Pro #76,142.94,5,0.1,47.25,6.79
+ORD-20250617,2025-07-07,CUST-1293,Small Business,Asia-Pacific,Furniture,Desks,Desks Pro #49,830.38,3,0.05,134.93,40.9
+ORD-20250618,2025-07-07,CUST-1243,Small Business,North America,Technology,Smartphones,Smartphones Pro #75,5599.77,6,0.2,-143.0,12.32
+ORD-20250619,2025-07-07,CUST-1215,Consumer,Latin America,Technology,Accessories,Accessories Pro #36,2853.18,4,0.0,714.8,33.05
+ORD-20250620,2025-07-08,CUST-1226,Corporate,North America,Technology,Printers,Printers Pro #34,4667.99,5,0.15,783.9,31.69
+ORD-20250621,2025-07-08,CUST-1120,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #44,297.91,1,0.1,74.31,11.29
+ORD-20250622,2025-07-08,CUST-1093,Corporate,North America,Technology,Accessories,Accessories Pro #42,5749.67,6,0.05,1790.21,23.2
+ORD-20250623,2025-07-09,CUST-1199,Corporate,Europe,Office Supplies,Appliances,Appliances Pro #97,129.29,4,0.3,-18.44,41.7
+ORD-20250624,2025-07-09,CUST-1171,Corporate,North America,Technology,Laptops,Laptops Pro #95,2095.48,4,0.0,644.95,30.57
+ORD-20250625,2025-07-09,CUST-1207,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #91,2938.37,4,0.05,387.94,11.43
+ORD-20250626,2025-07-10,CUST-1028,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #29,1983.82,5,0.3,-417.44,26.43
+ORD-20250627,2025-07-10,CUST-1157,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #70,2965.87,6,0.05,519.46,18.33
+ORD-20250628,2025-07-10,CUST-1016,Small Business,Latin America,Furniture,Desks,Desks Pro #25,1257.56,4,0.15,141.54,9.25
+ORD-20250629,2025-07-10,CUST-1217,Consumer,North America,Technology,Accessories,Accessories Pro #30,8569.4,8,0.0,1783.05,16.94
+ORD-20250630,2025-07-11,CUST-1177,Consumer,North America,Technology,Smartphones,Smartphones Pro #47,3517.97,8,0.0,1042.03,31.56
+ORD-20250631,2025-07-11,CUST-1258,Consumer,Europe,Furniture,Chairs,Chairs Pro #63,3174.22,6,0.05,389.88,37.73
+ORD-20250632,2025-07-11,CUST-1198,Corporate,North America,Technology,Accessories,Accessories Pro #33,1344.1,5,0.05,192.0,8.28
+ORD-20250633,2025-07-12,CUST-1108,Corporate,Europe,Technology,Printers,Printers Pro #81,538.81,2,0.05,160.47,23.14
+ORD-20250634,2025-07-12,CUST-1181,Consumer,Europe,Technology,Accessories,Accessories Pro #96,3058.56,3,0.15,577.37,25.39
+ORD-20250635,2025-07-12,CUST-1014,Consumer,North America,Office Supplies,Binders,Binders Pro #59,69.41,3,0.0,14.2,21.42
+ORD-20250636,2025-07-13,CUST-1165,Small Business,Europe,Furniture,Tables,Tables Pro #59,231.83,2,0.15,20.51,11.72
+ORD-20250637,2025-07-13,CUST-1117,Small Business,Europe,Technology,Printers,Printers Pro #34,1261.85,4,0.05,325.37,32.2
+ORD-20250638,2025-07-13,CUST-1020,Small Business,Asia-Pacific,Furniture,Chairs,Chairs Pro #87,2016.18,4,0.1,-104.91,40.55
+ORD-20250639,2025-07-13,CUST-1008,Corporate,North America,Furniture,Desks,Desks Pro #15,319.19,1,0.0,33.79,11.38
+ORD-20250640,2025-07-14,CUST-1213,Small Business,North America,Furniture,Desks,Desks Pro #23,866.38,2,0.05,92.61,9.41
+ORD-20250641,2025-07-14,CUST-1157,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #56,817.86,3,0.1,172.19,36.31
+ORD-20250642,2025-07-14,CUST-1202,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #20,115.28,1,0.0,40.66,40.76
+ORD-20250643,2025-07-15,CUST-1233,Small Business,North America,Technology,Smartphones,Smartphones Pro #81,3262.53,6,0.05,378.61,9.93
+ORD-20250644,2025-07-15,CUST-1099,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #48,3225.02,7,0.15,114.89,33.29
+ORD-20250645,2025-07-15,CUST-1189,Consumer,North America,Technology,Smartphones,Smartphones Pro #78,850.92,4,0.05,153.16,24.73
+ORD-20250646,2025-07-16,CUST-1222,Small Business,North America,Technology,Printers,Printers Pro #43,1594.23,3,0.1,226.98,13.62
+ORD-20250647,2025-07-16,CUST-1057,Consumer,Europe,Technology,Laptops,Laptops Pro #88,306.05,2,0.05,38.11,40.67
+ORD-20250648,2025-07-16,CUST-1026,Consumer,North America,Furniture,Bookcases,Bookcases Pro #39,1700.06,4,0.0,369.35,9.82
+ORD-20250649,2025-07-17,CUST-1021,Small Business,North America,Office Supplies,Binders,Binders Pro #11,472.2,4,0.0,105.94,30.53
+ORD-20250650,2025-07-17,CUST-1200,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #28,607.22,7,0.1,172.37,38.98
+ORD-20250651,2025-07-17,CUST-1154,Consumer,North America,Furniture,Tables,Tables Pro #96,666.49,5,0.0,104.7,17.12
+ORD-20250652,2025-07-17,CUST-1241,Consumer,Latin America,Office Supplies,Paper,Paper Pro #20,139.78,3,0.1,18.77,17.46
+ORD-20250653,2025-07-18,CUST-1175,Consumer,Europe,Office Supplies,Art,Art Pro #42,44.33,3,0.1,9.39,38.94
+ORD-20250654,2025-07-18,CUST-1174,Corporate,Europe,Technology,Laptops,Laptops Pro #15,1416.75,4,0.0,371.74,8.37
+ORD-20250655,2025-07-18,CUST-1247,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #19,3686.71,6,0.0,1046.04,32.3
+ORD-20250656,2025-07-19,CUST-1176,Corporate,North America,Furniture,Bookcases,Bookcases Pro #13,1032.12,5,0.0,205.34,12.6
+ORD-20250657,2025-07-19,CUST-1252,Consumer,North America,Furniture,Bookcases,Bookcases Pro #84,3052.49,6,0.0,407.63,15.95
+ORD-20250658,2025-07-19,CUST-1224,Small Business,North America,Technology,Accessories,Accessories Pro #82,2327.49,8,0.05,625.17,22.9
+ORD-20250659,2025-07-20,CUST-1232,Consumer,Latin America,Technology,Laptops,Laptops Pro #69,7929.5,8,0.1,1394.88,15.28
+ORD-20250660,2025-07-20,CUST-1142,Corporate,North America,Office Supplies,Appliances,Appliances Pro #86,202.11,5,0.2,59.08,13.37
+ORD-20250661,2025-07-20,CUST-1084,Small Business,Europe,Technology,Smartphones,Smartphones Pro #80,1495.6,5,0.1,312.47,40.68
+ORD-20250662,2025-07-20,CUST-1066,Consumer,Latin America,Office Supplies,Paper,Paper Pro #36,262.55,4,0.3,27.51,16.12
+ORD-20250663,2025-07-21,CUST-1239,Small Business,Europe,Furniture,Tables,Tables Pro #17,1037.54,3,0.3,-197.71,31.41
+ORD-20250664,2025-07-21,CUST-1165,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #57,746.86,4,0.0,65.65,17.44
+ORD-20250665,2025-07-21,CUST-1095,Corporate,Latin America,Furniture,Desks,Desks Pro #71,1287.78,4,0.0,79.39,22.44
+ORD-20250666,2025-07-22,CUST-1209,Corporate,North America,Furniture,Tables,Tables Pro #79,2633.83,6,0.05,139.81,8.02
+ORD-20250667,2025-07-22,CUST-1132,Small Business,North America,Office Supplies,Storage,Storage Pro #42,69.96,4,0.05,22.0,43.75
+ORD-20250668,2025-07-22,CUST-1286,Corporate,North America,Technology,Smartphones,Smartphones Pro #70,166.05,1,0.1,27.64,7.5
+ORD-20250669,2025-07-23,CUST-1130,Corporate,North America,Office Supplies,Appliances,Appliances Pro #68,584.58,6,0.15,80.48,7.21
+ORD-20250670,2025-07-23,CUST-1176,Corporate,Asia-Pacific,Office Supplies,Storage,Storage Pro #63,85.47,1,0.05,34.29,9.68
+ORD-20250671,2025-07-23,CUST-1203,Corporate,North America,Furniture,Bookcases,Bookcases Pro #57,647.71,8,0.05,26.57,43.02
+ORD-20250672,2025-07-24,CUST-1170,Corporate,Europe,Furniture,Desks,Desks Pro #33,1438.76,7,0.3,-424.35,10.23
+ORD-20250673,2025-07-24,CUST-1024,Corporate,North America,Office Supplies,Paper,Paper Pro #66,453.72,7,0.0,91.87,37.31
+ORD-20250674,2025-07-24,CUST-1140,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #22,985.9,1,0.05,269.64,14.32
+ORD-20250675,2025-07-24,CUST-1030,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #90,1489.55,4,0.0,459.54,7.67
+ORD-20250676,2025-07-25,CUST-1123,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #92,109.67,1,0.0,47.33,8.02
+ORD-20250677,2025-07-25,CUST-1156,Corporate,North America,Furniture,Desks,Desks Pro #74,352.12,1,0.05,24.93,44.17
+ORD-20250678,2025-07-25,CUST-1114,Corporate,North America,Office Supplies,Paper,Paper Pro #40,328.95,5,0.0,90.02,6.04
+ORD-20250679,2025-07-26,CUST-1092,Small Business,North America,Furniture,Chairs,Chairs Pro #30,289.75,1,0.0,53.69,37.75
+ORD-20250680,2025-07-26,CUST-1204,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #25,1134.8,4,0.1,-20.32,43.99
+ORD-20250681,2025-07-26,CUST-1119,Consumer,North America,Furniture,Chairs,Chairs Pro #55,1709.37,3,0.0,338.3,31.77
+ORD-20250682,2025-07-27,CUST-1112,Consumer,Europe,Technology,Accessories,Accessories Pro #57,626.66,1,0.0,131.81,39.18
+ORD-20250683,2025-07-27,CUST-1190,Consumer,North America,Office Supplies,Paper,Paper Pro #83,568.12,8,0.0,198.33,37.28
+ORD-20250684,2025-07-27,CUST-1215,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #34,997.26,5,0.05,246.23,31.51
+ORD-20250685,2025-07-27,CUST-1124,Consumer,Europe,Technology,Smartphones,Smartphones Pro #67,3546.46,5,0.15,650.45,43.91
+ORD-20250686,2025-07-28,CUST-1203,Consumer,North America,Furniture,Bookcases,Bookcases Pro #65,1212.6,3,0.2,-60.83,42.91
+ORD-20250687,2025-07-28,CUST-1151,Corporate,Europe,Technology,Smartphones,Smartphones Pro #65,3101.64,4,0.1,328.59,32.9
+ORD-20250688,2025-07-28,CUST-1202,Small Business,Europe,Office Supplies,Paper,Paper Pro #11,114.47,2,0.05,24.04,21.35
+ORD-20250689,2025-07-29,CUST-1083,Consumer,Europe,Technology,Smartphones,Smartphones Pro #29,2189.68,5,0.05,494.31,18.87
+ORD-20250690,2025-07-29,CUST-1060,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #78,1238.32,4,0.0,218.03,37.31
+ORD-20250691,2025-07-29,CUST-1202,Consumer,North America,Office Supplies,Art,Art Pro #84,854.56,8,0.0,180.19,40.03
+ORD-20250692,2025-07-30,CUST-1162,Corporate,North America,Technology,Accessories,Accessories Pro #23,1038.59,2,0.0,268.68,36.61
+ORD-20250693,2025-07-30,CUST-1203,Small Business,Europe,Furniture,Tables,Tables Pro #39,721.08,2,0.15,-24.52,16.79
+ORD-20250694,2025-07-30,CUST-1230,Consumer,North America,Furniture,Desks,Desks Pro #54,495.21,1,0.0,51.22,14.09
+ORD-20250695,2025-07-30,CUST-1104,Consumer,Europe,Technology,Accessories,Accessories Pro #25,311.66,1,0.0,90.71,23.74
+ORD-20250696,2025-07-31,CUST-1036,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #29,1854.23,2,0.05,201.93,39.31
+ORD-20250697,2025-07-31,CUST-1187,Small Business,North America,Technology,Printers,Printers Pro #75,3706.61,5,0.0,1255.63,14.52
+ORD-20250698,2025-07-31,CUST-1175,Consumer,North America,Furniture,Chairs,Chairs Pro #24,2067.01,7,0.1,342.0,7.96
+ORD-20250699,2025-08-01,CUST-1104,Corporate,North America,Furniture,Tables,Tables Pro #18,4064.93,7,0.0,345.99,41.61
+ORD-20250700,2025-08-01,CUST-1059,Corporate,North America,Furniture,Chairs,Chairs Pro #88,3894.98,7,0.05,446.1,25.8
+ORD-20250701,2025-08-01,CUST-1007,Consumer,North America,Office Supplies,Appliances,Appliances Pro #19,797.69,8,0.0,190.83,17.51
+ORD-20250702,2025-08-02,CUST-1105,Consumer,North America,Furniture,Bookcases,Bookcases Pro #57,757.16,4,0.15,-17.81,42.65
+ORD-20250703,2025-08-02,CUST-1032,Small Business,Europe,Technology,Laptops,Laptops Pro #26,2413.79,5,0.0,587.7,43.46
+ORD-20250704,2025-08-02,CUST-1138,Consumer,Europe,Furniture,Tables,Tables Pro #59,3007.21,7,0.15,324.01,27.59
+ORD-20250705,2025-08-03,CUST-1196,Consumer,North America,Furniture,Tables,Tables Pro #12,327.29,1,0.05,3.77,42.43
+ORD-20250706,2025-08-03,CUST-1264,Small Business,Asia-Pacific,Office Supplies,Binders,Binders Pro #25,561.05,6,0.0,145.04,25.7
+ORD-20250707,2025-08-03,CUST-1203,Consumer,Latin America,Office Supplies,Art,Art Pro #20,445.78,4,0.0,189.92,19.67
+ORD-20250708,2025-08-03,CUST-1116,Corporate,North America,Furniture,Desks,Desks Pro #77,935.05,2,0.0,142.96,38.5
+ORD-20250709,2025-08-04,CUST-1195,Small Business,North America,Office Supplies,Art,Art Pro #84,46.0,3,0.1,9.29,16.01
+ORD-20250710,2025-08-04,CUST-1127,Consumer,North America,Office Supplies,Binders,Binders Pro #25,141.8,2,0.0,39.12,12.19
+ORD-20250711,2025-08-04,CUST-1072,Corporate,Latin America,Technology,Laptops,Laptops Pro #63,3854.98,8,0.05,1100.43,12.71
+ORD-20250712,2025-08-05,CUST-1167,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #21,4987.1,7,0.0,1600.31,42.47
+ORD-20250713,2025-08-05,CUST-1044,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #40,836.57,3,0.15,65.93,24.34
+ORD-20250714,2025-08-05,CUST-1103,Consumer,North America,Furniture,Bookcases,Bookcases Pro #95,827.0,5,0.1,-39.0,15.5
+ORD-20250715,2025-08-06,CUST-1227,Small Business,Asia-Pacific,Furniture,Chairs,Chairs Pro #84,2353.94,4,0.0,212.12,16.67
+ORD-20250716,2025-08-06,CUST-1135,Corporate,Europe,Technology,Smartphones,Smartphones Pro #20,3389.84,4,0.2,-65.96,40.11
+ORD-20250717,2025-08-06,CUST-1204,Consumer,Europe,Technology,Printers,Printers Pro #97,8017.76,8,0.05,1948.02,11.36
+ORD-20250718,2025-08-06,CUST-1210,Consumer,Europe,Furniture,Desks,Desks Pro #93,900.1,2,0.05,57.92,26.51
+ORD-20250719,2025-08-07,CUST-1142,Corporate,Europe,Technology,Laptops,Laptops Pro #17,5490.76,6,0.15,25.99,23.95
+ORD-20250720,2025-08-07,CUST-1243,Small Business,North America,Technology,Printers,Printers Pro #42,1808.45,3,0.3,-24.47,26.25
+ORD-20250721,2025-08-07,CUST-1285,Corporate,Latin America,Technology,Smartphones,Smartphones Pro #55,6518.5,7,0.1,886.78,23.83
+ORD-20250722,2025-08-08,CUST-1063,Consumer,North America,Furniture,Bookcases,Bookcases Pro #75,1994.57,5,0.15,153.9,6.55
+ORD-20250723,2025-08-08,CUST-1149,Small Business,Europe,Office Supplies,Binders,Binders Pro #57,44.5,1,0.05,12.06,11.29
+ORD-20250724,2025-08-08,CUST-1115,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #74,3112.58,6,0.05,265.06,33.23
+ORD-20250725,2025-08-09,CUST-1218,Consumer,Europe,Technology,Accessories,Accessories Pro #39,473.06,1,0.15,38.52,9.05
+ORD-20250726,2025-08-09,CUST-1019,Consumer,North America,Technology,Smartphones,Smartphones Pro #36,1789.17,2,0.0,275.91,41.1
+ORD-20250727,2025-08-09,CUST-1051,Corporate,North America,Technology,Accessories,Accessories Pro #77,885.48,1,0.0,203.98,34.31
+ORD-20250728,2025-08-10,CUST-1151,Corporate,North America,Technology,Printers,Printers Pro #72,3907.14,6,0.15,409.77,15.6
+ORD-20250729,2025-08-10,CUST-1024,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #10,1016.96,2,0.1,30.07,5.81
+ORD-20250730,2025-08-10,CUST-1208,Small Business,Europe,Furniture,Bookcases,Bookcases Pro #23,994.72,3,0.0,147.31,37.11
+ORD-20250731,2025-08-10,CUST-1256,Consumer,Europe,Technology,Accessories,Accessories Pro #81,2311.96,4,0.05,551.85,18.51
+ORD-20250732,2025-08-11,CUST-1282,Corporate,Latin America,Technology,Accessories,Accessories Pro #72,3983.47,4,0.15,207.56,7.33
+ORD-20250733,2025-08-11,CUST-1223,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #97,4617.31,8,0.0,1117.45,6.32
+ORD-20250734,2025-08-11,CUST-1010,Consumer,Europe,Technology,Printers,Printers Pro #72,1119.38,1,0.0,322.22,19.27
+ORD-20250735,2025-08-12,CUST-1228,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #29,670.42,6,0.3,-105.08,29.54
+ORD-20250736,2025-08-12,CUST-1030,Corporate,Europe,Furniture,Chairs,Chairs Pro #94,3195.32,7,0.0,295.28,32.54
+ORD-20250737,2025-08-12,CUST-1100,Small Business,Latin America,Technology,Smartphones,Smartphones Pro #33,3752.46,5,0.0,1243.91,26.36
+ORD-20250738,2025-08-13,CUST-1217,Consumer,Europe,Technology,Smartphones,Smartphones Pro #32,2170.52,2,0.05,357.64,31.85
+ORD-20250739,2025-08-13,CUST-1287,Small Business,North America,Technology,Accessories,Accessories Pro #61,5815.32,7,0.1,1323.63,23.87
+ORD-20250740,2025-08-13,CUST-1289,Corporate,Latin America,Office Supplies,Art,Art Pro #73,399.35,5,0.0,156.74,43.49
+ORD-20250741,2025-08-13,CUST-1078,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #60,363.0,1,0.05,55.78,30.17
+ORD-20250742,2025-08-14,CUST-1072,Corporate,Europe,Technology,Smartphones,Smartphones Pro #30,1495.06,4,0.15,318.34,18.85
+ORD-20250743,2025-08-14,CUST-1218,Consumer,North America,Office Supplies,Binders,Binders Pro #77,158.95,4,0.3,-4.27,10.39
+ORD-20250744,2025-08-14,CUST-1110,Consumer,North America,Technology,Printers,Printers Pro #12,685.2,3,0.15,122.12,37.39
+ORD-20250745,2025-08-15,CUST-1195,Corporate,North America,Office Supplies,Binders,Binders Pro #50,153.18,3,0.05,29.65,9.5
+ORD-20250746,2025-08-15,CUST-1285,Consumer,Europe,Office Supplies,Appliances,Appliances Pro #15,182.52,2,0.2,51.48,7.85
+ORD-20250747,2025-08-15,CUST-1037,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #95,453.32,4,0.3,-26.08,22.55
+ORD-20250748,2025-08-16,CUST-1279,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #68,632.44,2,0.15,-63.52,16.39
+ORD-20250749,2025-08-16,CUST-1030,Consumer,North America,Furniture,Desks,Desks Pro #33,802.25,2,0.15,88.36,5.9
+ORD-20250750,2025-08-16,CUST-1154,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #95,319.1,2,0.05,21.67,38.33
+ORD-20250751,2025-08-16,CUST-1073,Consumer,North America,Office Supplies,Binders,Binders Pro #79,896.98,8,0.0,355.58,37.68
+ORD-20250752,2025-08-17,CUST-1204,Corporate,North America,Technology,Accessories,Accessories Pro #41,992.56,2,0.2,48.54,10.05
+ORD-20250753,2025-08-17,CUST-1225,Consumer,North America,Technology,Laptops,Laptops Pro #34,2533.29,6,0.3,9.85,31.36
+ORD-20250754,2025-08-17,CUST-1058,Corporate,Asia-Pacific,Office Supplies,Paper,Paper Pro #97,106.79,1,0.05,43.56,18.64
+ORD-20250755,2025-08-18,CUST-1088,Corporate,North America,Furniture,Bookcases,Bookcases Pro #26,293.76,1,0.3,-75.62,37.06
+ORD-20250756,2025-08-18,CUST-1060,Consumer,Asia-Pacific,Office Supplies,Storage,Storage Pro #24,138.73,3,0.0,55.12,43.67
+ORD-20250757,2025-08-18,CUST-1138,Consumer,North America,Office Supplies,Binders,Binders Pro #70,48.68,1,0.0,20.3,29.31
+ORD-20250758,2025-08-19,CUST-1270,Consumer,North America,Technology,Smartphones,Smartphones Pro #62,2440.17,7,0.0,645.91,39.46
+ORD-20250759,2025-08-19,CUST-1045,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro #26,770.47,7,0.05,150.58,38.19
+ORD-20250760,2025-08-19,CUST-1226,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #35,716.05,3,0.05,6.36,26.78
+ORD-20250761,2025-08-20,CUST-1227,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #75,363.21,2,0.1,1.58,20.6
+ORD-20250762,2025-08-20,CUST-1167,Consumer,North America,Furniture,Chairs,Chairs Pro #51,3949.0,8,0.1,372.25,8.98
+ORD-20250763,2025-08-20,CUST-1204,Consumer,North America,Furniture,Tables,Tables Pro #91,1834.36,5,0.05,34.45,11.99
+ORD-20250764,2025-08-20,CUST-1060,Corporate,Europe,Technology,Laptops,Laptops Pro #57,6695.59,6,0.05,1108.31,30.99
+ORD-20250765,2025-08-21,CUST-1125,Corporate,Europe,Furniture,Tables,Tables Pro #90,396.53,3,0.1,-20.41,17.06
+ORD-20250766,2025-08-21,CUST-1094,Consumer,North America,Furniture,Bookcases,Bookcases Pro #48,1387.39,4,0.0,206.91,7.85
+ORD-20250767,2025-08-21,CUST-1089,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #41,2188.57,5,0.0,487.6,12.72
+ORD-20250768,2025-08-22,CUST-1265,Consumer,Europe,Technology,Printers,Printers Pro #83,1453.06,5,0.05,322.52,34.37
+ORD-20250769,2025-08-22,CUST-1174,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #92,2563.78,5,0.15,493.19,25.82
+ORD-20250770,2025-08-22,CUST-1284,Consumer,North America,Office Supplies,Binders,Binders Pro #96,174.51,4,0.3,22.04,35.88
+ORD-20250771,2025-08-23,CUST-1232,Corporate,North America,Technology,Laptops,Laptops Pro #69,1096.21,2,0.1,126.16,39.85
+ORD-20250772,2025-08-23,CUST-1243,Consumer,North America,Furniture,Desks,Desks Pro #21,555.18,1,0.0,68.65,20.34
+ORD-20250773,2025-08-23,CUST-1054,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #61,2701.19,6,0.05,295.74,32.95
+ORD-20250774,2025-08-23,CUST-1137,Corporate,North America,Technology,Accessories,Accessories Pro #22,413.84,2,0.0,122.12,33.66
+ORD-20250775,2025-08-24,CUST-1224,Small Business,Asia-Pacific,Office Supplies,Art,Art Pro #69,406.8,4,0.1,142.24,11.81
+ORD-20250776,2025-08-24,CUST-1095,Consumer,North America,Office Supplies,Appliances,Appliances Pro #78,362.18,5,0.15,79.13,10.0
+ORD-20250777,2025-08-24,CUST-1293,Small Business,Europe,Furniture,Desks,Desks Pro #96,2689.25,8,0.15,272.37,44.82
+ORD-20250778,2025-08-25,CUST-1081,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #97,198.74,1,0.05,36.37,27.41
+ORD-20250779,2025-08-25,CUST-1241,Corporate,North America,Furniture,Tables,Tables Pro #56,413.05,1,0.0,42.08,9.77
+ORD-20250780,2025-08-25,CUST-1202,Consumer,Europe,Technology,Printers,Printers Pro #28,4072.32,4,0.0,1287.48,40.0
+ORD-20250781,2025-08-26,CUST-1237,Corporate,Europe,Office Supplies,Paper,Paper Pro #91,144.13,4,0.1,53.72,9.21
+ORD-20250782,2025-08-26,CUST-1153,Small Business,Europe,Furniture,Chairs,Chairs Pro #97,2156.67,5,0.0,341.86,27.95
+ORD-20250783,2025-08-26,CUST-1109,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #95,2724.66,5,0.0,637.5,37.83
+ORD-20250784,2025-08-27,CUST-1018,Corporate,Latin America,Furniture,Tables,Tables Pro #68,1883.46,8,0.2,-247.78,24.52
+ORD-20250785,2025-08-27,CUST-1096,Consumer,Europe,Technology,Laptops,Laptops Pro #42,2027.15,3,0.05,501.5,34.23
+ORD-20250786,2025-08-27,CUST-1000,Small Business,Europe,Technology,Printers,Printers Pro #34,2035.68,2,0.15,424.83,19.97
+ORD-20250787,2025-08-27,CUST-1182,Consumer,Europe,Furniture,Chairs,Chairs Pro #47,1725.46,7,0.0,317.57,29.99
+ORD-20250788,2025-08-28,CUST-1134,Consumer,Europe,Office Supplies,Storage,Storage Pro #98,447.0,8,0.1,89.47,43.85
+ORD-20250789,2025-08-28,CUST-1268,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #59,551.28,1,0.2,55.21,22.62
+ORD-20250790,2025-08-28,CUST-1028,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #70,3548.82,6,0.0,651.1,18.06
+ORD-20250791,2025-08-29,CUST-1053,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #58,2689.48,8,0.1,601.23,9.8
+ORD-20250792,2025-08-29,CUST-1200,Corporate,Europe,Technology,Accessories,Accessories Pro #86,3813.5,6,0.15,728.52,12.59
+ORD-20250793,2025-08-29,CUST-1094,Corporate,Europe,Technology,Printers,Printers Pro #89,6767.4,7,0.0,1692.33,16.1
+ORD-20250794,2025-08-30,CUST-1212,Small Business,Europe,Technology,Laptops,Laptops Pro #35,5619.62,8,0.05,1636.0,25.71
+ORD-20250795,2025-08-30,CUST-1009,Small Business,Asia-Pacific,Technology,Accessories,Accessories Pro #39,8167.88,8,0.1,1415.54,24.3
+ORD-20250796,2025-08-30,CUST-1295,Consumer,Asia-Pacific,Office Supplies,Storage,Storage Pro #89,208.61,3,0.1,77.42,21.58
+ORD-20250797,2025-08-30,CUST-1163,Corporate,North America,Technology,Smartphones,Smartphones Pro #63,1882.97,3,0.15,307.85,18.61
+ORD-20250798,2025-08-31,CUST-1210,Consumer,North America,Technology,Accessories,Accessories Pro #79,1773.77,4,0.0,472.48,10.78
+ORD-20250799,2025-08-31,CUST-1217,Corporate,North America,Technology,Printers,Printers Pro #47,958.4,3,0.05,123.01,42.13
+ORD-20250800,2025-08-31,CUST-1047,Corporate,Europe,Furniture,Tables,Tables Pro #79,1387.32,8,0.0,335.62,18.66
+ORD-20250801,2025-09-01,CUST-1244,Consumer,Latin America,Furniture,Desks,Desks Pro #41,2836.46,8,0.1,-54.25,17.05
+ORD-20250802,2025-09-01,CUST-1280,Consumer,North America,Office Supplies,Appliances,Appliances Pro #51,49.45,1,0.2,12.6,25.78
+ORD-20250803,2025-09-01,CUST-1173,Small Business,North America,Office Supplies,Appliances,Appliances Pro #66,635.63,8,0.0,141.06,33.53
+ORD-20250804,2025-09-02,CUST-1198,Consumer,Europe,Technology,Laptops,Laptops Pro #57,4072.38,5,0.1,682.25,14.96
+ORD-20250805,2025-09-02,CUST-1004,Consumer,North America,Technology,Accessories,Accessories Pro #34,6225.33,6,0.05,1334.47,6.23
+ORD-20250806,2025-09-02,CUST-1171,Small Business,North America,Furniture,Bookcases,Bookcases Pro #69,3195.38,6,0.05,16.4,26.96
+ORD-20250807,2025-09-02,CUST-1032,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #25,2268.66,4,0.0,188.09,15.54
+ORD-20250808,2025-09-03,CUST-1023,Corporate,Europe,Technology,Laptops,Laptops Pro #35,5653.68,5,0.05,889.85,38.78
+ORD-20250809,2025-09-03,CUST-1230,Consumer,North America,Furniture,Tables,Tables Pro #72,1950.43,7,0.2,-242.11,41.24
+ORD-20250810,2025-09-03,CUST-1017,Consumer,North America,Furniture,Chairs,Chairs Pro #34,1576.5,3,0.0,376.5,27.43
+ORD-20250811,2025-09-04,CUST-1159,Small Business,North America,Technology,Laptops,Laptops Pro #87,4731.84,7,0.2,-50.32,38.54
+ORD-20250812,2025-09-04,CUST-1104,Consumer,Europe,Technology,Smartphones,Smartphones Pro #16,6880.05,8,0.15,994.84,24.76
+ORD-20250813,2025-09-04,CUST-1163,Corporate,North America,Technology,Printers,Printers Pro #89,5228.16,8,0.05,699.19,21.32
+ORD-20250814,2025-09-05,CUST-1233,Corporate,North America,Technology,Printers,Printers Pro #17,1413.61,4,0.0,309.81,5.34
+ORD-20250815,2025-09-05,CUST-1063,Small Business,North America,Office Supplies,Binders,Binders Pro #15,504.54,7,0.0,183.37,30.89
+ORD-20250816,2025-09-05,CUST-1165,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #71,2358.73,7,0.0,463.19,42.8
+ORD-20250817,2025-09-06,CUST-1240,Small Business,Europe,Furniture,Desks,Desks Pro #61,1485.87,3,0.05,220.86,15.31
+ORD-20250818,2025-09-06,CUST-1162,Consumer,Europe,Technology,Laptops,Laptops Pro #96,1374.47,7,0.0,478.89,36.84
+ORD-20250819,2025-09-06,CUST-1091,Small Business,Europe,Furniture,Bookcases,Bookcases Pro #96,739.45,7,0.0,37.32,32.22
+ORD-20250820,2025-09-06,CUST-1234,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #36,796.22,8,0.0,90.13,30.34
+ORD-20250821,2025-09-07,CUST-1244,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #86,543.59,7,0.0,154.54,9.88
+ORD-20250822,2025-09-07,CUST-1028,Small Business,Latin America,Technology,Printers,Printers Pro #54,1660.43,2,0.0,318.65,41.18
+ORD-20250823,2025-09-07,CUST-1157,Corporate,Latin America,Furniture,Desks,Desks Pro #89,608.86,4,0.1,-23.14,36.39
+ORD-20250824,2025-09-08,CUST-1094,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #14,1826.58,4,0.05,241.87,28.93
+ORD-20250825,2025-09-08,CUST-1054,Consumer,North America,Furniture,Desks,Desks Pro #52,2954.9,5,0.0,524.23,41.23
+ORD-20250826,2025-09-08,CUST-1262,Small Business,North America,Office Supplies,Binders,Binders Pro #17,447.32,5,0.0,111.87,32.53
+ORD-20250827,2025-09-09,CUST-1031,Corporate,Europe,Office Supplies,Storage,Storage Pro #85,441.81,5,0.1,152.01,14.14
+ORD-20250828,2025-09-09,CUST-1266,Consumer,North America,Technology,Printers,Printers Pro #20,1884.29,3,0.0,625.0,33.81
+ORD-20250829,2025-09-09,CUST-1220,Consumer,Latin America,Furniture,Tables,Tables Pro #87,3650.12,8,0.1,-127.88,7.26
+ORD-20250830,2025-09-09,CUST-1259,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #83,1653.78,7,0.0,348.37,33.92
+ORD-20250831,2025-09-10,CUST-1278,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #79,873.49,3,0.0,188.01,25.98
+ORD-20250832,2025-09-10,CUST-1242,Consumer,North America,Office Supplies,Storage,Storage Pro #74,82.18,2,0.05,30.54,7.11
+ORD-20250833,2025-09-10,CUST-1191,Small Business,Latin America,Technology,Laptops,Laptops Pro #92,5677.67,6,0.05,922.04,33.44
+ORD-20250834,2025-09-11,CUST-1024,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #48,239.71,1,0.1,-3.56,18.11
+ORD-20250835,2025-09-11,CUST-1278,Consumer,North America,Technology,Laptops,Laptops Pro #93,1553.96,5,0.0,236.16,37.81
+ORD-20250836,2025-09-11,CUST-1249,Consumer,North America,Furniture,Desks,Desks Pro #19,1198.08,5,0.05,71.25,34.22
+ORD-20250837,2025-09-12,CUST-1270,Small Business,Latin America,Technology,Printers,Printers Pro #79,879.45,1,0.05,257.9,26.22
+ORD-20250838,2025-09-12,CUST-1073,Consumer,North America,Technology,Printers,Printers Pro #83,4434.34,6,0.0,784.42,41.54
+ORD-20250839,2025-09-12,CUST-1124,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #19,1331.6,2,0.3,-138.43,41.43
+ORD-20250840,2025-09-13,CUST-1114,Consumer,Europe,Furniture,Desks,Desks Pro #77,871.38,6,0.0,180.64,24.31
+ORD-20250841,2025-09-13,CUST-1018,Consumer,Asia-Pacific,Office Supplies,Paper,Paper Pro #34,363.59,8,0.0,129.88,31.2
+ORD-20250842,2025-09-13,CUST-1122,Small Business,Latin America,Technology,Laptops,Laptops Pro #14,3156.0,4,0.0,1086.23,32.26
+ORD-20250843,2025-09-13,CUST-1252,Corporate,Latin America,Technology,Smartphones,Smartphones Pro #79,4443.52,5,0.0,1239.61,43.04
+ORD-20250844,2025-09-14,CUST-1190,Corporate,North America,Technology,Accessories,Accessories Pro #60,2053.95,3,0.2,-27.33,9.22
+ORD-20250845,2025-09-14,CUST-1179,Small Business,Europe,Technology,Smartphones,Smartphones Pro #90,5705.0,8,0.05,1177.14,33.88
+ORD-20250846,2025-09-14,CUST-1174,Consumer,North America,Office Supplies,Storage,Storage Pro #64,150.68,5,0.15,45.03,24.46
+ORD-20250847,2025-09-15,CUST-1118,Consumer,Europe,Technology,Accessories,Accessories Pro #92,577.02,3,0.0,97.49,11.12
+ORD-20250848,2025-09-15,CUST-1092,Consumer,Latin America,Technology,Accessories,Accessories Pro #26,1132.93,1,0.0,287.8,39.94
+ORD-20250849,2025-09-15,CUST-1292,Consumer,North America,Technology,Printers,Printers Pro #44,5787.56,8,0.05,1448.72,32.34
+ORD-20250850,2025-09-16,CUST-1288,Consumer,Latin America,Furniture,Desks,Desks Pro #93,146.06,1,0.0,9.02,11.31
+ORD-20250851,2025-09-16,CUST-1262,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #51,2747.25,8,0.0,446.61,16.8
+ORD-20250852,2025-09-16,CUST-1057,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #15,228.67,1,0.3,-11.0,35.46
+ORD-20250853,2025-09-16,CUST-1179,Consumer,North America,Office Supplies,Art,Art Pro #13,181.27,8,0.1,47.74,36.71
+ORD-20250854,2025-09-17,CUST-1085,Corporate,North America,Furniture,Tables,Tables Pro #12,529.4,2,0.1,9.76,13.65
+ORD-20250855,2025-09-17,CUST-1290,Small Business,Asia-Pacific,Office Supplies,Binders,Binders Pro #49,128.62,2,0.2,16.59,15.07
+ORD-20250856,2025-09-17,CUST-1134,Corporate,Europe,Technology,Accessories,Accessories Pro #48,2413.13,3,0.15,12.49,5.56
+ORD-20250857,2025-09-18,CUST-1232,Consumer,Europe,Technology,Accessories,Accessories Pro #26,3457.72,5,0.1,592.16,25.39
+ORD-20250858,2025-09-18,CUST-1136,Consumer,Europe,Technology,Accessories,Accessories Pro #70,6181.72,8,0.15,1178.69,10.1
+ORD-20250859,2025-09-18,CUST-1249,Small Business,Europe,Furniture,Tables,Tables Pro #49,927.12,2,0.05,18.21,38.46
+ORD-20250860,2025-09-19,CUST-1053,Small Business,North America,Office Supplies,Paper,Paper Pro #47,536.47,6,0.0,136.11,13.05
+ORD-20250861,2025-09-19,CUST-1242,Consumer,North America,Furniture,Desks,Desks Pro #96,596.03,3,0.1,-29.25,20.83
+ORD-20250862,2025-09-19,CUST-1088,Small Business,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #92,419.93,1,0.05,18.21,7.6
+ORD-20250863,2025-09-19,CUST-1151,Small Business,Latin America,Furniture,Desks,Desks Pro #13,2292.04,6,0.05,387.52,36.43
+ORD-20250864,2025-09-20,CUST-1071,Consumer,North America,Furniture,Desks,Desks Pro #42,495.25,3,0.0,37.13,5.5
+ORD-20250865,2025-09-20,CUST-1030,Corporate,North America,Office Supplies,Binders,Binders Pro #90,206.76,4,0.15,70.68,24.59
+ORD-20250866,2025-09-20,CUST-1267,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #89,359.14,6,0.15,126.72,19.47
+ORD-20250867,2025-09-21,CUST-1133,Corporate,Europe,Furniture,Chairs,Chairs Pro #39,2114.98,4,0.0,295.6,24.04
+ORD-20250868,2025-09-21,CUST-1184,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #54,1106.31,3,0.05,250.49,25.6
+ORD-20250869,2025-09-21,CUST-1139,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #33,1296.8,8,0.3,-288.87,35.67
+ORD-20250870,2025-09-22,CUST-1018,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #63,2681.09,6,0.15,173.77,19.68
+ORD-20250871,2025-09-22,CUST-1169,Small Business,Asia-Pacific,Technology,Laptops,Laptops Pro #68,4173.27,4,0.0,979.83,5.06
+ORD-20250872,2025-09-22,CUST-1195,Consumer,Latin America,Furniture,Tables,Tables Pro #12,199.38,2,0.05,32.55,35.43
+ORD-20250873,2025-09-23,CUST-1223,Consumer,Europe,Technology,Accessories,Accessories Pro #41,1721.15,6,0.0,364.63,44.43
+ORD-20250874,2025-09-23,CUST-1207,Consumer,North America,Furniture,Tables,Tables Pro #93,528.47,1,0.0,128.05,23.0
+ORD-20250875,2025-09-23,CUST-1238,Corporate,North America,Technology,Printers,Printers Pro #57,423.07,1,0.0,113.19,44.4
+ORD-20250876,2025-09-23,CUST-1141,Consumer,North America,Office Supplies,Paper,Paper Pro #67,513.64,7,0.2,147.35,34.56
+ORD-20250877,2025-09-24,CUST-1087,Consumer,Latin America,Office Supplies,Paper,Paper Pro #36,596.23,6,0.0,267.65,22.47
+ORD-20250878,2025-09-24,CUST-1174,Consumer,North America,Technology,Smartphones,Smartphones Pro #31,3940.99,8,0.2,-77.73,33.2
+ORD-20250879,2025-09-24,CUST-1028,Consumer,North America,Office Supplies,Appliances,Appliances Pro #85,79.63,5,0.15,7.89,5.72
+ORD-20250880,2025-09-25,CUST-1163,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #16,741.86,6,0.3,-57.65,27.22
+ORD-20250881,2025-09-25,CUST-1258,Consumer,Europe,Technology,Smartphones,Smartphones Pro #31,1866.2,6,0.0,553.64,28.85
+ORD-20250882,2025-09-25,CUST-1124,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro #29,199.82,2,0.05,6.25,24.34
+ORD-20250883,2025-09-26,CUST-1014,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #13,1508.66,5,0.0,237.59,22.76
+ORD-20250884,2025-09-26,CUST-1020,Corporate,Europe,Office Supplies,Art,Art Pro #70,209.45,3,0.05,76.47,17.96
+ORD-20250885,2025-09-26,CUST-1052,Small Business,Europe,Furniture,Chairs,Chairs Pro #61,2989.29,6,0.0,543.54,25.55
+ORD-20250886,2025-09-26,CUST-1142,Consumer,North America,Technology,Accessories,Accessories Pro #89,1166.54,5,0.05,281.98,21.22
+ORD-20250887,2025-09-27,CUST-1014,Consumer,North America,Technology,Laptops,Laptops Pro #52,2656.61,5,0.1,717.53,36.68
+ORD-20250888,2025-09-27,CUST-1134,Consumer,North America,Technology,Accessories,Accessories Pro #76,1150.27,1,0.0,274.68,12.95
+ORD-20250889,2025-09-27,CUST-1241,Corporate,North America,Technology,Laptops,Laptops Pro #58,182.43,1,0.15,11.59,40.4
+ORD-20250890,2025-09-28,CUST-1062,Corporate,North America,Office Supplies,Storage,Storage Pro #54,81.62,3,0.1,25.78,31.22
+ORD-20250891,2025-09-28,CUST-1250,Consumer,Latin America,Technology,Laptops,Laptops Pro #81,386.13,3,0.15,45.16,37.93
+ORD-20250892,2025-09-28,CUST-1216,Corporate,Europe,Technology,Laptops,Laptops Pro #67,1714.18,2,0.2,72.05,44.73
+ORD-20250893,2025-09-29,CUST-1146,Small Business,North America,Office Supplies,Storage,Storage Pro #66,58.01,5,0.3,-4.95,12.2
+ORD-20250894,2025-09-29,CUST-1258,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #31,475.57,1,0.1,3.53,31.97
+ORD-20250895,2025-09-29,CUST-1165,Consumer,Europe,Office Supplies,Storage,Storage Pro #86,170.07,3,0.1,47.55,38.09
+ORD-20250896,2025-09-30,CUST-1223,Consumer,North America,Furniture,Desks,Desks Pro #20,2223.81,8,0.1,-78.51,13.55
+ORD-20250897,2025-09-30,CUST-1043,Consumer,Europe,Furniture,Desks,Desks Pro #75,313.43,1,0.0,49.34,11.23
+ORD-20250898,2025-09-30,CUST-1034,Consumer,Latin America,Office Supplies,Storage,Storage Pro #91,927.26,8,0.0,188.49,31.15
+ORD-20250899,2025-09-30,CUST-1045,Consumer,North America,Furniture,Bookcases,Bookcases Pro #90,185.85,2,0.05,6.67,28.76
+ORD-20250900,2025-10-01,CUST-1155,Small Business,North America,Office Supplies,Storage,Storage Pro #31,290.45,3,0.1,64.11,21.66
+ORD-20250901,2025-10-01,CUST-1100,Corporate,Europe,Technology,Laptops,Laptops Pro #80,649.97,4,0.0,135.6,20.05
+ORD-20250902,2025-10-01,CUST-1235,Consumer,Latin America,Furniture,Chairs,Chairs Pro #86,731.35,2,0.1,86.86,34.93
+ORD-20250903,2025-10-02,CUST-1090,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #28,1158.36,2,0.15,195.48,34.71
+ORD-20250904,2025-10-02,CUST-1032,Consumer,North America,Office Supplies,Appliances,Appliances Pro #53,78.02,1,0.1,23.86,42.7
+ORD-20250905,2025-10-02,CUST-1011,Corporate,Europe,Technology,Smartphones,Smartphones Pro #29,2026.1,4,0.15,72.92,25.41
+ORD-20250906,2025-10-03,CUST-1070,Consumer,Europe,Technology,Laptops,Laptops Pro #70,2259.66,5,0.0,411.41,14.33
+ORD-20250907,2025-10-03,CUST-1114,Corporate,North America,Office Supplies,Art,Art Pro #90,304.6,3,0.1,93.74,12.88
+ORD-20250908,2025-10-03,CUST-1283,Small Business,Latin America,Technology,Printers,Printers Pro #40,2592.71,7,0.0,643.96,31.85
+ORD-20250909,2025-10-03,CUST-1234,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #21,328.66,1,0.0,66.04,27.25
+ORD-20250910,2025-10-04,CUST-1191,Consumer,Latin America,Office Supplies,Paper,Paper Pro #35,576.91,6,0.0,164.27,39.32
+ORD-20250911,2025-10-04,CUST-1052,Corporate,Europe,Furniture,Chairs,Chairs Pro #26,829.37,2,0.1,-29.9,40.83
+ORD-20250912,2025-10-04,CUST-1159,Corporate,North America,Furniture,Tables,Tables Pro #92,1209.78,8,0.0,183.1,24.06
+ORD-20250913,2025-10-05,CUST-1231,Consumer,North America,Furniture,Tables,Tables Pro #89,1722.46,8,0.05,79.34,11.21
+ORD-20250914,2025-10-05,CUST-1198,Small Business,Europe,Technology,Laptops,Laptops Pro #76,894.78,1,0.0,239.12,28.08
+ORD-20250915,2025-10-05,CUST-1023,Consumer,Latin America,Technology,Smartphones,Smartphones Pro #62,2801.56,6,0.0,784.6,20.66
+ORD-20250916,2025-10-06,CUST-1183,Corporate,Asia-Pacific,Office Supplies,Art,Art Pro #34,494.09,5,0.0,195.58,16.96
+ORD-20250917,2025-10-06,CUST-1193,Corporate,North America,Office Supplies,Binders,Binders Pro #64,293.27,6,0.2,4.11,23.81
+ORD-20250918,2025-10-06,CUST-1144,Consumer,Europe,Technology,Accessories,Accessories Pro #35,979.72,5,0.1,179.46,25.23
+ORD-20250919,2025-10-06,CUST-1231,Small Business,Asia-Pacific,Furniture,Chairs,Chairs Pro #86,1161.91,7,0.1,52.16,30.5
+ORD-20250920,2025-10-07,CUST-1174,Small Business,North America,Furniture,Bookcases,Bookcases Pro #98,1477.76,3,0.0,344.3,37.7
+ORD-20250921,2025-10-07,CUST-1288,Corporate,Latin America,Technology,Printers,Printers Pro #43,1283.75,6,0.0,302.67,12.39
+ORD-20250922,2025-10-07,CUST-1094,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #11,101.63,1,0.05,20.16,18.0
+ORD-20250923,2025-10-08,CUST-1140,Consumer,North America,Technology,Printers,Printers Pro #59,3196.38,3,0.0,918.88,10.91
+ORD-20250924,2025-10-08,CUST-1257,Consumer,North America,Office Supplies,Paper,Paper Pro #98,105.61,1,0.1,29.45,9.42
+ORD-20250925,2025-10-08,CUST-1094,Corporate,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #21,70.62,1,0.15,1.54,19.28
+ORD-20250926,2025-10-09,CUST-1140,Consumer,North America,Furniture,Tables,Tables Pro #43,663.44,2,0.2,-109.79,20.57
+ORD-20250927,2025-10-09,CUST-1235,Consumer,Europe,Office Supplies,Art,Art Pro #89,184.18,7,0.3,27.98,27.28
+ORD-20250928,2025-10-09,CUST-1279,Corporate,Asia-Pacific,Office Supplies,Binders,Binders Pro #24,148.02,2,0.0,37.54,36.4
+ORD-20250929,2025-10-10,CUST-1222,Corporate,Europe,Office Supplies,Paper,Paper Pro #96,496.91,5,0.0,165.42,22.02
+ORD-20250930,2025-10-10,CUST-1067,Consumer,Europe,Technology,Printers,Printers Pro #37,658.83,1,0.1,84.73,30.75
+ORD-20250931,2025-10-10,CUST-1172,Corporate,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #59,601.46,7,0.0,113.86,42.7
+ORD-20250932,2025-10-10,CUST-1272,Corporate,Europe,Furniture,Tables,Tables Pro #49,1984.35,7,0.3,-653.94,36.63
+ORD-20250933,2025-10-11,CUST-1179,Small Business,Latin America,Furniture,Chairs,Chairs Pro #29,306.75,1,0.0,53.99,17.05
+ORD-20250934,2025-10-11,CUST-1068,Consumer,Europe,Technology,Laptops,Laptops Pro #32,614.67,3,0.0,123.36,9.15
+ORD-20250935,2025-10-11,CUST-1137,Small Business,North America,Furniture,Tables,Tables Pro #16,995.14,3,0.05,80.02,9.58
+ORD-20250936,2025-10-12,CUST-1111,Consumer,Europe,Furniture,Desks,Desks Pro #90,1385.92,3,0.1,62.91,9.3
+ORD-20250937,2025-10-12,CUST-1149,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #35,5580.65,5,0.05,889.18,6.2
+ORD-20250938,2025-10-12,CUST-1025,Small Business,Europe,Furniture,Desks,Desks Pro #32,1023.98,6,0.3,-197.32,39.37
+ORD-20250939,2025-10-13,CUST-1061,Corporate,North America,Office Supplies,Appliances,Appliances Pro #56,543.68,8,0.0,171.85,25.2
+ORD-20250940,2025-10-13,CUST-1264,Consumer,Asia-Pacific,Furniture,Bookcases,Bookcases Pro #88,2285.61,6,0.1,297.67,25.93
+ORD-20250941,2025-10-13,CUST-1254,Corporate,Latin America,Furniture,Chairs,Chairs Pro #14,843.89,2,0.1,35.84,30.0
+ORD-20250942,2025-10-13,CUST-1242,Consumer,Europe,Technology,Smartphones,Smartphones Pro #32,1419.64,2,0.2,93.42,16.56
+ORD-20250943,2025-10-14,CUST-1149,Corporate,North America,Office Supplies,Storage,Storage Pro #74,631.38,7,0.0,147.65,10.79
+ORD-20250944,2025-10-14,CUST-1068,Consumer,Europe,Furniture,Tables,Tables Pro #53,1286.65,7,0.1,-59.52,27.5
+ORD-20250945,2025-10-14,CUST-1135,Consumer,Europe,Technology,Smartphones,Smartphones Pro #68,859.41,1,0.2,152.74,33.77
+ORD-20250946,2025-10-15,CUST-1247,Consumer,Latin America,Furniture,Tables,Tables Pro #64,2880.84,7,0.05,153.01,36.84
+ORD-20250947,2025-10-15,CUST-1241,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #71,155.15,2,0.0,32.25,30.32
+ORD-20250948,2025-10-15,CUST-1228,Corporate,Europe,Furniture,Tables,Tables Pro #51,300.18,2,0.0,44.79,10.05
+ORD-20250949,2025-10-16,CUST-1046,Corporate,Europe,Furniture,Chairs,Chairs Pro #51,2470.34,6,0.0,503.54,43.4
+ORD-20250950,2025-10-16,CUST-1106,Consumer,North America,Technology,Smartphones,Smartphones Pro #46,818.14,5,0.1,185.57,29.05
+ORD-20250951,2025-10-16,CUST-1217,Small Business,Europe,Technology,Accessories,Accessories Pro #18,351.07,1,0.0,64.41,31.88
+ORD-20250952,2025-10-17,CUST-1119,Consumer,Asia-Pacific,Office Supplies,Paper,Paper Pro #15,703.48,8,0.2,3.44,37.39
+ORD-20250953,2025-10-17,CUST-1154,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #87,583.86,1,0.0,189.97,40.01
+ORD-20250954,2025-10-17,CUST-1130,Consumer,Europe,Furniture,Desks,Desks Pro #60,784.31,3,0.05,39.89,36.85
+ORD-20250955,2025-10-17,CUST-1287,Consumer,Europe,Furniture,Desks,Desks Pro #86,3729.63,8,0.05,498.23,20.7
+ORD-20250956,2025-10-18,CUST-1181,Corporate,Europe,Furniture,Tables,Tables Pro #32,852.66,4,0.0,63.15,35.3
+ORD-20250957,2025-10-18,CUST-1175,Corporate,North America,Technology,Printers,Printers Pro #95,1440.89,3,0.05,190.04,5.59
+ORD-20250958,2025-10-18,CUST-1034,Consumer,Europe,Technology,Accessories,Accessories Pro #69,1323.59,4,0.05,214.17,38.3
+ORD-20250959,2025-10-19,CUST-1123,Small Business,Asia-Pacific,Technology,Smartphones,Smartphones Pro #96,1985.07,3,0.3,-222.93,15.5
+ORD-20250960,2025-10-19,CUST-1220,Corporate,Europe,Furniture,Tables,Tables Pro #23,103.27,1,0.0,11.29,10.84
+ORD-20250961,2025-10-19,CUST-1049,Corporate,North America,Furniture,Bookcases,Bookcases Pro #45,2724.75,6,0.0,319.43,26.65
+ORD-20250962,2025-10-20,CUST-1037,Small Business,Asia-Pacific,Office Supplies,Paper,Paper Pro #22,313.83,4,0.05,99.87,30.06
+ORD-20250963,2025-10-20,CUST-1173,Corporate,Europe,Furniture,Desks,Desks Pro #42,387.18,1,0.05,1.45,8.54
+ORD-20250964,2025-10-20,CUST-1035,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #16,1607.76,5,0.05,428.38,40.23
+ORD-20250965,2025-10-20,CUST-1106,Consumer,North America,Furniture,Chairs,Chairs Pro #17,522.67,1,0.05,66.26,36.43
+ORD-20250966,2025-10-21,CUST-1026,Corporate,North America,Furniture,Chairs,Chairs Pro #59,448.6,2,0.3,-150.69,38.74
+ORD-20250967,2025-10-21,CUST-1141,Consumer,Latin America,Technology,Laptops,Laptops Pro #69,2119.86,3,0.0,376.38,33.88
+ORD-20250968,2025-10-21,CUST-1116,Corporate,Europe,Technology,Printers,Printers Pro #10,5392.09,5,0.0,1317.95,15.05
+ORD-20250969,2025-10-22,CUST-1056,Small Business,Europe,Technology,Smartphones,Smartphones Pro #69,8561.94,8,0.0,1629.61,36.52
+ORD-20250970,2025-10-22,CUST-1186,Small Business,North America,Furniture,Bookcases,Bookcases Pro #92,3582.11,7,0.0,479.46,16.39
+ORD-20250971,2025-10-22,CUST-1065,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #35,1006.44,7,0.2,-176.12,8.02
+ORD-20250972,2025-10-23,CUST-1042,Small Business,Europe,Technology,Accessories,Accessories Pro #80,303.46,1,0.1,83.38,29.59
+ORD-20250973,2025-10-23,CUST-1006,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro #95,2867.69,5,0.0,716.13,34.08
+ORD-20250974,2025-10-23,CUST-1248,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #40,3845.56,8,0.15,163.19,5.44
+ORD-20250975,2025-10-23,CUST-1137,Consumer,North America,Technology,Printers,Printers Pro #58,3494.08,5,0.1,261.56,7.11
+ORD-20250976,2025-10-24,CUST-1134,Consumer,Europe,Furniture,Tables,Tables Pro #41,1700.95,6,0.2,-98.88,26.96
+ORD-20250977,2025-10-24,CUST-1268,Corporate,Latin America,Technology,Printers,Printers Pro #66,4107.31,8,0.15,800.85,12.55
+ORD-20250978,2025-10-24,CUST-1184,Consumer,North America,Technology,Laptops,Laptops Pro #43,1408.74,4,0.1,78.54,11.85
+ORD-20250979,2025-10-25,CUST-1190,Consumer,North America,Furniture,Bookcases,Bookcases Pro #45,2338.79,4,0.0,451.88,17.75
+ORD-20250980,2025-10-25,CUST-1263,Consumer,Europe,Technology,Printers,Printers Pro #40,1676.27,5,0.2,54.56,31.53
+ORD-20250981,2025-10-25,CUST-1233,Consumer,Europe,Furniture,Desks,Desks Pro #32,772.25,4,0.1,79.89,16.3
+ORD-20250982,2025-10-26,CUST-1015,Corporate,Europe,Office Supplies,Appliances,Appliances Pro #91,464.14,6,0.0,167.73,8.11
+ORD-20250983,2025-10-26,CUST-1174,Consumer,Europe,Technology,Printers,Printers Pro #62,785.06,3,0.0,130.69,22.3
+ORD-20250984,2025-10-26,CUST-1295,Consumer,Europe,Furniture,Chairs,Chairs Pro #48,2922.02,6,0.05,351.78,13.39
+ORD-20250985,2025-10-27,CUST-1117,Corporate,North America,Furniture,Tables,Tables Pro #59,3209.62,6,0.05,255.4,8.54
+ORD-20250986,2025-10-27,CUST-1064,Consumer,North America,Furniture,Chairs,Chairs Pro #19,860.06,8,0.1,85.66,12.56
+ORD-20250987,2025-10-27,CUST-1028,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #86,3559.11,5,0.1,940.48,7.99
+ORD-20250988,2025-10-27,CUST-1203,Consumer,Latin America,Technology,Smartphones,Smartphones Pro #42,8134.99,7,0.0,1473.53,14.03
+ORD-20250989,2025-10-28,CUST-1074,Corporate,Europe,Technology,Accessories,Accessories Pro #91,1730.35,5,0.0,379.28,23.76
+ORD-20250990,2025-10-28,CUST-1187,Consumer,North America,Technology,Smartphones,Smartphones Pro #39,3686.94,4,0.2,-123.82,34.33
+ORD-20250991,2025-10-28,CUST-1065,Corporate,North America,Technology,Smartphones,Smartphones Pro #21,4146.33,5,0.15,860.21,28.29
+ORD-20250992,2025-10-29,CUST-1148,Corporate,Europe,Technology,Smartphones,Smartphones Pro #64,2070.85,2,0.0,513.4,39.87
+ORD-20250993,2025-10-29,CUST-1257,Corporate,North America,Technology,Smartphones,Smartphones Pro #89,631.18,2,0.0,126.52,43.12
+ORD-20250994,2025-10-29,CUST-1133,Consumer,North America,Technology,Smartphones,Smartphones Pro #83,1264.99,6,0.05,269.17,35.69
+ORD-20250995,2025-10-30,CUST-1065,Corporate,North America,Technology,Laptops,Laptops Pro #22,3809.91,7,0.0,950.76,14.68
+ORD-20250996,2025-10-30,CUST-1075,Corporate,North America,Technology,Smartphones,Smartphones Pro #48,4976.48,7,0.15,906.23,24.74
+ORD-20250997,2025-10-30,CUST-1007,Consumer,Europe,Office Supplies,Storage,Storage Pro #33,319.09,3,0.1,111.7,42.55
+ORD-20250998,2025-10-30,CUST-1038,Consumer,Europe,Furniture,Chairs,Chairs Pro #90,1195.42,5,0.15,17.62,22.09
+ORD-20250999,2025-10-31,CUST-1172,Small Business,Latin America,Furniture,Desks,Desks Pro #51,1415.19,3,0.15,-74.73,41.73
+ORD-20251000,2025-10-31,CUST-1177,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #38,1307.51,4,0.05,44.66,38.32
+ORD-20251001,2025-10-31,CUST-1262,Corporate,North America,Furniture,Tables,Tables Pro #62,1578.54,6,0.2,-20.09,19.94
+ORD-20251002,2025-11-01,CUST-1251,Small Business,Latin America,Technology,Laptops,Laptops Pro #51,1915.05,2,0.1,259.24,9.72
+ORD-20251003,2025-11-01,CUST-1043,Corporate,North America,Office Supplies,Storage,Storage Pro #11,529.79,6,0.0,157.34,20.93
+ORD-20251004,2025-11-01,CUST-1174,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #12,2549.44,7,0.2,-430.43,5.83
+ORD-20251005,2025-11-02,CUST-1223,Consumer,North America,Office Supplies,Paper,Paper Pro #12,155.7,3,0.15,27.17,22.08
+ORD-20251006,2025-11-02,CUST-1178,Corporate,North America,Furniture,Tables,Tables Pro #23,3061.68,7,0.1,-23.81,37.0
+ORD-20251007,2025-11-02,CUST-1085,Small Business,Latin America,Office Supplies,Art,Art Pro #22,208.47,6,0.0,86.5,14.06
+ORD-20251008,2025-11-03,CUST-1177,Consumer,Europe,Technology,Printers,Printers Pro #14,859.16,1,0.05,229.73,33.56
+ORD-20251009,2025-11-03,CUST-1109,Consumer,North America,Furniture,Desks,Desks Pro #73,888.33,6,0.0,125.71,38.68
+ORD-20251010,2025-11-03,CUST-1228,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #53,242.12,1,0.0,42.99,6.32
+ORD-20251011,2025-11-03,CUST-1222,Consumer,Europe,Furniture,Desks,Desks Pro #13,1149.76,6,0.2,-205.22,18.81
+ORD-20251012,2025-11-04,CUST-1129,Corporate,Europe,Technology,Printers,Printers Pro #82,1214.55,3,0.0,423.07,28.02
+ORD-20251013,2025-11-04,CUST-1058,Small Business,North America,Office Supplies,Binders,Binders Pro #81,95.7,3,0.15,23.48,44.44
+ORD-20251014,2025-11-04,CUST-1112,Consumer,North America,Furniture,Bookcases,Bookcases Pro #90,1576.44,7,0.3,-320.9,20.96
+ORD-20251015,2025-11-05,CUST-1108,Consumer,North America,Furniture,Chairs,Chairs Pro #75,291.56,3,0.0,14.64,35.52
+ORD-20251016,2025-11-05,CUST-1031,Corporate,North America,Furniture,Chairs,Chairs Pro #33,1329.86,4,0.2,-111.46,36.4
+ORD-20251017,2025-11-05,CUST-1131,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #23,1493.61,7,0.0,252.04,15.38
+ORD-20251018,2025-11-06,CUST-1209,Corporate,North America,Office Supplies,Appliances,Appliances Pro #83,63.34,1,0.0,18.44,30.45
+ORD-20251019,2025-11-06,CUST-1245,Consumer,North America,Office Supplies,Binders,Binders Pro #37,128.42,2,0.1,41.78,21.37
+ORD-20251020,2025-11-06,CUST-1192,Small Business,Europe,Technology,Laptops,Laptops Pro #88,978.71,1,0.0,216.98,44.86
+ORD-20251021,2025-11-06,CUST-1185,Small Business,Europe,Furniture,Tables,Tables Pro #80,453.52,1,0.1,-16.65,5.27
+ORD-20251022,2025-11-07,CUST-1153,Corporate,North America,Office Supplies,Art,Art Pro #42,394.49,6,0.0,112.03,21.01
+ORD-20251023,2025-11-07,CUST-1261,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #27,1786.8,5,0.0,593.5,16.44
+ORD-20251024,2025-11-07,CUST-1082,Consumer,Europe,Technology,Accessories,Accessories Pro #43,530.36,1,0.1,121.22,27.98
+ORD-20251025,2025-11-08,CUST-1101,Small Business,North America,Technology,Printers,Printers Pro #70,5429.23,5,0.0,1687.28,16.84
+ORD-20251026,2025-11-08,CUST-1273,Corporate,Asia-Pacific,Office Supplies,Art,Art Pro #18,120.31,2,0.2,8.28,34.71
+ORD-20251027,2025-11-08,CUST-1174,Consumer,Europe,Office Supplies,Storage,Storage Pro #32,210.1,2,0.05,68.04,19.8
+ORD-20251028,2025-11-09,CUST-1272,Corporate,North America,Furniture,Desks,Desks Pro #57,434.52,2,0.0,104.1,41.31
+ORD-20251029,2025-11-09,CUST-1159,Consumer,Europe,Furniture,Chairs,Chairs Pro #57,363.31,2,0.1,26.56,32.48
+ORD-20251030,2025-11-09,CUST-1107,Small Business,Europe,Office Supplies,Appliances,Appliances Pro #54,349.93,7,0.1,115.37,8.31
+ORD-20251031,2025-11-09,CUST-1077,Consumer,Latin America,Technology,Printers,Printers Pro #37,2269.1,5,0.0,455.41,15.79
+ORD-20251032,2025-11-10,CUST-1248,Corporate,Europe,Technology,Printers,Printers Pro #46,584.12,2,0.1,77.82,35.27
+ORD-20251033,2025-11-10,CUST-1296,Corporate,North America,Furniture,Desks,Desks Pro #75,695.38,2,0.05,72.0,33.62
+ORD-20251034,2025-11-10,CUST-1113,Small Business,North America,Office Supplies,Paper,Paper Pro #96,517.55,5,0.0,164.34,20.71
+ORD-20251035,2025-11-11,CUST-1018,Corporate,North America,Technology,Accessories,Accessories Pro #73,1063.92,1,0.0,278.37,16.74
+ORD-20251036,2025-11-11,CUST-1173,Corporate,North America,Office Supplies,Art,Art Pro #70,134.81,6,0.2,36.13,42.87
+ORD-20251037,2025-11-11,CUST-1294,Consumer,North America,Technology,Smartphones,Smartphones Pro #53,1951.37,3,0.0,630.57,30.75
+ORD-20251038,2025-11-12,CUST-1067,Small Business,Asia-Pacific,Furniture,Tables,Tables Pro #47,1517.89,6,0.0,228.66,5.28
+ORD-20251039,2025-11-12,CUST-1244,Consumer,North America,Technology,Printers,Printers Pro #22,6960.05,7,0.1,399.39,11.09
+ORD-20251040,2025-11-12,CUST-1086,Consumer,Europe,Technology,Laptops,Laptops Pro #92,939.48,1,0.2,86.03,43.38
+ORD-20251041,2025-11-13,CUST-1106,Corporate,North America,Office Supplies,Art,Art Pro #68,28.29,1,0.05,6.14,35.56
+ORD-20251042,2025-11-13,CUST-1199,Consumer,North America,Furniture,Chairs,Chairs Pro #45,4105.02,8,0.05,604.55,25.48
+ORD-20251043,2025-11-13,CUST-1289,Consumer,North America,Office Supplies,Storage,Storage Pro #88,71.38,1,0.0,27.26,29.34
+ORD-20251044,2025-11-13,CUST-1172,Corporate,Europe,Office Supplies,Binders,Binders Pro #23,277.63,3,0.15,92.79,30.42
+ORD-20251045,2025-11-14,CUST-1131,Consumer,Latin America,Technology,Accessories,Accessories Pro #88,1394.39,7,0.05,434.02,27.28
+ORD-20251046,2025-11-14,CUST-1023,Consumer,Europe,Furniture,Desks,Desks Pro #61,296.71,1,0.0,59.78,13.85
+ORD-20251047,2025-11-14,CUST-1287,Small Business,North America,Office Supplies,Paper,Paper Pro #32,538.0,7,0.0,204.55,11.73
+ORD-20251048,2025-11-15,CUST-1097,Consumer,Europe,Technology,Printers,Printers Pro #55,2744.05,6,0.1,482.7,30.33
+ORD-20251049,2025-11-15,CUST-1080,Consumer,Europe,Technology,Laptops,Laptops Pro #30,2242.06,6,0.1,457.85,41.64
+ORD-20251050,2025-11-15,CUST-1026,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro #37,3140.66,7,0.15,-261.97,5.62
+ORD-20251051,2025-11-16,CUST-1070,Consumer,North America,Furniture,Chairs,Chairs Pro #40,1132.04,4,0.15,33.36,32.15
+ORD-20251052,2025-11-16,CUST-1006,Consumer,North America,Office Supplies,Appliances,Appliances Pro #34,342.62,5,0.15,98.74,25.77
+ORD-20251053,2025-11-16,CUST-1195,Consumer,Europe,Furniture,Tables,Tables Pro #44,1339.06,4,0.0,211.24,19.65
+ORD-20251054,2025-11-16,CUST-1200,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #10,851.0,3,0.0,198.36,21.74
+ORD-20251055,2025-11-17,CUST-1063,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #80,519.52,1,0.2,22.65,26.69
+ORD-20251056,2025-11-17,CUST-1074,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #60,507.07,2,0.1,14.19,24.79
+ORD-20251057,2025-11-17,CUST-1046,Consumer,Asia-Pacific,Technology,Smartphones,Smartphones Pro #52,1865.15,5,0.2,-107.91,14.08
+ORD-20251058,2025-11-18,CUST-1243,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #78,1394.66,2,0.0,257.2,17.86
+ORD-20251059,2025-11-18,CUST-1243,Corporate,North America,Technology,Printers,Printers Pro #75,4054.11,5,0.0,1399.46,9.75
+ORD-20251060,2025-11-18,CUST-1221,Corporate,Latin America,Furniture,Chairs,Chairs Pro #54,1302.4,4,0.1,-45.95,34.0
+ORD-20251061,2025-11-19,CUST-1263,Corporate,North America,Furniture,Bookcases,Bookcases Pro #36,343.41,2,0.05,18.92,18.22
+ORD-20251062,2025-11-19,CUST-1174,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #38,1264.95,5,0.0,273.59,26.84
+ORD-20251063,2025-11-19,CUST-1299,Corporate,North America,Furniture,Chairs,Chairs Pro #94,1598.11,4,0.15,-150.7,42.26
+ORD-20251064,2025-11-20,CUST-1279,Consumer,North America,Office Supplies,Binders,Binders Pro #22,429.68,7,0.2,67.33,8.36
+ORD-20251065,2025-11-20,CUST-1015,Small Business,Europe,Office Supplies,Storage,Storage Pro #51,257.85,4,0.0,77.22,23.05
+ORD-20251066,2025-11-20,CUST-1132,Consumer,Europe,Furniture,Chairs,Chairs Pro #64,748.48,2,0.05,126.12,44.88
+ORD-20251067,2025-11-20,CUST-1025,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #15,1521.54,6,0.0,416.62,25.89
+ORD-20251068,2025-11-21,CUST-1266,Corporate,North America,Furniture,Bookcases,Bookcases Pro #20,3741.74,7,0.0,455.8,38.83
+ORD-20251069,2025-11-21,CUST-1279,Consumer,North America,Technology,Laptops,Laptops Pro #21,922.54,6,0.0,146.97,30.81
+ORD-20251070,2025-11-21,CUST-1081,Small Business,North America,Technology,Printers,Printers Pro #32,5669.73,8,0.0,1392.34,33.22
+ORD-20251071,2025-11-22,CUST-1053,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #30,996.91,2,0.15,-103.3,17.03
+ORD-20251072,2025-11-22,CUST-1145,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #93,974.2,3,0.0,299.34,21.68
+ORD-20251073,2025-11-22,CUST-1157,Corporate,Europe,Office Supplies,Paper,Paper Pro #81,163.36,2,0.2,49.78,14.09
+ORD-20251074,2025-11-23,CUST-1269,Corporate,Europe,Technology,Printers,Printers Pro #35,2860.23,3,0.0,698.09,29.91
+ORD-20251075,2025-11-23,CUST-1295,Corporate,North America,Office Supplies,Storage,Storage Pro #37,676.42,7,0.0,200.06,22.92
+ORD-20251076,2025-11-23,CUST-1099,Corporate,Europe,Technology,Laptops,Laptops Pro #23,2849.24,6,0.3,-232.18,24.74
+ORD-20251077,2025-11-23,CUST-1193,Small Business,Europe,Office Supplies,Paper,Paper Pro #44,214.42,3,0.2,17.03,40.74
+ORD-20251078,2025-11-24,CUST-1125,Consumer,North America,Furniture,Bookcases,Bookcases Pro #83,1607.94,5,0.05,273.98,42.96
+ORD-20251079,2025-11-24,CUST-1168,Consumer,North America,Furniture,Tables,Tables Pro #84,584.01,1,0.0,100.3,30.8
+ORD-20251080,2025-11-24,CUST-1209,Corporate,North America,Furniture,Bookcases,Bookcases Pro #33,492.73,1,0.0,102.01,16.55
+ORD-20251081,2025-11-25,CUST-1227,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #62,2801.61,4,0.05,405.44,29.04
+ORD-20251082,2025-11-25,CUST-1253,Consumer,Asia-Pacific,Office Supplies,Binders,Binders Pro #20,411.85,4,0.0,98.1,30.67
+ORD-20251083,2025-11-25,CUST-1156,Consumer,Latin America,Technology,Accessories,Accessories Pro #15,1131.74,2,0.1,149.5,35.38
+ORD-20251084,2025-11-26,CUST-1135,Consumer,North America,Furniture,Desks,Desks Pro #48,94.59,1,0.1,-5.23,16.36
+ORD-20251085,2025-11-26,CUST-1265,Consumer,Asia-Pacific,Technology,Laptops,Laptops Pro #82,976.11,6,0.05,210.42,26.01
+ORD-20251086,2025-11-26,CUST-1166,Corporate,Europe,Office Supplies,Paper,Paper Pro #65,751.2,8,0.05,222.2,39.12
+ORD-20251087,2025-11-26,CUST-1184,Corporate,North America,Furniture,Chairs,Chairs Pro #60,636.06,6,0.0,93.79,15.06
+ORD-20251088,2025-11-27,CUST-1006,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #51,1155.3,8,0.1,304.77,17.87
+ORD-20251089,2025-11-27,CUST-1050,Consumer,North America,Technology,Smartphones,Smartphones Pro #68,925.89,3,0.05,200.51,16.92
+ORD-20251090,2025-11-27,CUST-1112,Consumer,North America,Furniture,Bookcases,Bookcases Pro #72,1531.55,4,0.2,-11.79,30.58
+ORD-20251091,2025-11-28,CUST-1183,Small Business,North America,Technology,Laptops,Laptops Pro #79,969.27,1,0.0,209.38,27.31
+ORD-20251092,2025-11-28,CUST-1172,Corporate,Asia-Pacific,Furniture,Desks,Desks Pro #21,1036.26,4,0.15,-21.27,28.3
+ORD-20251093,2025-11-28,CUST-1090,Consumer,Asia-Pacific,Furniture,Desks,Desks Pro #26,4374.7,8,0.05,49.86,22.11
+ORD-20251094,2025-11-29,CUST-1145,Consumer,Europe,Technology,Accessories,Accessories Pro #72,5919.04,8,0.2,765.44,21.38
+ORD-20251095,2025-11-29,CUST-1022,Consumer,Europe,Technology,Smartphones,Smartphones Pro #36,2308.98,4,0.1,193.59,7.92
+ORD-20251096,2025-11-29,CUST-1289,Corporate,North America,Technology,Printers,Printers Pro #18,997.22,3,0.05,302.51,44.89
+ORD-20251097,2025-11-30,CUST-1190,Small Business,Europe,Furniture,Desks,Desks Pro #55,1039.24,2,0.0,113.65,41.24
+ORD-20251098,2025-11-30,CUST-1042,Small Business,Latin America,Technology,Printers,Printers Pro #54,3859.2,7,0.05,1211.22,27.15
+ORD-20251099,2025-11-30,CUST-1292,Consumer,North America,Office Supplies,Appliances,Appliances Pro #66,186.8,7,0.1,61.06,21.37
+ORD-20251100,2025-11-30,CUST-1200,Corporate,Asia-Pacific,Furniture,Tables,Tables Pro #74,509.42,4,0.0,73.76,13.34
+ORD-20251101,2025-12-01,CUST-1049,Consumer,Europe,Furniture,Desks,Desks Pro #18,2674.02,6,0.05,489.07,35.08
+ORD-20251102,2025-12-01,CUST-1100,Small Business,Europe,Technology,Printers,Printers Pro #17,4205.83,4,0.05,1268.95,5.26
+ORD-20251103,2025-12-01,CUST-1207,Consumer,North America,Technology,Smartphones,Smartphones Pro #88,1187.64,6,0.05,247.21,29.69
+ORD-20251104,2025-12-02,CUST-1100,Corporate,North America,Office Supplies,Paper,Paper Pro #59,95.94,1,0.15,25.88,11.72
+ORD-20251105,2025-12-02,CUST-1220,Consumer,Europe,Furniture,Desks,Desks Pro #43,831.25,2,0.05,82.3,44.35
+ORD-20251106,2025-12-02,CUST-1166,Small Business,Asia-Pacific,Furniture,Chairs,Chairs Pro #19,3763.7,7,0.05,342.39,22.84
+ORD-20251107,2025-12-03,CUST-1016,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #82,515.1,7,0.1,-0.54,8.97
+ORD-20251108,2025-12-03,CUST-1026,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #79,4049.72,7,0.05,1027.59,43.03
+ORD-20251109,2025-12-03,CUST-1280,Consumer,North America,Technology,Laptops,Laptops Pro #97,259.21,1,0.0,58.98,38.87
+ORD-20251110,2025-12-03,CUST-1255,Consumer,Latin America,Technology,Accessories,Accessories Pro #64,6009.97,6,0.0,1957.47,6.3
+ORD-20251111,2025-12-04,CUST-1216,Consumer,North America,Technology,Laptops,Laptops Pro #58,1298.62,7,0.15,112.71,18.05
+ORD-20251112,2025-12-04,CUST-1229,Small Business,North America,Technology,Smartphones,Smartphones Pro #74,6886.14,6,0.0,1829.62,42.98
+ORD-20251113,2025-12-04,CUST-1105,Small Business,Europe,Furniture,Desks,Desks Pro #18,1368.42,5,0.0,193.15,30.36
+ORD-20251114,2025-12-05,CUST-1143,Corporate,Asia-Pacific,Furniture,Chairs,Chairs Pro #46,179.71,1,0.05,29.37,13.99
+ORD-20251115,2025-12-05,CUST-1012,Corporate,North America,Technology,Printers,Printers Pro #50,3994.39,8,0.2,329.15,39.71
+ORD-20251116,2025-12-05,CUST-1148,Consumer,North America,Furniture,Desks,Desks Pro #28,1507.3,4,0.1,-32.13,12.31
+ORD-20251117,2025-12-06,CUST-1052,Consumer,North America,Office Supplies,Paper,Paper Pro #46,741.39,8,0.0,195.02,30.83
+ORD-20251118,2025-12-06,CUST-1153,Small Business,North America,Furniture,Chairs,Chairs Pro #70,405.68,5,0.0,92.39,31.72
+ORD-20251119,2025-12-06,CUST-1271,Consumer,North America,Furniture,Desks,Desks Pro #55,2644.1,8,0.0,300.13,31.77
+ORD-20251120,2025-12-07,CUST-1072,Corporate,North America,Technology,Accessories,Accessories Pro #74,505.88,1,0.0,158.78,11.93
+ORD-20251121,2025-12-07,CUST-1121,Consumer,Europe,Office Supplies,Paper,Paper Pro #48,311.27,6,0.0,127.41,42.69
+ORD-20251122,2025-12-07,CUST-1246,Consumer,North America,Technology,Smartphones,Smartphones Pro #31,1978.09,3,0.15,299.91,9.72
+ORD-20251123,2025-12-07,CUST-1202,Consumer,Europe,Furniture,Tables,Tables Pro #18,1620.95,4,0.05,45.98,9.27
+ORD-20251124,2025-12-08,CUST-1079,Corporate,Europe,Technology,Laptops,Laptops Pro #46,261.77,1,0.0,90.01,7.39
+ORD-20251125,2025-12-08,CUST-1015,Corporate,Latin America,Office Supplies,Art,Art Pro #78,431.59,7,0.05,165.21,39.75
+ORD-20251126,2025-12-08,CUST-1221,Consumer,North America,Furniture,Desks,Desks Pro #84,1119.35,2,0.05,167.77,39.29
+ORD-20251127,2025-12-09,CUST-1231,Consumer,Europe,Technology,Smartphones,Smartphones Pro #85,5216.12,8,0.05,1160.47,23.41
+ORD-20251128,2025-12-09,CUST-1016,Small Business,Europe,Technology,Smartphones,Smartphones Pro #90,3933.23,5,0.05,1114.56,34.08
+ORD-20251129,2025-12-09,CUST-1134,Small Business,North America,Technology,Accessories,Accessories Pro #61,2883.8,5,0.2,-107.98,19.98
+ORD-20251130,2025-12-10,CUST-1293,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #39,1823.69,8,0.0,389.99,39.22
+ORD-20251131,2025-12-10,CUST-1097,Consumer,Asia-Pacific,Furniture,Chairs,Chairs Pro #97,114.41,1,0.0,10.66,17.5
+ORD-20251132,2025-12-10,CUST-1078,Corporate,Europe,Furniture,Desks,Desks Pro #84,1117.68,4,0.05,111.49,38.69
+ORD-20251133,2025-12-10,CUST-1012,Consumer,Europe,Office Supplies,Binders,Binders Pro #23,65.71,3,0.05,12.21,29.37
+ORD-20251134,2025-12-11,CUST-1270,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #70,6376.07,8,0.15,322.18,21.81
+ORD-20251135,2025-12-11,CUST-1054,Corporate,North America,Furniture,Chairs,Chairs Pro #54,611.31,7,0.2,-24.23,24.23
+ORD-20251136,2025-12-11,CUST-1297,Consumer,North America,Office Supplies,Storage,Storage Pro #84,114.66,1,0.0,46.6,41.24
+ORD-20251137,2025-12-12,CUST-1030,Corporate,North America,Technology,Printers,Printers Pro #43,1015.25,1,0.05,290.42,33.1
+ORD-20251138,2025-12-12,CUST-1227,Consumer,Europe,Furniture,Desks,Desks Pro #47,3931.22,7,0.0,494.43,41.51
+ORD-20251139,2025-12-12,CUST-1182,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #61,950.09,3,0.0,317.84,40.75
+ORD-20251140,2025-12-13,CUST-1136,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #79,4188.9,8,0.05,115.29,15.15
+ORD-20251141,2025-12-13,CUST-1260,Corporate,North America,Technology,Laptops,Laptops Pro #48,873.36,1,0.15,155.17,25.71
+ORD-20251142,2025-12-13,CUST-1133,Small Business,Europe,Furniture,Bookcases,Bookcases Pro #71,1369.36,7,0.0,217.67,39.79
+ORD-20251143,2025-12-13,CUST-1145,Corporate,North America,Furniture,Desks,Desks Pro #19,169.53,1,0.2,5.3,31.82
+ORD-20251144,2025-12-14,CUST-1012,Corporate,Latin America,Technology,Printers,Printers Pro #66,625.76,1,0.05,126.51,10.98
+ORD-20251145,2025-12-14,CUST-1096,Consumer,Asia-Pacific,Technology,Accessories,Accessories Pro #95,1495.57,3,0.15,256.3,42.81
+ORD-20251146,2025-12-14,CUST-1285,Small Business,North America,Office Supplies,Storage,Storage Pro #50,158.48,2,0.1,58.3,19.73
+ORD-20251147,2025-12-15,CUST-1164,Consumer,North America,Technology,Smartphones,Smartphones Pro #83,1232.71,5,0.15,189.87,44.53
+ORD-20251148,2025-12-15,CUST-1163,Consumer,Europe,Technology,Laptops,Laptops Pro #24,2609.33,7,0.1,302.66,6.94
+ORD-20251149,2025-12-15,CUST-1241,Consumer,North America,Technology,Smartphones,Smartphones Pro #23,1532.23,3,0.3,-171.88,43.54
+ORD-20251150,2025-12-16,CUST-1014,Consumer,Europe,Technology,Smartphones,Smartphones Pro #18,5050.61,5,0.0,1763.82,20.26
+ORD-20251151,2025-12-16,CUST-1245,Small Business,North America,Furniture,Tables,Tables Pro #55,2476.81,7,0.15,263.89,6.6
+ORD-20251152,2025-12-16,CUST-1142,Consumer,Europe,Furniture,Tables,Tables Pro #15,2301.5,5,0.0,570.47,40.0
+ORD-20251153,2025-12-17,CUST-1118,Corporate,North America,Technology,Accessories,Accessories Pro #19,1914.16,3,0.1,230.68,30.66
+ORD-20251154,2025-12-17,CUST-1288,Consumer,North America,Furniture,Chairs,Chairs Pro #30,3826.17,8,0.15,25.93,22.57
+ORD-20251155,2025-12-17,CUST-1203,Corporate,North America,Technology,Smartphones,Smartphones Pro #95,4879.73,5,0.05,923.7,39.05
+ORD-20251156,2025-12-17,CUST-1289,Consumer,North America,Furniture,Desks,Desks Pro #19,920.41,7,0.2,-101.26,32.53
+ORD-20251157,2025-12-18,CUST-1086,Small Business,Asia-Pacific,Technology,Printers,Printers Pro #31,976.0,6,0.05,240.56,18.87
+ORD-20251158,2025-12-18,CUST-1286,Consumer,Asia-Pacific,Furniture,Tables,Tables Pro #38,2073.01,7,0.0,448.62,42.72
+ORD-20251159,2025-12-18,CUST-1241,Corporate,Europe,Technology,Accessories,Accessories Pro #72,6159.23,6,0.0,1862.31,26.36
+ORD-20251160,2025-12-19,CUST-1212,Corporate,North America,Furniture,Chairs,Chairs Pro #20,1440.05,8,0.05,102.69,28.72
+ORD-20251161,2025-12-19,CUST-1117,Consumer,North America,Technology,Accessories,Accessories Pro #92,815.51,1,0.0,215.15,18.03
+ORD-20251162,2025-12-19,CUST-1157,Corporate,Latin America,Furniture,Desks,Desks Pro #56,946.26,4,0.1,-39.35,12.55
+ORD-20251163,2025-12-20,CUST-1227,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #78,2726.85,4,0.15,525.79,44.52
+ORD-20251164,2025-12-20,CUST-1030,Consumer,Europe,Technology,Printers,Printers Pro #73,9582.88,8,0.0,1783.56,16.0
+ORD-20251165,2025-12-20,CUST-1150,Consumer,North America,Technology,Smartphones,Smartphones Pro #96,8575.97,8,0.05,1418.95,9.08
+ORD-20251166,2025-12-20,CUST-1261,Consumer,Europe,Technology,Printers,Printers Pro #74,482.65,3,0.0,133.84,16.94
+ORD-20251167,2025-12-21,CUST-1230,Corporate,Asia-Pacific,Technology,Laptops,Laptops Pro #71,4006.16,7,0.1,706.69,5.77
+ORD-20251168,2025-12-21,CUST-1132,Consumer,Europe,Furniture,Chairs,Chairs Pro #47,1225.17,5,0.0,297.17,18.86
+ORD-20251169,2025-12-21,CUST-1202,Small Business,Asia-Pacific,Office Supplies,Art,Art Pro #17,53.43,1,0.0,21.76,6.36
+ORD-20251170,2025-12-22,CUST-1274,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #22,1377.87,4,0.2,-187.92,15.58
+ORD-20251171,2025-12-22,CUST-1121,Corporate,Asia-Pacific,Technology,Accessories,Accessories Pro #60,3040.45,5,0.0,482.95,35.62
+ORD-20251172,2025-12-22,CUST-1275,Corporate,Asia-Pacific,Technology,Smartphones,Smartphones Pro #62,5014.06,7,0.1,331.37,14.02
+ORD-20251173,2025-12-23,CUST-1212,Consumer,Europe,Office Supplies,Art,Art Pro #11,377.54,8,0.0,154.25,21.41
+ORD-20251174,2025-12-23,CUST-1131,Consumer,North America,Furniture,Bookcases,Bookcases Pro #55,1451.71,8,0.2,-164.92,44.51
+ORD-20251175,2025-12-23,CUST-1148,Corporate,Asia-Pacific,Technology,Printers,Printers Pro #72,539.43,2,0.1,130.46,31.57
+ORD-20251176,2025-12-24,CUST-1052,Corporate,Europe,Office Supplies,Art,Art Pro #12,159.23,8,0.0,69.47,22.7
+ORD-20251177,2025-12-24,CUST-1016,Consumer,Asia-Pacific,Office Supplies,Art,Art Pro #68,348.18,4,0.05,70.06,17.51
+ORD-20251178,2025-12-24,CUST-1017,Consumer,Asia-Pacific,Technology,Printers,Printers Pro #76,2208.88,4,0.0,716.39,43.06
+ORD-20251179,2025-12-24,CUST-1267,Consumer,North America,Office Supplies,Paper,Paper Pro #69,29.37,2,0.05,6.75,36.97
+ORD-20251180,2025-12-25,CUST-1214,Small Business,North America,Office Supplies,Binders,Binders Pro #56,370.24,7,0.0,75.67,35.1
+ORD-20251181,2025-12-25,CUST-1037,Small Business,Europe,Technology,Smartphones,Smartphones Pro #21,7681.35,8,0.15,437.12,22.32
+ORD-20251182,2025-12-25,CUST-1048,Small Business,North America,Furniture,Desks,Desks Pro #67,1117.6,4,0.0,125.93,5.74
+ORD-20251183,2025-12-26,CUST-1052,Consumer,North America,Furniture,Desks,Desks Pro #31,3717.24,7,0.1,87.77,17.47
+ORD-20251184,2025-12-26,CUST-1022,Corporate,North America,Furniture,Tables,Tables Pro #79,1727.36,5,0.05,53.56,40.25
+ORD-20251185,2025-12-26,CUST-1142,Consumer,Europe,Furniture,Bookcases,Bookcases Pro #50,272.93,1,0.05,6.87,7.91
+ORD-20251186,2025-12-27,CUST-1192,Consumer,Europe,Office Supplies,Storage,Storage Pro #55,255.35,3,0.1,65.98,15.4
+ORD-20251187,2025-12-27,CUST-1058,Small Business,Europe,Technology,Laptops,Laptops Pro #93,4072.64,5,0.05,435.35,12.71
+ORD-20251188,2025-12-27,CUST-1296,Consumer,Latin America,Office Supplies,Binders,Binders Pro #43,867.57,8,0.0,343.95,26.8
+ORD-20251189,2025-12-27,CUST-1038,Consumer,Europe,Office Supplies,Art,Art Pro #41,327.8,7,0.2,1.82,11.97
+ORD-20251190,2025-12-28,CUST-1086,Consumer,North America,Office Supplies,Appliances,Appliances Pro #48,380.72,8,0.2,36.54,39.77
+ORD-20251191,2025-12-28,CUST-1283,Consumer,North America,Technology,Accessories,Accessories Pro #84,780.75,1,0.1,88.91,38.94
+ORD-20251192,2025-12-28,CUST-1115,Small Business,North America,Furniture,Chairs,Chairs Pro #90,314.97,2,0.1,25.19,17.58
+ORD-20251193,2025-12-29,CUST-1270,Consumer,Europe,Technology,Printers,Printers Pro #93,7585.51,7,0.0,2162.78,27.94
+ORD-20251194,2025-12-29,CUST-1284,Corporate,Asia-Pacific,Office Supplies,Art,Art Pro #27,164.33,8,0.3,-3.08,24.59
+ORD-20251195,2025-12-29,CUST-1077,Corporate,Europe,Office Supplies,Appliances,Appliances Pro #63,275.92,4,0.0,115.87,9.37
+ORD-20251196,2025-12-30,CUST-1160,Corporate,Europe,Furniture,Bookcases,Bookcases Pro #76,1128.38,2,0.0,137.99,11.96
+ORD-20251197,2025-12-30,CUST-1070,Corporate,North America,Office Supplies,Appliances,Appliances Pro #71,118.14,7,0.0,30.01,27.82
+ORD-20251198,2025-12-30,CUST-1231,Corporate,North America,Office Supplies,Paper,Paper Pro #60,85.01,4,0.15,7.99,19.0
+ORD-20251199,2025-12-31,CUST-1245,Corporate,North America,Furniture,Tables,Tables Pro #21,2050.55,8,0.0,287.91,7.92
